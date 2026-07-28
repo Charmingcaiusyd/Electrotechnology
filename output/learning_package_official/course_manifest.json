@@ -1,0 +1,46 @@
+{
+  "title": "Electrotechnology Practical Study - ??? 3000 Question Bank",
+  "status": "official_official_student_practice_release",
+  "generated_on": "2026-07-26",
+  "source_inventory": "source_inventory.json",
+  "outputs": {
+    "html_question_bank": "html/question_bank.html",
+    "all_questions_json": "exports/all_questions.json",
+    "original_questions_json": "original_questions/original_questions_by_module.json",
+    "self_review_metrics": "audit/self_review_metrics.json",
+    "optimization_report": "audit/self_review_recommendations.md",
+    "deepseek_rewrite_report": "audit/deepseek_rewrite_report.md",
+    "deepseek_rewrite_audit": "audit/deepseek_rewrite_audit.json"
+  },
+  "question_bank": {
+    "module_questions": 2800,
+    "per_module": 280,
+    "final_exam_questions": 200,
+    "total_questions": 3000
+  },
+  "quality_checks": {
+    "exact_duplicate_questions_after_pass": 0,
+    "mc_answer_key_invalid": 0,
+    "mc_all_have_six_options": true,
+    "generic_safety_concepts_in_detailed_tags": 0,
+    "source_domain_mismatch_possible_before_official": 87,
+    "unresolved_source_domain_mismatch_flags": 0,
+    "deepseek_rewritten": 87,
+    "fallback_rewritten": 0,
+    "duplicate_variants_resolved": 4
+  },
+  "quality_changes": [
+    "Added answer_key and answer_text to multiple-choice questions.",
+    "Rewrote duplicate prompts as scenario variants.",
+    "Replaced broad distractors with module-specific distractors.",
+    "Added primary_knowledge_point inferred from question text.",
+    "Moved global safety note out of detailed knowledge-point tags.",
+    "Added source review flags for generated questions with weak source alignment.",
+    "Rebuilt HTML viewer with pagination, test mode and answer toggles.",
+    "Rewrote source-domain mismatch questions with DeepSeek.",
+    "Resolved exact duplicate prompts introduced by the rewrite pass."
+  ],
+  "official_package": true,
+  "official_package_path": "D:\\Backup\\Documents\\EC\\output\\learning_package_official",
+  "previous_output_versions_removed": true
+}

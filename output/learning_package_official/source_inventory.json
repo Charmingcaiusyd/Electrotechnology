@@ -1,0 +1,14 @@
+{
+  "official_official_package": {
+    "path": "D:\\Backup\\Documents\\EC\\output\\learning_package_official",
+    "exists": true
+  },
+  "official_html_question_bank": {
+    "path": "D:\\Backup\\Documents\\EC\\output\\learning_package_official\\html\\question_bank.html",
+    "exists": true
+  },
+  "all_questions_export": "D:\\Backup\\Documents\\EC\\output\\learning_package_official\\exports\\all_questions.json",
+  "module_question_banks": "D:\\Backup\\Documents\\EC\\output\\learning_package_official\\modules",
+  "final_exam": "D:\\Backup\\Documents\\EC\\output\\learning_package_official\\assessments\\final_exam.json",
+  "student_facing_status": "??? is the only retained output version under D:\\Backup\\Documents\\EC\\output."
+}

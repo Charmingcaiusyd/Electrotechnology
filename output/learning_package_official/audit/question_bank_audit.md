@@ -1,0 +1,46 @@
+# Official Question Bank Audit
+
+This audit reflects the Official semantic rewrite pass.
+
+```json
+{
+  "total": 3000,
+  "by_module": {
+    "S1": 300,
+    "S10": 300,
+    "S2": 300,
+    "S3": 300,
+    "S4": 300,
+    "S5": 300,
+    "S6": 300,
+    "S7": 300,
+    "S8": 300,
+    "S9": 300
+  },
+  "by_type": {
+    "fault_finding": 431,
+    "multiple_choice": 1046,
+    "scenario": 963,
+    "short_answer": 560
+  },
+  "flagged_questions_before_rewrite": 87,
+  "deepseek_rewritten": 87,
+  "fallback_rewritten": 0,
+  "resolved_source_flags": 87,
+  "unresolved_source_domain_mismatch_flags": 0,
+  "mismatch_terms_remaining_in_rewritten_questions": 0,
+  "exact_duplicate_questions": 0,
+  "duplicate_variants_resolved": 4,
+  "multiple_choice": {
+    "count": 1046,
+    "all_have_six_options": true,
+    "answer_key_invalid": 0
+  },
+  "missing_fields": {},
+  "rewrite_model_used": {
+    "deepseek-chat": 85,
+    "deepseek-v4-pro": 2
+  },
+  "cache_path": "D:\\Backup\\Documents\\CAD\\deepseek_official_rewrite_cache.json"
+}
+```

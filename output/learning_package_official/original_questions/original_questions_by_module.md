@@ -1,0 +1,571 @@
+# Original PDF Questions Extracted
+
+## S1
+
+- `ORIG-S1-P7-RQ1` p.7: What is meant by the term ‘risk management’?
+- `ORIG-S1-P7-RQ2` p.7: What are the specific elements of a risk management course of action?
+- `ORIG-S1-P7-RQ3` p.7: What is the aim of a risk analysis process?
+- `ORIG-S1-P7-RQ4` p.7: The following response options: Evade the risk by determining not to proceed with the task; Reduce the likelihood of the consequences; Reduce the effects – how are they referred to?
+- `ORIG-S1-P7-RQ5` p.7: Why should all elements of a risk management process be documented?
+- `ORIG-S1-P7-RQ6` p.7: When a task has been completed, why is it essential that the effectiveness of the course of action plan is reviewed?
+- `ORIG-S1-P10-RQ1` p.10: State the definition of a ‘hazard’.
+- `ORIG-S1-P10-RQ2` p.10: State the definition of ‘risk’.
+- `ORIG-S1-P10-RQ3` p.10: How are hazards identified?
+- `ORIG-S1-P10-RQ4` p.10: When assessing risk, what important criteria must be noted?
+- `ORIG-S1-P10-RQ5` p.10: What is the purpose of a hazard identification process?
+- `ORIG-S1-P10-RQ6` p.10: Is the lifting of heavy electrical components an electrical hazard or a non-electrical hazard?
+- `ORIG-S1-P10-RQ7` p.10: What are two examples of a confined space?
+- `ORIG-S1-P10-RQ8` p.10: What are three hazards to be aware of when carrying out maintenance or breakdown electrical work?
+- `ORIG-S1-P10-RQ9` p.10: What is the ‘hierarchy of control’?
+- `ORIG-S1-P10-RQ10` p.10: What is an example of a PPE control? Low voltage is defined as voltage exceeding
+- `ORIG-S1-P10-RQ11` p.10: V rms ac or 120 V dc but not exceeding 1000 V rms or 1500 V dc. It is possible that some electricians believe that low-voltage contact is less hazardous than high-voltage contact. They may believe that an error made in working on a live low- voltage system means only an arc flash combined with the operation of the circuit protection device. This perception is incorrect. Several factors make ‘live’ low-voltage equipment hazardous. One of these factors is the small creepage and clearances between low-voltage terminations when using tools or test instruments (see Figure 2.7). (Note: A training person must be 1000 mm away from an exposed live part if with a trained person.) Low-voltage installations or systems hazards Typical sources of low-voltage hazards that, by themselves or grouped with other hazard sources, could lead to electric shock and injury include: • voltages between phases • voltages between phases and earth – during single phase to earth faults, significant-sized voltages can exist between an unearthed metallic pipe and the general mass of earth • live exposed conductors • voltages between live exposed conductors and conductive materials • voltages across undischarged capacitors • voltages on disconnected conductors – mainly neutrals and unused conductors that have not been physically removed from service • induced voltages – due to electromagnetic coupling • exposed live conductors • multiple-supply sources • high impedance neutral (MEN system) • electrical testing – typical and in damp situations and hazardous areas • circuits inadvertently becoming live – omission of safety tags and lockouts • circuits with insulation damage – lack of mechanical protection. A low-voltage circuit is not de-energised until it has been placed into an electrically safe work condition. This means that the circuit must be: • tested for voltage presence • isolated from energised parts • locked • tagged • tested again to ensure absence of voltage • operation of tester is confirmed. For dc-powered equipment, although the voltage levels are usually not hazardous, energy hazards (>5 joules) may still exist. Exposed – conductive part Clearance Creepage
+- `ORIG-S1-P10-RQ12` p.10: kA for domestic installations to over
+- `ORIG-S1-P10-RQ13` p.10: kA for commercial or industrial installations because of the distribution transformers and cable parameters feeding the installation. There are three categories of common electrical hazards: electric shock, arcing and toxic gases associated with the arcing hazard.
+- `ORIG-S1-P11-RQ1` p.11: Define the term ‘low-voltage’.
+- `ORIG-S1-P11-RQ2` p.11: What is meant by the term ‘creepage’?
+- `ORIG-S1-P11-RQ3` p.11: What are electric shock, arcing and toxic gases categories of?
+- `ORIG-S1-P12-RQ1` p.12: What is the term given to two light waves that have their crests and troughs aligned with each other?
+- `ORIG-S1-P12-RQ2` p.12: What is the outcome of collimating or focusing a specific wavelength of light?
+- `ORIG-S1-P12-RQ3` p.12: On what is laser classification based?
+- `ORIG-S1-P12-RQ4` p.12: In what units is the term ‘accessible emission limit’ measured?
+- `ORIG-S1-P12-RQ5` p.12: Lasers used in a worksite must conform to Australian standards and should only be used if precautions are followed. What are these precautions?
+- `ORIG-S1-P14-RQ1` p.14: Where can asbestos be found in some premises?
+- `ORIG-S1-P14-RQ2` p.14: What does biosoluble mean?
+- `ORIG-S1-P14-RQ3` p.14: What type of material is similar to asbestos?
+- `ORIG-S1-P14-RQ4` p.14: State one method used to control emissions of silica dust.
+- `ORIG-S1-P14-RQ5` p.14: Name one type of work activity that results in wood dust.
+- `ORIG-S1-P14-RQ6` p.14: Where can legionella bacterium occur?
+- `ORIG-S1-P14-RQ7` p.14: How can infection from bird droppings occur?
+- `ORIG-S1-P14-RQ8` p.14: Describe a serious hazard when working with fibre optics.
+- `ORIG-S1-P15-RQ1` p.15: Why are lockout, isolation and tagging procedures established?
+- `ORIG-S1-P15-RQ2` p.15: Name two devices used to indicate that electrical maintenance is being carried out.
+- `ORIG-S1-P15-RQ3` p.15: The personal danger tag and an out-of-service tag inform the electrician of a certain condition. What is the condition?
+- `ORIG-S1-P15-RQ4` p.15: Who should apply lockout and tagout devices?
+- `ORIG-S1-P15-RQ5` p.15: State two application procedures that can be used when installing lockout or tagging devices.
+- `ORIG-S1-P15-RQ6` p.15: What should be done once verification of isolation has occurred?
+- `ORIG-S1-P15-RQ7` p.15: What does the procedure of proving that every contact on the load side that feeds the load is indeed not activated communicate to an electrician?
+- `ORIG-S1-P19-RQ1` p.19: Upon what factor will the magnitude of the fault current flowing to ground depend?
+- `ORIG-S1-P19-RQ2` p.19: Define the term ‘step potential’.
+- `ORIG-S1-P19-RQ3` p.19: What is the hazardous voltage a person could encounter when coming into contact with a live exposed conductive part called?
+- `ORIG-S1-P19-RQ4` p.19: Distinguish two kinds of hazardous contact.
+- `ORIG-S1-P19-RQ5` p.19: Describe the term ‘direct contact’.
+- `ORIG-S1-P19-RQ6` p.19: What is the degree of protection against electric shock equivalent to that of double insulation called?
+- `ORIG-S1-P19-RQ7` p.19: List four exposed metal fittings that may require equipotential bonding.
+- `ORIG-S1-P19-RQ8` p.19: What documentation is needed before work on, near, or associated with, high voltage is carried out?
+- `ORIG-S1-P19-RQ9` p.19: What is the purpose of a switching schedule sheet?
+- `ORIG-S1-P19-RQ10` p.19: State three procedures that the designated person should do before energising a high-voltage system.
+- `ORIG-S1-P19-RQ11` p.19: What is the clearance of the exclusion zone for an instructed person near exposed parts of a high- voltage system?
+- `ORIG-S1-P21-RQ1` p.21: Before beginning to measure the electrical quantities of an electric circuit or item of equipment, an electrician should go over the basics. What are the basics?
+- `ORIG-S1-P21-RQ2` p.21: Define the four energy levels.
+- `ORIG-S1-P21-RQ3` p.21: What is the category for a testing device suitable for measurements in relation to consumer’s mains, power consumption meters and off-peak switching devices?
+- `ORIG-S1-P21-RQ4` p.21: How should all test equipment be stored and maintained?
+- `ORIG-S1-P21-RQ5` p.21: What do the two numerals stand for with the IP rating system?
+- `ORIG-S1-P21-RQ6` p.21: What does IP35 mean?
+- `ORIG-S1-P21-EXERCISE 2.1` p.21: Using Figure 2.30, determine the IP ratings necessary for an enclosure which must provide protection against a 4.0 mm solid object and from vertically falling drops of water.
+- `ORIG-S1-P26-RQ1` p.26: Upon what electrical parameter do the effects of alternating current on a person depend?
+- `ORIG-S1-P26-RQ2` p.26: What is the most common exit point for current flowing out of a person?
+- `ORIG-S1-P26-RQ3` p.26: What is the most common entry point for current into a person?
+- `ORIG-S1-P26-RQ4` p.26: What kind of device is designed to protect human life from electric shock?
+- `ORIG-S1-P26-RQ5` p.26: Name two severe hazards associated with the use of high-energy capacitors.
+- `ORIG-S1-P26-RQ6` p.26: What is the only kind of protection in relation to capacitors?
+- `ORIG-S1-P26-RQ7` p.26: Name three events that can cause an arc fault.
+- `ORIG-S1-P26-RQ8` p.26: Name three places that should be marked with a clearly visible warning label to notify service personnel of potential electric arc flash hazards.
+- `ORIG-S1-P26-RQ9` p.26: What type of analysis needs to be done to determine the type of protective clothing required before a person can work near energised equipment?
+- `ORIG-S1-P26-RQ10` p.26: What does a flash hazard analysis (exposure level) determine about what needs to be done before a person can work near energised equipment?
+- `ORIG-S1-P28-RQ1` p.28: Name two types of construction work that is carried out with all kinds of buildings and structures.
+- `ORIG-S1-P28-RQ2` p.28: What class of work is construction work and work done in conjunction with construction work?
+- `ORIG-S1-P28-RQ3` p.28: State two items that a comprehensive electrical testing record-keeping system must include.
+- `ORIG-S1-P28-RQ4` p.28: Extension leads used on any portable electrical equipment on a construction site must be of a particular type. What is it? CHAPTER REVIEW
+
+## S2
+
+- `ORIG-S2-P32-EXERCISE 3.8` p.32: Determine the micrometer measurement in Figure 3.45.
+- `ORIG-S2-P33-RQ1` p.33: What tool is used to measure items that are flat or straight?
+- `ORIG-S2-P33-RQ2` p.33: Describe what is meant by the term ‘parallax error’.
+- `ORIG-S2-P33-RQ3` p.33: What tool is the workshop standard for ‘squareness’?
+- `ORIG-S2-P33-RQ4` p.33: Name the tool used for marking out circles?
+- `ORIG-S2-P33-RQ5` p.33: What does the term ‘datum’ mean?
+- `ORIG-S2-P33-RQ6` p.33: When would a micrometer be used?
+- `ORIG-S2-P33-RQ7` p.33: What type of measuring tool uses the combination of two different scales to provide a measurement?
+- `ORIG-S2-P33-EXERCISE 3.9` p.33: Determine the vernier measurement in Figure 3.48.
+- `ORIG-S2-P38-RQ1` p.38: What type of hacksaw blade would be used to cut
+- `ORIG-S2-P38-RQ2` p.38: mm thick sheet metal?
+- `ORIG-S2-P38-RQ3` p.38: What is the point angle of a cold chisel for cutting soft metals?
+- `ORIG-S2-P38-RQ4` p.38: What is the maximum size of sheet metal that can be cut with tin snips?
+- `ORIG-S2-P38-RQ5` p.38: Name the tool used to cut round steel rods and soft bolts?
+- `ORIG-S2-P38-RQ6` p.38: At what height should a machine vice be installed?
+- `ORIG-S2-P38-RQ7` p.38: What is a buttress thread?
+- `ORIG-S2-P38-RQ8` p.38: What type of jaws are used to prevent marking occurring when working on a piece using a bench vice?
+- `ORIG-S2-P38-RQ9` p.38: Where would a machine vice be used?
+- `ORIG-S2-P38-RQ10` p.38: How is a hand file measured?
+- `ORIG-S2-P38-RQ11` p.38: Name two file grades of cut.
+- `ORIG-S2-P38-RQ12` p.38: State the purpose of a file handle.
+- `ORIG-S2-P38-RQ13` p.38: How is clogging removed from the teeth of a file?
+- `ORIG-S2-P38-RQ14` p.38: State the purpose of glass paper when working on electric motors.
+- `ORIG-S2-P38-RQ15` p.38: Describe one safety rule that can help prevent hazards associated with the use of holding and cutting tools.
+- `ORIG-S2-P40-RQ1` p.40: Name two types of sheet metals.
+- `ORIG-S2-P40-RQ2` p.40: Name three types of fasteners that can be used to fix sheet metal.
+- `ORIG-S2-P41-RQ1` p.41: Name two types of twist drills.
+- `ORIG-S2-P41-RQ2` p.41: What is the purpose of a ‘fly cutter’?
+- `ORIG-S2-P42-EXERCISE 3.10` p.42: Use Table 3.5 to determine the tap drill size for: a an M12 × 1.25 thread b an M12 × 1.75 thread c an M27 × 3 thread Taps Taper Intermediate Plug Alignment of tap with hole Engineer square Tee Tap wrenches Bar Square section Shank
+- `ORIG-S2-P43-RQ1` p.43: Name three types of thread-cutting taps.
+- `ORIG-S2-P43-RQ2` p.43: What does M5 × 0.8 mean on a threading tap?
+- `ORIG-S2-P43-RQ3` p.43: Name the type of die used to clean rusted and damaged threads.
+- `ORIG-S2-P43-RQ4` p.43: What type of tool is used to remove a broken bolt?
+- `ORIG-S2-P46-RQ1` p.46: Name the tool used for shrinking ‘heat shrink’?
+- `ORIG-S2-P46-RQ2` p.46: When grinding, at what angle should the disc be maintained?
+- `ORIG-S2-P46-RQ3` p.46: What is a grinding wheel made of?
+- `ORIG-S2-P46-RQ4` p.46: What is the purpose of a ‘ring test’ on a grinding wheel?
+- `ORIG-S2-P50-RQ1` p.50: Name the two main types of screwdrivers.
+- `ORIG-S2-P50-RQ2` p.50: What type of cable termination provides a metal-to- metal bond?
+- `ORIG-S2-P50-RQ3` p.50: Name two types of spanners.
+- `ORIG-S2-P50-RQ4` p.50: How should the jaws of a puller be aligned?
+- `ORIG-S2-P50-RQ5` p.50: How are Allen keys measured?
+- `ORIG-S2-P50-RQ6` p.50: State the primary objective for dismantling.
+- `ORIG-S2-P50-RQ7` p.50: With electrical and electronic equipment and materials, what factor results in their disposal problems?
+- `ORIG-S2-P52-RQ1` p.52: Explain the difference between soft soldering and hard soldering.
+- `ORIG-S2-P52-RQ2` p.52: List three common fuel gases that can be used for soft and hard soldering.
+- `ORIG-S2-P52-RQ3` p.52: Why is MIG welding a simple process when compared with other forms of welding? CHAPTER REVIEW
+
+## S3
+
+- `ORIG-S3-P58-EXERCISE 4.1` p.58: Determine the size of a fixing hole diameter for an M10 expanding sleeve anchor. The tip of the sleeve anchor must overhang out from the bottom of the anchor to ensure proper expansion. In hard masonry, a short sleeve may be suitable for maximum holding power. In softer masonry, more sleeves provide superior holding strength. Multiple short sleeves increase the friction force mechanism used by most expansion anchors to resist tension loads. Sleeve anchors are used to fasten electrical equipment such as motors or switchboards to the floor but are also used on walls and concrete ceilings. It is the diameter of the anchor that determines its loading capacity when supporting a load fixed vertica
+- `ORIG-S3-P59-RQ1` p.59: Name four factors to consider when selecting an attachment device.
+- `ORIG-S3-P59-RQ2` p.59: Which fastener is the most common, practical metal device for joining two pieces of timber together?
+- `ORIG-S3-P59-RQ3` p.59: What are masonry screws and where are they used?
+- `ORIG-S3-P59-RQ4` p.59: How are plastic expansion plugs installed?
+- `ORIG-S3-P59-RQ5` p.59: What is a chemical anchor?
+- `ORIG-S3-P60-RQ1` p.60: Describe the construction of a stud frame wall.
+- `ORIG-S3-P60-RQ2` p.60: What are two applications for threaded plaster board anchors?
+- `ORIG-S3-P60-RQ3` p.60: What is the holding strength for a winged wallboard anchor?
+- `ORIG-S3-P60-RQ4` p.60: Which wallboard anchor is the strongest?
+- `ORIG-S3-P60-RQ5` p.60: Which wallboard anchor has anti-rotation teeth to prevent the fixing from spinning?
+- `ORIG-S3-P65-RQ1` p.65: What are the requirements for operators of powder- actuated fasteners?
+- `ORIG-S3-P65-RQ2` p.65: Describe the physical properties of a pan head screw.
+- `ORIG-S3-P65-RQ3` p.65: Name four types of bolt.
+- `ORIG-S3-P65-RQ4` p.65: What is the function of a washer?
+- `ORIG-S3-P65-RQ5` p.65: What is the function of a key?
+- `ORIG-S3-P65-RQ6` p.65: What is the function of a cotter pin?
+- `ORIG-S3-P65-RQ7` p.65: Which device is used in assemblies where parts must be accurately positioned and held in complete relation to one another?
+- `ORIG-S3-P65-RQ8` p.65: What tool is needed to install or remove a retaining ring? Choosing what fixing to use can be confusing, but it comes down to two main factors:
+- `ORIG-S3-P65-RQ9` p.65: the weight of the equipment that you want them to support
+- `ORIG-S3-P65-RQ10` p.65: the type of wall, floor and ceiling material. Load rating of fixings The load ratings of fixings are expressed in kilograms (kg) or newtons (N) as either static load limit or ultimate static load limit.
+- `ORIG-S3-P65-RQ11` p.65: kilogram (mass) = 9.8 newtons (force) Static loads are any loads that remain in a stationary position for extended periods of time. By contrast, static load limit is a rated stationary load limit for a fixing and integrates a substantial safety margin which is a factor of 4:1 (sometimes 5:1). For example, if a fixing must carry a load of
+- `ORIG-S3-P65-RQ12` p.65: kg the fixing used is designed to carry
+- `ORIG-S3-P65-RQ13` p.65: kg. Ultimate static load limit is the highest rated stationary load limit (the number of kilo newtons per square millimetre) allowed which, if exceeded, may cause failure of the fixing. As a rule of thumb, in order to find out how many fixings you’ll need to a load, divide the total weight of the load by the static load rating of the fixing. There are two other expressions of loads – shear and tensile. Shear loads are created when the weight of the fixed equipment exerts force parallel to the surface of the base material, while tensile loads are created when the fixed equipment exerts force perpendicular to the base material, for example, a ceiling surface to which a suspended load is attached. Always determine the weight of suspended loads before attaching to a ceiling fixing. With the equipment that is suspended in exterior locations the effects of shock loading must be considered. Shock loading is the magnification of the stationary weight of the material. Wind and seismic forces can impose several times the stationary weight. Therefore, both the fixing and the structure to which the fixing is attached must be capable of supporting several times the weight of the suspended equipment. Reference should be made to a structural engineer for interpretation before proceeding with any suspension of the material. Installing electrical equipment properly begins with understanding how the walls and ceilings of structures are built. There are different methods and fixings that are designed for the various types of walls and ceilings.
+- `ORIG-S3-P68-RQ1` p.68: Describe the term ‘static loads’.
+- `ORIG-S3-P68-RQ2` p.68: A certain load has a mass of
+- `ORIG-S3-P68-RQ3` p.68: kg. What rating of fixing is required to support this load taking into account the applicable safety margin of 4:1?
+- `ORIG-S3-P68-RQ4` p.68: What are the two considerations when selecting a fixing?
+- `ORIG-S3-P68-RQ5` p.68: Why is the installation environment a consideration in the selection of a fixing?
+- `ORIG-S3-P68-RQ6` p.68: What fixings are suitable for installation in plasterboard?
+- `ORIG-S3-P68-RQ7` p.68: What type of anchor is particularly suited for use close to the edge of concrete?
+- `ORIG-S3-P68-RQ8` p.68: What support is suggested for cable trunking, trays and skirting ducts ≤100 mm wide?
+- `ORIG-S3-P68-RQ9` p.68: Which cable ties are suitable for external installations?
+- `ORIG-S3-P71-RQ1` p.71: What type of substance is capable of holding materials together by surface attachment?
+- `ORIG-S3-P71-RQ2` p.71: What is the difference between adhesive forces and cohesive forces?
+- `ORIG-S3-P71-RQ3` p.71: Provide two advantages of double-sided tapes.
+- `ORIG-S3-P71-RQ4` p.71: What are epoxy adhesives known for?
+- `ORIG-S3-P71-RQ5` p.71: What electrical accessory may be fixed with hot- melt adhesive?
+- `ORIG-S3-P71-RQ6` p.71: Name the adhesive that can be used as thread lockers, retaining compounds and as gasket compounds?
+- `ORIG-S3-P71-RQ7` p.71: Provide a list of four hazards associated with adhesives.
+- `ORIG-S3-P71-RQ8` p.71: State two limitations for adhesives.
+- `ORIG-S3-P71-RQ9` p.71: What is self-amalgamating tape used for?
+- `ORIG-S3-P72-RQ1` p.72: Name five assets included under the broad term of heritage.
+- `ORIG-S3-P72-RQ2` p.72: What does ‘heritage’ provide society with?
+- `ORIG-S3-P72-RQ3` p.72: Why is it important to give our heritage assets protected status?
+- `ORIG-S3-P72-RQ4` p.72: Name two regulatory controls that a person must have knowledge of if working on heritage assets.
+- `ORIG-S3-P72-RQ5` p.72: List four principles that would be implemented by an electrical business which is environmentally and heritage aware. CHAPTER REVIEW
+
+## S4
+
+- `ORIG-S4-P75-RQ1` p.75: The position of a building on the site requires setting out. What does this mean?
+- `ORIG-S4-P75-RQ2` p.75: What type of plan enables the electrical installer to coordinate with other services?
+- `ORIG-S4-P75-RQ3` p.75: How is the load supported by a brick veneer construction?
+- `ORIG-S4-P75-RQ4` p.75: Where must conduit carrying underground consumer’s mains enter a brick veneer construction (in some jurisdictions)?
+- `ORIG-S4-P75-RQ5` p.75: When must TPS cable require mechanical protection if installed within the exterior of the interior of a lining surface?
+- `ORIG-S4-P75-RQ6` p.75: State the maximum diameter hole that can be drilled through timber members in order to install TPS wiring.
+- `ORIG-S4-P75-RQ7` p.75: In a timber floor construction where TPS cable is installed, how close to the floorboards can the TPS cable be clipped?
+- `ORIG-S4-P75-RQ8` p.75: Can TPS cable be fixed to the bottom cord if within
+- `ORIG-S4-P75-RQ9` p.75: mm of the ceiling lining surface?
+- `ORIG-S4-P75-RQ10` p.75: List in order five stages of building construction.
+- `ORIG-S4-P75-RQ11` p.75: What type of plan displays the outside shape of a building and the arrangement and shape of the rooms?
+- `ORIG-S4-P78-EXERCISE 5.5` p.78: Use a scaled ruler to help answer the questions for the floor plan shown in Figure 5.28. Scale is 1:200. Bed 1 Bed 2 Ens WIR Bed 3 Bed 4 Lounge Scale 1:200 WC Bath Laundry Kitchen Living Games
+- `ORIG-S4-P79-EXERCISE 5.6` p.79: a Using the floor plan template of Figure 5.31, produce a lighting diagram. Insert the symbols for the switches and luminaires. Draw in the connecting lines to their appropriate switches. Include a compact fluorescent luminaire in each room space and one fluorescent tube luminaire in the kitchen. A spotlight is required for the washing machine and a luminaire fixed to the outside wall is to the right-hand side of the sliding doors. Each room space must have its luminaire controlled by a wall switch located on the latch portion of the entrance to the room space. A two-way switch is installed in the laundry area opposite the entrance and near the bedroom door. b Using the floor plan template o
+- `ORIG-S4-P81-EXERCISE 5.7` p.81: Write the grid reference for the location of the electrotechnical symbols in Figure 5.35 in the Table provided. Floodlight Electrical heater Hot water system Main switchboard Multi-phase socket outlet 15A plug socket Intermediate switch Two-way switch One-way switch A 15A 3 Letter No. Letter No. 2 HW M S B 15A B C D E F G H I J K L M N O P Q R S T 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 Electric clock Exhaust fan Wall telephone outlet Telecommunications outlet Fluorescent luminaire 1 lamp Fluorescent luminaire 2 lamps Multiple socket outlet Socket outlet Point of attachment 31
+- `ORIG-S4-P82-RQ1` p.82: What are ‘symbols’?
+- `ORIG-S4-P82-RQ2` p.82: What is a scale drawing?
+- `ORIG-S4-P82-RQ3` p.82: Where is the scale frequently noted on the drawing?
+- `ORIG-S4-P82-RQ4` p.82: What type of schedule ensures that the installation is supplied with all the equipment required?
+- `ORIG-S4-P85-EXERCISE 5.8` p.85: Using Figure 5.42, determine the power and lighting layout using electrotechnical symbols. Lights: Bedroom 1 Bedroom 3 Bedroom 2 Dining Lounge Kitchen Bathroom
+- `ORIG-S4-P86-EXERCISE 5.9` p.86: Using Figure 5.43, draw the line diagrams for looping at the switch lighting circuits. One way Two way Two way 1 intermediate
+- `ORIG-S4-P87-EXERCISE 5.10` p.87: From the single-line layout diagram in Figure 5.44, answer the following questions: a How many single-pole (SP) circuit breakers are installed on the main switchboard? b How many triple-pole (TP) circuit breakers are installed on the main switchboard? c What is the current rating of the main circuit breaker? d How many light circuits are supplied from the main switchboard? e How many circuits are protected by an RCD? f What type of circuit does ‘P9’ supply? Batten holder A N Load Load One way Block diagram Supply Protection Control Single conductors (building wire) Active Circuit breaker Protection device Pictorial diagram Compact ﬂuorescent Single-pole switch Earth Neutral Protection device
+- `ORIG-S4-P87-EXERCISE 5.11` p.87: A single-phase domestic installation has the following load. • 18 – lighting points • 15 – double 10 A socket outlets • 1 – 15 A socket outlet • 1 – 7.8 kW free-standing range @ 240 V • 1 – 4.8 kW quick recovery water heater @ 240 V The installation consists of five circuits, all circuits protected by combination RCD/MCB. Develop a single-line diagram of the installation.
+- `ORIG-S4-P88-EXERCISE 5.12` p.88: Calculate the route length of each lighting circuit in the location diagram shown in Figure 5.48 and develop a cable schedule (scale 1 mm in the diagram = 100 mm right size). T 1 E TPS 1.5 mm2 ﬂat M S B Scale: 1:100 Circuit 1 CB1 Circuit 2 CB2
+- `ORIG-S4-P89-RQ1` p.89: What is the purpose of a block diagram?
+- `ORIG-S4-P89-RQ2` p.89: On what plan should underground feeder cables be accurately recorded?
+- `ORIG-S4-P89-RQ3` p.89: What type of diagram is a simplified notation for representing a power system?
+- `ORIG-S4-P89-RQ4` p.89: Name the type of diagram that shows by means of single lines and circuit symbols the flow of electric power or the sequence of operation of the circuit.
+- `ORIG-S4-P89-RQ5` p.89: Name the type of detailed diagram of a circuit showing all of the conductors and where they are connected, connectors, links, bars and electrical devices of the circuit.
+- `ORIG-S4-P95-EXERCISE 5.13` p.95: Using the floor plan illustrated in Figure 5.66, insert the number of lighting fixtures that can be connected to one individual branch circuit for each room on the floor plan. All control switches are of a pushbutton design. • Room 1: 2 × 36 W T8 wire guard fluorescent batten (2 required) • Room 2: 2 × 36 W T8 wire guard fluorescent batten (2 required) • Room 3: 2 × 36 W fluorescent batten with electronic ballast (4 required) two way + inter required. • Room 4: LED down-lighting with a 60° wide flood beam angle for general illumination 15.5 W 4000 K, 700 lumens 30 000 hr (15 required) 3 switches required • Room 5: LED down-light 6 W using an LED globe in warm white 3000 K (240 lumens) 40 000
+- `ORIG-S4-P96-EXERCISE 5.14` p.96: Convert the circuit diagram in Figure 5.67 to the wiring diagram using loop at the light method. Circuit diagram Feed E L T2 T1 C L 1 2
+- `ORIG-S4-P100-RQ1` p.100: Draw a circuit diagram showing the looping at the light method for a one-way lighting circuit.
+- `ORIG-S4-P100-RQ2` p.100: Draw a circuit diagram for a looping at the light method of wiring for a two-way circuit.
+- `ORIG-S4-P100-RQ3` p.100: Draw a circuit diagram for a looping at the light method of wiring a two-way circuit including master on and master off switching.
+- `ORIG-S4-P100-RQ4` p.100: Using Figure 5.74, create a topographical electrical diagram for the installation. Include TV and telephone symbols.
+
+## S5
+
+- `ORIG-S5-P108-RQ1` p.108: How is the meaning of a symbol defined?
+- `ORIG-S5-P108-RQ2` p.108: Name the two types of reed relays.
+- `ORIG-S5-P108-RQ3` p.108: To ensure that the contacts remain latched, coils require a … ?
+- `ORIG-S5-P108-RQ4` p.108: State the main influencing factor limiting a relay’s service life.
+- `ORIG-S5-P108-RQ5` p.108: What could a supplementary feature for a relay be?
+- `ORIG-S5-P108-RQ6` p.108: Where are labels placed on wires?
+- `ORIG-S5-P108-RQ7` p.108: State the essential contact specifications when selecting electromechanical relays.
+- `ORIG-S5-P108-RQ8` p.108: What type of instrument is used to test the armature arm switching?
+- `ORIG-S5-P108-RQ9` p.108: State the difference between a control relay and a timer relay.
+- `ORIG-S5-P108-RQ10` p.108: Describe the operation of an off-delay relay.
+- `ORIG-S5-P108-RQ11` p.108: Name a function where a timed function is useful.
+- `ORIG-S5-P114-RQ1` p.114: What type of diagram can involve two circuits either separate or together?
+- `ORIG-S5-P114-RQ2` p.114: How can distinguishing of control or power circuit diagrams be achieved?
+- `ORIG-S5-P114-RQ3` p.114: How are contact numbers (K1.1) placed in the circuit diagram?
+- `ORIG-S5-P114-RQ4` p.114: Where should line numbers for vertical circuit diagram orientation start?
+- `ORIG-S5-P114-RQ5` p.114: When referencing line numbers for timer contacts what superscript should be used?
+- `ORIG-S5-P114-RQ6` p.114: What system provides knowledge of the number of conductors that connect the devices in a circuit?
+- `ORIG-S5-P114-RQ7` p.114: Name the device that has two states – NO and NC.
+- `ORIG-S5-P114-RQ8` p.114: An energised green indicator lamp usually indicates what type of circuit state?
+- `ORIG-S5-P114-RQ9` p.114: Design a horizontal orientation control circuit diagram using the following circuit description: • Include line numbers, wire number, and contact locations. • When pushbutton S1 is pressed relay K1 will energise and latch. • Once energised K1 causes an indicator lamp (L1) to illuminate. • When pushbutton S2 is pressed relay K2 energises and latches. • Once energised relay K2 will cause an indicator lamp (L2) to illuminate and turn off relay K1 and indicator lamp L1. • Pushbutton S3 de-energises the control circuit.
+- `ORIG-S5-P115-EXERCISE 6.1` p.115: An underground tunnel requires a 230 V lighting circuit to be controlled externally. A STOP/START station is to be used to control two lights. When the START button is pressed, the control relay energises and its associated contacts change state. A green indicator lamp is now ON, and the red indicator lamp is OFF. Two lamps in the tunnel are now ON. When the STOP button is pressed, the contacts return to their resting state; the red indicator lamp is ON, and the green indicator lamp OFF and the lamps in the tunnel are also OFF. Draw a circuit diagram using the horizontal orientation for this process.
+- `ORIG-S5-P119-RQ1` p.119: What type of device is a momentary or latching action contact control device used to open and close a set of contacts manually?
+- `ORIG-S5-P119-RQ2` p.119: Why do some machines have lockable control switches?
+- `ORIG-S5-P119-RQ3` p.119: How are all start contacts of remote start–stop stations connected?
+- `ORIG-S5-P119-RQ4` p.119: In relation to a machinery stop button, how is the emergency stop button wired?
+- `ORIG-S5-P119-RQ5` p.119: What is meant by the term ‘two-wire control’?
+- `ORIG-S5-P119-RQ6` p.119: Describe a make-before-break (MBB) switch.
+- `ORIG-S5-P119-RQ7` p.119: State the function of a limit switch.
+- `ORIG-S5-P119-RQ8` p.119: What is an application for a pressure switch?
+- `ORIG-S5-P119-RQ9` p.119: What type of circuit does a dead-man switch provide?
+- `ORIG-S5-P119-RQ10` p.119: What is the device used for side-by-side interlocking of two contactors?
+- `ORIG-S5-P125-RQ1` p.125: What type of circuit do auxiliary contacts control?
+- `ORIG-S5-P125-RQ2` p.125: What is the meaning of the term ‘latched’?
+- `ORIG-S5-P125-RQ3` p.125: When does maximum impedance occur with an ac contactor?
+- `ORIG-S5-P125-RQ4` p.125: State the purpose of the shading ring which is embedded in the armature surface of an ac contactor.
+- `ORIG-S5-P125-RQ5` p.125: State the action that a coil drive device performs.
+- `ORIG-S5-P125-RQ6` p.125: How are contactors and contactor relays selected?
+- `ORIG-S5-P125-RQ7` p.125: Why is it sometimes preferable to use a dc-type electromagnet?
+- `ORIG-S5-P125-RQ8` p.125: What is a typical application of a contactor having a utilisation category of AC-4?
+- `ORIG-S5-P125-RQ9` p.125: What is the purpose of an operation counter? Jogging describes the repeated starting and stopping of machinery at frequent intervals for any short periods of time necessary for obtaining limited movement. The electric motor would be jogged when a piece of driven machinery has to be positioned accurately, for example, when positioning the hook of a hoist during a lifting set-up. A jogging function can make use of a pushbutton changeover switch with a normally closed and a normally open switch configuration. The circuit diagram of a jogging circuit is shown in Figure 6.58. The circuit uses both the K1.1 contact and the changeover switch (break-before-make) to provide the electrical hold-in when used as a regular stop–start control. When the jogging pushbutton is pressed, contact K1.1 is isolated, and the start pushbutton is bypassed. When the jog pushbutton is released coil K1/5 de-energises and contact K1.1 opens. The jog circuit allows coil K1/5 to be energised when the jog pushbutton is pressed. The jog switch only bypasses the holding contact, allowing power to energise the coil for a brief period (i.e. for as long as you hold the switch down). Jogging is a capability where a motor runs only while the operator has their finger on the jog button. When the button is pressed, the motor runs, and as soon as the button is released the motor stops. Always avoid excessive use of jogging since it may cause reduced contactor life and motor overheating. Relay jogging control A jogging relay eliminates the problem of the interlock contacts making connection before the NC contact of the make-before-break switch reconnects. In the relay jogging circuit of Figure 6.59, it is the control relay coil and not the contactor coil that provides the interlocking contacts. The jog pushbutton energises the contactor coil (K1) for the motor, but not the control relay (CR). The start pushbutton (S1) is used to energise the control relay. When energised the CR relay contacts provide connection to the contactor coil. N
+- `ORIG-S5-P125-RQ10` p.125: ON indicator lamp F1 S1 S2 S3 JOG TOL K1.1
+- `ORIG-S5-P125-RQ11` p.125: FIGURE 6.58 Jogging circuit using a changeover switch
+- `ORIG-S5-P126-RQ1` p.126: What is the function of ‘jogging’ control?
+- `ORIG-S5-P126-RQ2` p.126: What type of switch does a jogging function make use of?
+- `ORIG-S5-P126-RQ3` p.126: What is the advantage of using a relay in jogging control?
+- `ORIG-S5-P126-RQ4` p.126: State the purpose of two-hand control.
+- `ORIG-S5-P131-RQ1` p.131: What type of device is used to suppress the voltage transient created by the collapsing magnetic field of the coil?
+- `ORIG-S5-P131-RQ2` p.131: Describe a suppressor diode.
+- `ORIG-S5-P131-RQ3` p.131: What type of device converts energy of one kind into energy of another kind?
+- `ORIG-S5-P131-RQ4` p.131: List five applications for transducers.
+- `ORIG-S5-P131-RQ5` p.131: Describe the difference between the sensor and an actuator.
+- `ORIG-S5-P131-RQ6` p.131: Name the device that produces an electrical signal when a physical substance passes through their sensor field.
+- `ORIG-S5-P131-RQ7` p.131: Name three proximity switches.
+- `ORIG-S5-P131-RQ8` p.131: Describe the operation of a photoelectric switch.
+- `ORIG-S5-P131-RQ9` p.131: State an application for a limit switch.
+- `ORIG-S5-P131-RQ10` p.131: Describe the construction of a thermocouple.
+- `ORIG-S5-P131-RQ11` p.131: State the two types of thermistors.
+- `ORIG-S5-P131-RQ12` p.131: What kind of device converts angular speed to some other form of usable signal?
+
+## S6
+
+- `ORIG-S6-P133-EXERCISE 6.2` p.133: Calculate the synchronous speed of a four-pole induction motor operating at a supply frequency of 60 Hz. The expanding rotating magnetic field passes through the air gap between the stator and the rotor and cuts the stationary rotor conductors. Owing to the synchronous speed between the rotating magnetic flux and the stationary rotor an electromotive force (emf) is induced in the rotor conductors. Because the rotor conductors are short-circuited, currents start flowing in these conductors. These currents create a rotor magnetic field which interacts with the stator magnetic field. Subsequently a mechanical force acts on each of the rotor conductors. The summation of the mechanical forces on 
+- `ORIG-S6-P141-RQ1` p.141: Calculate the synchronous speed of a six-pole induction motor operating at a supply frequency of
+- `ORIG-S6-P141-RQ2` p.141: Name the two drawing conventions used for setting out motor starter circuit diagrams.
+- `ORIG-S6-P141-RQ3` p.141: Draw a contactor-controlled DOL starter with electronic overload protection configuration using a horizontal layout.
+- `ORIG-S6-P141-RQ4` p.141: What is the major disadvantage of starting a large motor DOL?
+- `ORIG-S6-P141-RQ5` p.141: Draw a star–delta starter control and power circuit using a horizontal layout.
+- `ORIG-S6-P141-RQ6` p.141: Draw an autotransformer starter control and power circuit using a horizontal layout.
+- `ORIG-S6-P141-RQ7` p.141: Draw a primary resistance starter control and power circuit using a horizontal layout.
+- `ORIG-S6-P141-RQ8` p.141: Name the two types of resistors used with primary resistance starters.
+- `ORIG-S6-P141-RQ9` p.141: What type of starter adds resistance to the rotor circuit of a wound-rotor motor? Methods of braking Braking is essentially the removal of stored kinetic energy in the form of motion from a motor-mechanical load. When the motor and attached load is brought up to speed, energy drawn from the supply is converted and stored as motion. To stop motion, the kinetic energy stored in the motor-load combination must be removed. The braking methods that are applied to motor-load combinations convert the kinetic energy into heat. Braking provides a means of stopping an ac motor and can be accomplished in several ways. Electromechanical brake The electromechanical brake applies a braking force directly to the brake disc mounted on the motor shaft as shown in Figure 6.101. Electromechanical-actuated friction brakes convert the kinetic energy into heat energy by pushing a friction disc via solenoid action against rotating or moving parts to stop the rotor. Therefore without friction-generating components such as a drum, disc and shoe lining material the motor shaft cannot be stopped. The armature of the electromagnet opposes the force of the spring when voltage is applied to the solenoid. The energised solenoid releases the brake and lets the rotor shaft freely rotate. When power is removed, the spring energises the brake and holds the load. Many hoisting systems rely solely upon the electromechanical brakes to stop the motor shaft movement when an emergency condition such as loss of power occurs. All emergency brakes are electromechanical. Dynamic braking Dynamic braking, also called dc injection braking, utilises the ability of the ac drive motor to act as a generator. Disconnecting the ac feed to the stator and injecting direct current across any pair of stator terminals obtains this effect. The injection of direct current into the stator windings creates a stationary dc magnetic field within the stator, and the kinetic energy of the revolving rotor is dissipated into the rotor cage by generator action. When the rotor, via its motion, cuts the magnetic field of the stator an emf is induced across the rotor bars.
+- `ORIG-S6-P144-RQ1` p.144: With induction motors what is meant by the term ‘braking’?
+- `ORIG-S6-P144-RQ2` p.144: What type of device has a brake disc mounted on a motor shaft?
+- `ORIG-S6-P144-RQ3` p.144: Give another name for dynamic braking.
+- `ORIG-S6-P144-RQ4` p.144: Which method of braking is the simplest and quickest?
+- `ORIG-S6-P144-RQ5` p.144: What type of braking is an extension of dynamic braking?
+- `ORIG-S6-P144-RQ6` p.144: Explain how to reverse the direction of rotation of a three-phase induction motor.
+- `ORIG-S6-P145-EXERCISE 6.3` p.145: Calculate the torque produced by a 2.3 kW induction motor having a shaft speed of 1450 rpm. 250 200 150 100 0 0 25 50 % Synchronous speed % Full-load torque FLT 75 100
+- `ORIG-S6-P149-RQ1` p.149: Calculate the torque produced by a 2.8 kW induction motor having a shaft speed of 1430 rpm.
+- `ORIG-S6-P149-RQ2` p.149: State the principle on which all reduced-voltage starters operate.
+- `ORIG-S6-P149-RQ3` p.149: Name the starter that is a full-voltage-across-the- line starter.
+- `ORIG-S6-P149-RQ4` p.149: List the standard tappings for an autotransformer starter.
+- `ORIG-S6-P149-RQ5` p.149: What starter allows approximately 60% of line voltage to be connected across the motor terminals at starting?
+- `ORIG-S6-P149-RQ6` p.149: What is meant by the term ‘slip’?
+- `ORIG-S6-P149-RQ7` p.149: What is the purpose of variable-frequency drives?
+- `ORIG-S6-P149-RQ8` p.149: Name the type of motor that can have its speed varied by changing the stator winding pole connections to create a different pole configuration.
+- `ORIG-S6-P150-RQ1` p.150: What does knowledge of electrical symbols and their relationship to the components in a wiring diagram enable?
+- `ORIG-S6-P150-RQ2` p.150: Using the wiring diagram of a DOL starter in Figure 6.116, develop a control circuit ladder diagram.
+- `ORIG-S6-P150-RQ3` p.150: Using the wiring diagram of a reversing motor starter in Figure 6.117, develop a control circuit ladder diagram.
+- `ORIG-S6-P154-RQ1` p.154: List six faults that could exist in a power and control circuit.
+- `ORIG-S6-P154-RQ2` p.154: In what type of circuit condition, for the purpose of electrical safety, should fault-finding be undertaken?
+- `ORIG-S6-P154-RQ3` p.154: When fault-finding, what senses should be used? CHAPTER REVIEW
+
+## S7
+
+- `ORIG-S7-P164-RQ1` p.164: Name the two most common conductors used by electricians.
+- `ORIG-S7-P164-RQ2` p.164: What is the symbol for resistivity?
+- `ORIG-S7-P164-RQ3` p.164: Calculate the resistance of a copper conductor
+- `ORIG-S7-P164-RQ4` p.164: m in length if it has a CSA of 1.0 mm2. The resistivity of copper is 1.72 × 10−8 Ωm. Note: 1.0 mm2 =
+- `ORIG-S7-P164-RQ5` p.164: Which of the two materials, copper and aluminium, has the greater resistance for cables having the same dimensions?
+- `ORIG-S7-P164-RQ6` p.164: State the nominal minimum CSA of a copper aerial conductor.
+- `ORIG-S7-P164-RQ7` p.164: State one advantage aluminium has over copper as a conductor material.
+- `ORIG-S7-P164-RQ8` p.164: Which conductor expands more – copper or aluminium – for a given temperature rise?
+- `ORIG-S7-P164-RQ9` p.164: How can the problem of creep be resolved in aluminium conductors?
+- `ORIG-S7-P164-RQ10` p.164: Why are annealed copper conductors used in stranded form?
+- `ORIG-S7-P164-RQ11` p.164: What are wire strands of any number twisted together in the same direction without regard to the geometric arrangement referred to as?
+- `ORIG-S7-P164-RQ12` p.164: Name one type of wire grouping.
+- `ORIG-S7-P164-RQ13` p.164: What are the consequences if a conductor that is too small for the load current passing through it is used?
+- `ORIG-S7-P164-RQ14` p.164: Name two types of conductor terminations.
+- `ORIG-S7-P164-RQ15` p.164: What is the purpose of millivolt testing on terminations?
+- `ORIG-S7-P164-RQ16` p.164: List the essential characteristics of solder.
+- `ORIG-S7-P164-RQ17` p.164: What is a eutectic alloy?
+- `ORIG-S7-P164-RQ18` p.164: What is oxidation?
+- `ORIG-S7-P164-RQ19` p.164: State an important factor in thermal transfer for soldering with lead-free solders.
+- `ORIG-S7-P164-RQ20` p.164: What is an ideal method for inspecting terminations of critical electrical equipment?
+- `ORIG-S7-P164-RQ21` p.164: State the differences between joins, taps and splices.
+- `ORIG-S7-P169-RQ1` p.169: State the customary colour code used to identify cable cores.
+- `ORIG-S7-P169-RQ2` p.169: What is the common name for synthetic polymers?
+- `ORIG-S7-P169-RQ3` p.169: Name two advantages of cross-linking to improve insulation performance.
+- `ORIG-S7-P169-RQ4` p.169: Give the meaning of the insulation abbreviation ‘V–90’.
+- `ORIG-S7-P169-RQ5` p.169: What does the abbreviation ‘PVC’ mean?
+- `ORIG-S7-P169-RQ6` p.169: What type of insulation filler is hygroscopic?
+- `ORIG-S7-P169-RQ7` p.169: For a definite load demand, which conductor is of smaller diameter: copper or aluminium?
+- `ORIG-S7-P169-RQ8` p.169: State the properties that determine the insulation value of the material.
+- `ORIG-S7-P169-RQ9` p.169: What is the purpose of cable fillers?
+- `ORIG-S7-P169-RQ10` p.169: What type of dielectric materials are poor conductors of electricity?
+- `ORIG-S7-P169-RQ11` p.169: What is the purpose of serving on a cable?
+- `ORIG-S7-P169-RQ12` p.169: Provide the meaning of 450/750 V when referring to cable insulation.
+- `ORIG-S7-P169-RQ13` p.169: Give the standard insulation colours for fixed cables.
+- `ORIG-S7-P169-RQ14` p.169: When can flexible cords be used as exposed fixed wiring?
+- `ORIG-S7-P172-RQ1` p.172: Which pin is the longer in a three-pin
+- `ORIG-S7-P172-RQ2` p.172: State the purpose of the protective skirt around a cord extension socket.
+- `ORIG-S7-P172-RQ3` p.172: List three visual checks that must be performed to ensure the mechanical safety of a plug top and cord extension socket.
+- `ORIG-S7-P172-RQ4` p.172: List three electrical checks that must be performed to ensure the electrical safety of a plug top and cord extension socket.
+- `ORIG-S7-P172-RQ5` p.172: What electrical tests are performed by an appliance tester?
+- `ORIG-S7-P173-RQ1` p.173: What is the central consideration in the selection of a wiring system?
+- `ORIG-S7-P173-RQ2` p.173: State six factors that affect wiring systems.
+- `ORIG-S7-P173-RQ3` p.173: Give the meaning of the alphanumerical code WS 34.
+- `ORIG-S7-P173-RQ4` p.173: What are possible installation methods for electrical cables?
+- `ORIG-S7-P178-RQ1` p.178: Name the four classes of cables used for installation work.
+- `ORIG-S7-P178-RQ2` p.178: What does the 750 V mean with single-core annealed copper/PVC building wire?
+- `ORIG-S7-P178-RQ3` p.178: Which types of cables are suitable for consumer’s mains, sub-mains and final sub-circuits?
+- `ORIG-S7-P178-RQ4` p.178: Referring to Table
+- `ORIG-S7-P178-RQ5` p.178: of AS/NZS 3008.1.1, what is the current-carrying capacity of a 1.5 mm2 copper twin plus earth V–90 TPS lighting circuit cable when partially surrounded by thermal insulation?
+- `ORIG-S7-P178-RQ6` p.178: What temperature rating is recommended for the current-carrying capacity calculation of TPS cable?
+- `ORIG-S7-P178-RQ7` p.178: Why is the current-carrying capacity of a cable reduced when it is installed in thermal insulation?
+- `ORIG-S7-P178-RQ8` p.178: Name the type of switch which operates in all active conductors and is connected in a separate final sub-circuit?
+- `ORIG-S7-P186-RQ1` p.186: What type of enclosure can easily accommodate new circuits?
+- `ORIG-S7-P186-RQ2` p.186: How should trunking greater than 100 mm wide be fixed in place?
+- `ORIG-S7-P186-RQ3` p.186: Why should cables be installed in trunking neatly and systematically?
+- `ORIG-S7-P186-RQ4` p.186: How is electrical continuity maintained at each trunking joint?
+- `ORIG-S7-P186-RQ5` p.186: What type of trunking system is suitable for many new buildings, particularly those with open plans?
+- `ORIG-S7-P186-RQ6` p.186: Provide two advantages of an in-floor trunking system.
+- `ORIG-S7-P186-RQ7` p.186: What is the advantage of using a slotted trunking?
+- `ORIG-S7-P186-RQ8` p.186: In multi-compartment trunking, which cabling system is placed in the bottom compartment?
+- `ORIG-S7-P186-RQ9` p.186: Name the type of trunking that must be electrically continuous and earthed at one end.
+- `ORIG-S7-P186-RQ10` p.186: What happens if cable trays are overfilled?
+- `ORIG-S7-P186-RQ11` p.186: State the maximum deflection allowance for trays fixed to steel brackets and hangers when fully loaded and with consideration to future installation of cables.
+- `ORIG-S7-P186-RQ12` p.186: What type of cable support system provides the maximum free flow of air, dissipating heat produced in current-carrying conductors?
+- `ORIG-S7-P186-RQ13` p.186: What type of cable tray provides for the maximum free flow of air thereby dissipating heat produced in conductors?
+- `ORIG-S7-P186-RQ14` p.186: Where MIMS cables are used, what additional requirements are applicable when cable tray or ladder is used as the support system?
+
+## S8
+
+- `ORIG-S8-P190-RQ1` p.190: What does a risk assessment provide?
+- `ORIG-S8-P190-RQ2` p.190: What is provided by correct isolation and lockout?
+- `ORIG-S8-P190-RQ3` p.190: Which Category rating should electrical instruments have as a minimum?
+- `ORIG-S8-P191-RQ1` p.191: of AS/NZS 3000 establish?
+- `ORIG-S8-P191-RQ2` p.191: When are electrical tests and inspections carried out on an electrical installation?
+- `ORIG-S8-P191-RQ3` p.191: For domestic installations time span is recommended for periodic inspections?
+- `ORIG-S8-P191-RQ4` p.191: What are three standard test elements for a periodic inspection of a low-voltage installation?
+- `ORIG-S8-P191-RQ5` p.191: Why are electrical installations inspected and tested?
+- `ORIG-S8-P193-RQ1` p.193: Which fault-finding method involves dividing the system into functional blocks?
+- `ORIG-S8-P193-RQ2` p.193: Which of the fault-finding techniques involves testing at the start of the system and testing until the fault is located?
+- `ORIG-S8-P193-RQ3` p.193: What is an application of a cable fault locator?
+- `ORIG-S8-P194-RQ1` p.194: Which Australian standard outlines various testing processes to ensure compliance with AS/NZS 3000:2018 Wiring rules?
+- `ORIG-S8-P194-RQ2` p.194: What would a thorough inspection of an electrical installation prevent?
+- `ORIG-S8-P205-EXERCISE 11.1` p.205: The resistance between a joined active and associated circuit earth measured 1.15 Ω. The length of the circuit is 60 m and it comprises 2.5 mm2 conductors supplying socket outlets. If the circuit is protected by a 20 A type C circuit breaker, determine from Table 3.2 of AS/NZS 3017:2007 if the circuit satisfies the requirements for fault-loop impedance.
+- `ORIG-S8-P206-EXERCISE 11.2` p.206: The route length of a circuit comprising 2.5 mm2 conductors supplying socket outlets is 30 m. If the circuit is protected by a 20 A type C circuit breaker, determine from Table B1 of AS/NZS 3000:2018 if the circuit satisfies the requirements for fault-loop impedance based on length.
+- `ORIG-S8-P207-RQ1` p.207: Which instrument is used for verifying earth resistance and continuity?
+- `ORIG-S8-P207-RQ2` p.207: What is the purpose of earth continuity tests?
+- `ORIG-S8-P207-RQ3` p.207: What is the purpose of an insulation resistance test?
+- `ORIG-S8-P207-RQ4` p.207: What is the minimum permissible value for insulation resistance?
+- `ORIG-S8-P207-RQ5` p.207: Why is a polarity test regarded as vital?
+- `ORIG-S8-P207-RQ6` p.207: Why is it necessary to test for correct circuit connections?
+- `ORIG-S8-P207-RQ7` p.207: What is the purpose of the earth-fault-loop impedance test?
+- `ORIG-S8-P207-RQ8` p.207: Outline the likely effect of having high fault-loop impedance.
+- `ORIG-S8-P207-RQ9` p.207: How is the operation of an RCD verified when supply is available?
+- `ORIG-S8-P207-RQ10` p.207: Which all-in-one instrument is used to test portable appliances?
+- `ORIG-S8-P209-RQ1` p.209: What is essential for effective earthing systems?
+- `ORIG-S8-P209-RQ2` p.209: Which instruments are suitable for measuring the resistance between the main earth electrode and the surrounding soil?
+- `ORIG-S8-P209-RQ3` p.209: A three-terminal fall of potential test measured a potential difference of
+- `ORIG-S8-P209-RQ4` p.209: volts and a current of
+
+## S9
+
+- `ORIG-S9-P220-EXERCISE 7.1` p.220: A 32 mm conduit has to be bent around a 180 mm flange. Using Table 7.8, determine the minimum bending radius for the conduit. A hotbox, shown in Figure 7.87, using the oven principle heats the conduit and softens it so that it can be bent to the desired shape. Before heating the section of conduit, plug both ends to trap air in the conduit. The air, heated in the hotbox, expands to prevent kinks or dislocation of the conduit when it is bent.
+- `ORIG-S9-P227-RQ1` p.227: What do wiring enclosures provide?
+- `ORIG-S9-P227-RQ2` p.227: Name four types of wiring enclosures that can be used for the protection of cables.
+- `ORIG-S9-P227-RQ3` p.227: State the standard Australian finished lengths of UPVC conduit.
+- `ORIG-S9-P227-RQ4` p.227: When bending UPVC conduit, state the minimum radius required.
+- `ORIG-S9-P227-RQ5` p.227: How are joints in UPVC conduit fixed?
+- `ORIG-S9-P227-RQ6` p.227: What must be worn when cutting UPVC conduit?
+- `ORIG-S9-P227-RQ7` p.227: When designing a conduit layout, what must be minimised?
+- `ORIG-S9-P227-RQ8` p.227: Provide the minimum diameter size for draw-in wire for conduit.
+- `ORIG-S9-P227-RQ9` p.227: What environmental conditions are of concern when selecting conduit for a particular location?
+- `ORIG-S9-P227-RQ10` p.227: How is the formation of moisture traps within conduit prevented?
+- `ORIG-S9-P227-RQ11` p.227: How should conduit be securely fastened?
+- `ORIG-S9-P227-RQ12` p.227: What are the requirements for materials used to lubricate cables while drawing in to conduits?
+- `ORIG-S9-P227-RQ13` p.227: Where is medium-duty conduit used?
+- `ORIG-S9-P227-RQ14` p.227: How should medium-duty conduit be finished when it enters a PVC wall box?
+- `ORIG-S9-P227-RQ15` p.227: Name the type of conduit that cannot be run in concrete slabs.
+- `ORIG-S9-P227-RQ16` p.227: Trenches for wiring enclosures must be dug to a particular size. State the size.
+- `ORIG-S9-P227-RQ17` p.227: If more than one conduit is placed in a trench, how close can they be placed together?
+- `ORIG-S9-P227-RQ18` p.227: Describe rigid metal conduit.
+- `ORIG-S9-P227-RQ19` p.227: How should the field-cut threads of rigid metal conduit be treated?
+- `ORIG-S9-P227-RQ20` p.227: How should horizontal and vertical steel conduit runs that are exposed to weather or where moisture would be retained between the conduit and the wall be fixed?
+- `ORIG-S9-P227-RQ21` p.227: What type of materials can be used to lubricate cables while drawing in to conduits?
+- `ORIG-S9-P227-RQ22` p.227: Where can conduit made from ABS be used?
+- `ORIG-S9-P227-RQ23` p.227: Where can HFT conduit be used?
+- `ORIG-S9-P227-RQ24` p.227: When cables exit conduit or trunking, what must not be damaged?
+- `ORIG-S9-P227-RQ25` p.227: Why is it sometimes necessary to overbend UPVC conduit?
+- `ORIG-S9-P227-RQ26` p.227: What is the minimum bending radius for
+- `ORIG-S9-P227-RQ27` p.227: What is the purpose of a hotbox?
+- `ORIG-S9-P227-RQ28` p.227: Why should a contrasting colour solvent cement to the conduit be used?
+- `ORIG-S9-P227-RQ29` p.227: When are expansion joints used?
+- `ORIG-S9-P227-RQ30` p.227: What must be considered for a conduit-run design in a roof cavity?
+- `ORIG-S9-P227-RQ31` p.227: Where is light-duty conduit used?
+- `ORIG-S9-P227-RQ32` p.227: What sealant is recommended for repairs to all penetrations in brick, cement blocks and concrete?
+- `ORIG-S9-P227-RQ33` p.227: When conduits pass through external walls or existing ground floor slabs, what size penetration is recommended?
+- `ORIG-S9-P227-RQ34` p.227: What must all conduits installed for future use be provided with? »
+
+## S10
+
+- `ORIG-S10-P242-EXERCISE 9.8` p.242: Use Table 42 of AS/NZS 3008.1.1:2017 to determine the actual voltage drop for multi-core PVC V–90 insulated and sheathed copper conductors laid flat for a single-phase 230 V final sub-circuit carrying 16 A over a route length of 40 m.
+- `ORIG-S10-P242-EXERCISE 9.7` p.242: Use Table C8 of AS/NZS 3000:2018 to determine the actual voltage drop for multi-core PVC V–90 insulated and sheathed copper conductors laid flat for a 230 V final sub-circuit carrying 16 A over a route length of 40 m, as shown in Figure 9.10.
+- `ORIG-S10-P243-EXERCISE 9.9` p.243: Use Table C8 of AS/NZS 3000:2018 to determine the minimum size of a multi-core cable having PVC- insulated and sheathed copper conductors and required to carry 40 A over a route length of 30 m if the maximum allowable voltage drop for this single- phase circuit is 1.5%.
+- `ORIG-S10-P243-EXERCISE 9.10` p.243: A 100 A type C circuit breaker protects an X–HF–90 insulated multi-core copper sub-main cable in an industrial installation. The maximum demand for this portion of the installation is 90 A per phase. The cable, which has a route length of 50 m, is clipped to a perforated cable tray. Determine the minimum conductor size for this cable segment if the maximum allowable voltage drop is 1.2%. switchboard. A sub-main distribution board is required to be installed in an outbuilding. Sub-circuits are then run from the sub-main distribution board to lights and socket outlets. Each sub-main circuit is required to have its protection device at the main switchboard. In addition, each sub- main circuit m
+- `ORIG-S10-P244-EXERCISE 9.11` p.244: A commercial installation with a maximum demand of 90 A is supplied via an underground consumer’s mains having a route length of 35 m and comprising a three-phase, four-core cable having 25 mm2 copper conductors and enclosed in conduit. A single-phase 20 A water heater circuit using V–90 insulated copper cable with a route length of 25 m is to be installed. The cable is to be clipped to steel battens in the insulated ceiling space. Determine a suitable cable size for this final sub-circuit.
+- `ORIG-S10-P245-EXERCISE 9.12` p.245: a An inverter-type split-system single-phase air- conditioner having an operating current of 12.5 A is protected by a 20 A type C circuit breaker and has been hard wired using 2C + E 4 mm2 copper V–90 flat TPS cable. The measured route length for the circuit is 23 m. Determine the voltage drop across the circuit. b A single-phase 250 litre electric storage heater rated at 20 A is protected by a 20 A type C circuit breaker and has been hard wired using 2C + E 2.5 mm2 Cu V–90 flat TPS cable. The measured route length for the circuit is 20 m. Determine the voltage drop across the circuit. c A 30-m length of 2C + E 1.5 mm2 copper V–90 flat TPS cable protected by a 16 A type C circuit breaker in 
+- `ORIG-S10-P246-RQ1` p.246: State the AS/NZS 3000:2018 Wiring rules limit on the voltage drop within an electrical installation.
+- `ORIG-S10-P246-RQ2` p.246: How can reduced voltage affect an installation? (Provide two examples.)
+- `ORIG-S10-P246-RQ3` p.246: What is the maximum allowable voltage drop for a three-phase 400 V electrical installation?
+- `ORIG-S10-P246-RQ4` p.246: Between which two points in an electrical installation is voltage drop considered?
+- `ORIG-S10-P246-RQ5` p.246: Determine the percentage voltage drop for multi- core PVC V–90 insulated and sheathed copper conductors laid flat touching for a 230 V final sub- circuit carrying
+- `ORIG-S10-P246-RQ6` p.246: A over a route length of
+- `ORIG-S10-P246-RQ7` p.246: mm2 and 2.5 mm2 cables.
+- `ORIG-S10-P246-RQ8` p.246: What size PVC-insulated and sheathed multi-core cable would be required to carry
+- `ORIG-S10-P246-RQ10` p.246: m with a maximum voltage drop of 1.0% in a single-phase circuit?
+- `ORIG-S10-P249-EXERCISE 9.13` p.249: A single-phase oven rated at 25 A is to be wired in 6 mm2 2C + E TPS cable with V–90 insulation and copper conductors. The oven circuit has a route length of 12 m and is protected by a 32 A circuit breaker. The single- phase consumer’s mains to the installation comprise 16 mm2 copper, V–90 SDI cables in underground conduit. The consumer’s mains has a route length of 20 m and supplies a maximum demand of 55 A. Determine: a The voltage drop across the consumer’s mains. b The voltage drop across the oven circuit.
+- `ORIG-S10-P250-EXERCISE 9.14` p.250: A domestic installation having a maximum demand of 60 A is supplied by a two-core, 16 mm2 V–90 PVC/PVC flat TPS copper conductor single-phase underground supply from the street mains. The consumer’s mains cable length is 18 m installed in underground PVC conduit. It is proposed that a socket outlet circuit with a route length of 22 m is to be installed in the installation using V–90 PVC/PVC flat TPS copper cable clipped to the timber joists in the insulated ceiling space. Determine the cable size and circuit protective device type and size.
+- `ORIG-S10-P252-EXERCISE 9.15` p.252: a A single-phase domestic installation consisting of four bedrooms, lounge, dining room, kitchen, bath, WC, laundry, hall and double garage has the following requirements: 1 × 80 A isolator 1 × 12.5 kW range 20 × 10 A double socket outlets 40 × lighting points including two smoke detectors 1 × 3.6 kW air-conditioner rated at 17.6 A 1 × 4.8 kW storage water heater rated at 20 A Create a circuit schedule using Figure 9.17. b A domestic installation consisting of three bedrooms, lounge, dining room, kitchen, bath, WC, laundry, hall and single garage has the following requirements: 1 × 80 A isolator 1 × 9.6 kW range 15 × 10 A double socket outlets and one single socket outlet for the fridge/free
+- `ORIG-S10-P253-RQ1` p.253: Why are different circuits created within an electrical installation?
+- `ORIG-S10-P253-RQ2` p.253: What are important considerations when dividing an electrical installation into circuits?
+- `ORIG-S10-P253-RQ3` p.253: What are the two main risks that exist in an electrical installation?
+- `ORIG-S10-P253-RQ4` p.253: State four defences that an installing electrician must be aware of to prevent injury from mechanical movement.
+- `ORIG-S10-P253-RQ5` p.253: What is a consumer’s mains?
+- `ORIG-S10-P253-RQ6` p.253: Into what three groups do final sub-circuits generally fit?
+- `ORIG-S10-P253-RQ7` p.253: Name five items that circuit reference labels should identify.
+- `ORIG-S10-P253-RQ8` p.253: Where should the circuit schedule be installed?
+- `ORIG-S10-P254-EXERCISE 9.16` p.254: A cable has a nominal current rating of 25 A for an ambient temperature of 40 °C. Determine the current- carrying capacity of this cable when installed in a location where the ambient temperature is: a 35 °C b 50 °C
+- `ORIG-S10-P255-EXERCISE 9.17` p.255: A cable has a nominal current rating of 25 A for a soil temperature of 25 °C. Determine the current-carrying capacity of this cable when installed in a location where the soil temperature is: a 20 °C b 30 °C External heat sources The cable must also be protected from the effects of external heat sources such as a heated concrete slab or an electric furnace. Table 27(1) provides rating factors for cables installed in a heated concrete slab. For example, the rating factor of a V–90 TPS cable installed in the slab that is subjected to an ambient temperature of 40 °C can be determined. Using Table 27(1), Column 1, locate 75 °C then find column 7, and you should be given the rating of 1.00.
+- `ORIG-S10-P255-EXERCISE 9.18` p.255: A cable has a nominal current rating of 25 A for an ambient temperature of 40 °C. Determine the current-carrying capacity of this cable when installed in a concrete slab having an ambient temperature of 55 °C.
+- `ORIG-S10-P258-RQ1` p.258: What is a wiring system?
+- `ORIG-S10-P258-RQ2` p.258: Name four types of wiring system.
+- `ORIG-S10-P258-RQ3` p.258: What external influences impact the choice of wiring system?
+- `ORIG-S10-P258-RQ4` p.258: What is the nominal ambient air temperature for Australian installations?
+- `ORIG-S10-P258-RQ5` p.258: What is the nominal soil temperature for Australian installations?
+- `ORIG-S10-P258-RQ6` p.258: Why is it necessary to de-rate cables?
+- `ORIG-S10-P258-RQ7` p.258: How is it possible to avoid cable de-rating?
+- `ORIG-S10-P258-RQ8` p.258: A wiring system comprises six circuits of 1.5 mm2 2C + E flat V–90 TPS cable installed bunched and suspended from a catenary. Determine the current- carrying capacity of each cable.
+- `ORIG-S10-P258-RQ9` p.258: A wiring system comprises four circuits of 2.5 mm2 2C + E circular V–90 TPS cable installed flat, touching on a perforated cable tray. Determine the current-carrying capacity of each cable. (column 5). This directs us to Table 10, columns
+- `ORIG-S10-P258-RQ10` p.258: for the current-carrying capacity and Table
+- `ORIG-S10-P258-RQ11` p.258: for the applicable de-rating factor. • From Table 10, column 2, 2.5 mm2 2C has a current-carrying capacity of
+- `ORIG-S10-P258-RQ12` p.258: A. • From Table 22, Item 1, column
+- `ORIG-S10-P258-RQ13` p.258: circuits) the applicable de-rating factor is 0.70. • This means for the nominal current rating of
+- `ORIG-S10-P258-RQ14` p.258: °C) the conductor can safely carry 18.9 A (27 × 0.70) due to the bunching. Five circuits of 2.5 mm2 TPS cable bunched in air supported by an insulated wire hanger
+- `ORIG-S10-P258-EXERCISE 9.19` p.258: A wiring system comprises three circuits of 4 mm2 2C + E flat V-90 TPS cable installed bunched and suspended from a catenary. Determine the current- carrying capacity of each cable. Cables installed on cable tray Cables can also be installed in trays or other enclosures in air. Figure 9.29 provides an example of this type of installation method. If the cables touch one another then their current-carrying capacity must be de-rated. 4C E circular cable PVC/PVC 4 6 mm2 2.5 mm2 earth stranded Cu V–90 cables AS/NZS 3008.1.1 Table 24 Column 1 item 1, Column 4 item 1, Column 7 item 1 de-rating factor for 3 cables is 0.78
+- `ORIG-S10-P258-EXERCISE 9.20` p.258: A wiring system comprises four circuits of 4 mm2 4C + E circular V-90 TPS cable installed flat, touching on an unperforated cable tray. Determine the current- carrying capacity of each cable.
+- `ORIG-S10-P263-EXERCISE 9.21` p.263: Determine the current-carrying capacity of flat TPS 0.6/1 kV 4 mm2, two-core plus earth V–90 PVC/ PVC cable with stranded copper conductors for four possible ‘de-rating’ requirements as follows: a Spaced on horizontal surface b Touching on horizontal surface c Partially surrounded by thermal insulation d Surrounded by thermal insulation
+- `ORIG-S10-P268-EXERCISE 9.22` p.268: a Determine the current-carrying capacity of a 25 mm2 4C + E circular copper V–90 cable supplying a single circuit and saddled to a wall as illustrated in Figure 9.44. b Determine the current-carrying capacity of three 4 mm2 copper 2C + E flat TPS V–90 cables, which are to supply three individual circuits and are installed unenclosed in air and clipped to a timber beam as illustrated in Figure 9.45. Using AS/NZS 3008.1.1 Table 3(2), Item 7, Columns 3 and 5, show the installation methods. Table 10 or 11, Columns 11 to 13 (Table 12, Column 9 or 10) show the current carrying capacities. Table 22 is the de-rating table in Column 6 of Table 3(2). Table 10, Column 11: 52 A = 10 mm2 (the CSA chosen
+- `ORIG-S10-P271-EXERCISE 9.23` p.271: Determine the minimum size copper conductor for a 370 A load to be supplied by two parallel TPI V–90 PVC/PVC cables per phase fixed flat and touching to a cable ladder as shown in Figure 9.52. Note that cables in parallel are often used for mains and sub- mains because of the ease of handling and lower cost. The disadvantage is that two cables in parallel means two circuits and therefore the cables have to be de-rated. Refer to Clause 3 of AS/NZS 2008.1.1.
+- `ORIG-S10-P272-EXERCISE 9.24` p.272: Calculate the time in which a 4.5 kA short-circuit current will raise the temperature of 4 mm2 copper X–90 XLPE cables installed as a final sub-circuit from an assumed initial temperature of 75 °C to their limiting final temperature. For a short-circuit having a duration of less than 0.1 second, where the irregularity of the current is of less importance, the value of K2S2 for the cable should be greater than the manufacturer’s value of energy let-through (I2t) of the short-circuit protective device. Let-through energy, I2t, is an expression related to energy that passes through an over-current protective device during an interruption. ≤ = × = × l t K S K S 111 2.5 7.7006 10 A S 2 2 2 2 2 2 
+- `ORIG-S10-P273-RQ1` p.273: What are the three types of cable wiring systems?
+- `ORIG-S10-P273-RQ2` p.273: The maximum permissible cable insulation temperature allowed has direct bearing on what cable parameter?
+- `ORIG-S10-P273-RQ3` p.273: Which cable parameter provides for a safe electrical installation?
+- `ORIG-S10-P273-RQ4` p.273: Why are installation methods important considerations when selecting conductor size?
+- `ORIG-S10-P273-RQ5` p.273: Why is it necessary to coordinate protection devices and conductor current-carrying capacity?
+- `ORIG-S10-P273-RQ6` p.273: Name four features to consider when determining the minimum size of consumer’s mains.
+- `ORIG-S10-P273-RQ7` p.273: Determine the current-carrying capacity of two separate circuits consisting of two-core plus earth 0.6/1 kV insulated and sheathed stranded copper
+- `ORIG-S10-P273-RQ8` p.273: mm2 V–90 PVC/PVC cables installed unenclosed, clipped directly to the wall and touching each other.
+- `ORIG-S10-P273-RQ9` p.273: Determine the current-carrying capacity of three
+- `ORIG-S10-P273-RQ10` p.273: mm2 copper 4C + E V–90 circular multi-core cables, which are fixed to a perforated cable tray.
+- `ORIG-S10-P273-RQ11` p.273: Determine the minimum size copper conductor for a 250 A load to be supplied by two parallel TPI V–90 PVC/PVC cables per phase fixed flat and touching to a cable ladder.
+- `ORIG-S10-P273-RQ12` p.273: Calculate the time in which a 2.5 kA short-circuit current will raise the temperature of
+- `ORIG-S10-P273-RQ13` p.273: mm2 copper X–90 XLPE cables installed as a final sub-circuit from an assumed initial temperature of
+- `ORIG-S10-P273-RQ14` p.273: °C to their limiting final temperature.
+- `ORIG-S10-P273-EXERCISE 9.25` p.273: Determine the current-carrying capacity of a 25 mm2 PVC-insulated two-core parallel webbed aerial with copper conductors in still air.
+- `ORIG-S10-P277-EXERCISE 9.29` p.277: a A 230 V final sub-circuit supplying socket outlets is protected by a 20 A type C MCB. Calculate the maximum earth-fault-loop impedance allowed in the event of a zero-impedance earth fault and the time it will take to trip the circuit breaker. b A 230 V final sub-circuit supplying fixed equipment is protected by a 32 A type C MCB. Calculate the maximum earth-fault-loop impedance allowed in the event of a zero- impedance earth fault and the time it takes to trip the circuit breaker.
+- `ORIG-S10-P277-EXERCISE 9.30` p.277: Determine the maximum length for a 230 V 4 mm2 twin plus earth TPS cable to be installed as a final sub-circuit supplying fixed equipment when protected by a 25 A type C MCB.
+- `ORIG-S10-P278-EXERCISE 9.31` p.278: Calculate the maximum route length of a 230 V 4 mm2 twin plus earth TPS cable to be installed as a final sub-circuit supplying fixed equipment when protected by a 16 A type C MCB. Automatic disconnection Automatic disconnection must occur when a short-circuit earth fault occurs between the active conductor and the protective earth conductor or other exposed conductive parts of the installation. Distribution transformer Y 11 000/400 V Fault current L2 POS Green buoy Consumer’s mains Main switchboard Main switch RCBO ‘N’ link MEN ‘E’ link Main earth Electrode Earth fault (A to E) Air-conditioner Final sub-circuit Very low levels of fault current might pass through the soil to the transformer e
+- `ORIG-S10-P279-EXERCISE 9.32` p.279: Determine the maximum permissible resistance (Rphe) for a circuit comprising 2.5 mm2 active conductors with a 2.5 mm2 protective earthing conductor that supplies a 15 A socket outlet when protected by a 20 A type C circuit breaker.
+- `ORIG-S10-P279-EXERCISE 9.33` p.279: Determine the maximum permissible resistance (Rphe) for a single-phase 230 V circuit comprising 2.5 mm2 active conductors with a 2.5 mm2 protective earthing conductor that supplies a 15 A socket outlet when protected by a 20 A type C circuit breaker.
+- `ORIG-S10-P280-EXERCISE 9.34` p.280: Calculate the impedance of a 50 m length of 25 mm2, two-core and earth, V–90 insulated cable having copper conductors. Prospective touch voltage Prospective touch voltage (set by convention at 50 V) is concerned with electric shock as a result of contact with persons or livestock with exposed conductive parts made live by a fault. The prospective touch voltage is the magnitude of the voltage to which the person or livestock at risk would be subjected in the event of an earth fault occurring in an installation.
+- `ORIG-S10-P280-EXERCISE 9.35` p.280: If the total measured fault-loop impedance of an installation is 0.58 Ω and the impedance of the final sub-circuit earth is 0.15 Ω for a 230 V supply, calculate the touch voltage.
+- `ORIG-S10-P281-RQ1` p.281: What is earth-fault-loop impedance?
+- `ORIG-S10-P281-RQ2` p.281: Name three important considerations for ensuring a safe electrical installation.
+- `ORIG-S10-P281-RQ3` p.281: What method of protection is used to limit the effects of indirect contact?
+- `ORIG-S10-P281-RQ4` p.281: What is the specified disconnection time for a circuit supplying Class I equipment?
+- `ORIG-S10-P281-RQ5` p.281: What is a significant factor arising from the tripping time requirements?
+- `ORIG-S10-P283-EXERCISE 9.36` p.283: Determine from Figure 9.72 the fusing time for a 30 A fuse through which a 200 A fault current flows. If the fault current falls to the right of the curve, the fuse opens. Each curve is exclusive for one fuse rating and provides the typical opening time for the amperage rating selected. Time–current characteristic curves are extremely useful in defining a fuse, since fuses with the same current rating can be represented by considerably different time– current curves. The time– current characteristic curve is used to check whether a particular fuse copes with the operating demands of the protected circuit. Some circuits such as motor circuits can draw high inrush currents from the supply. By 
+- `ORIG-S10-P286-RQ1` p.286: Where in a circuit are protective devices placed?
+- `ORIG-S10-P286-RQ2` p.286: When is an installation considered to have a selective coordination arrangement?
+- `ORIG-S10-P286-RQ3` p.286: What is a disadvantage of a series-rated combination?
+- `ORIG-S10-P286-RQ4` p.286: Name three devices used for the automatic disconnection of supply.
+- `ORIG-S10-P286-RQ5` p.286: What is a particular closed-type fuse in common use?
+- `ORIG-S10-P286-RQ6` p.286: What is the purpose of a fuse time–current characteristic curve?
+- `ORIG-S10-P286-RQ7` p.286: What is a fault current limiter?
+- `ORIG-S10-P286-RQ8` p.286: How does a circuit breaker function?
+- `ORIG-S10-P286-RQ9` p.286: Name two types of tripping mechanism for circuit breakers.
+- `ORIG-S10-P286-RQ10` p.286: What is meant by the term ‘trip free’?
+- `ORIG-S10-P288-EXERCISE 9.37` p.288: Determine the rating of a type D circuit breaker that would be suitable for a 6.5 kW motor rated at 12.3 A full load current, which takes 8 seconds to start and draws 8 times full-load current at start.
+- `ORIG-S10-P289-RQ1` p.289: What is the primary function of a miniature circuit breaker?
+- `ORIG-S10-P289-RQ2` p.289: What does the time–current (tripping) characteristic of a miniature circuit breaker define?
+- `ORIG-S10-P289-RQ3` p.289: Where would a type B miniature circuit breaker find application?
+- `ORIG-S10-P289-RQ4` p.289: Where would a type D miniature circuit breaker find application?
+- `ORIG-S10-P289-RQ5` p.289: What environmental factors must be considered when selecting a miniature circuit breaker?
+- `ORIG-S10-P290-RQ1` p.290: State the purpose of an isolator.
+- `ORIG-S10-P290-RQ2` p.290: What is the difference between an isolator and a circuit breaker?
+- `ORIG-S10-P290-RQ3` p.290: Where would a switch find application? A tariff is the agenda of an energy distributor, containing all rates and charges stated separately by type of service, the rules and regulations of the utility and any contracts that affect rates, charges, terms or conditions of service. The kilowatt hour (kWh) is the unit by which electricity is sold to the buyer, with different price tariffs for peak and off-peak usage. The peak period is defined as
+- `ORIG-S10-P290-RQ4` p.290: p.m. inclusive on any day. Generated energy, unlike other economic commodities, cannot be stored. So the interrelationship between the local supply authorities and the end user is a distinctive feature of the electrical energy sector. Therefore, tariff
+- `ORIG-S10-P291-RQ1` p.291: Why do distributors charge tariffs?
+- `ORIG-S10-P291-RQ2` p.291: What is a daily supply charge?
+- `ORIG-S10-P302-RQ1` p.302: What are the requirements for the orientation of circuit breakers on a switchboard?
+- `ORIG-S10-P302-RQ2` p.302: Why is it necessary to take special precautions where single-core cables rated over 300 A pass separately through a steel cable entry plate or switchboard surrounds?
+- `ORIG-S10-P302-RQ3` p.302: Outline the requirements for switchboard lids and doors.
+- `ORIG-S10-P302-RQ4` p.302: What are the requirements for the marking of switchboard components?
+- `ORIG-S10-P302-RQ5` p.302: Name four locations where switchboards cannot be located.
+- `ORIG-S10-P302-RQ6` p.302: How should floor-mounted switchboards be fixed to the floor?
+- `ORIG-S10-P302-RQ7` p.302: What is a ‘main switchboard’?
+- `ORIG-S10-P302-RQ8` p.302: What distinguishes a ‘sub-main circuit’?
+- `ORIG-S10-P302-RQ9` p.302: Name the three broad categories of final sub- circuits.
+- `ORIG-S10-P302-RQ10` p.302: When are current transformers used?
+- `ORIG-S10-P302-RQ11` p.302: Name three material types used for busbars.
+- `ORIG-S10-P302-RQ12` p.302: What are three applications for busbars? RULE BOOK QUESTIONS ON SWITCHBOARDS Refer to AS/NZS 3000:2018, Part 2, Wiring rules, ‘General arrangement, control, and protection: Switchboards and emergency systems’, Clause 2.10, Switchboards.
+- `ORIG-S10-P302-RQ13` p.302: When can a main switch not be located on a switchboard, or be readily accessible? Answer Clause number
+- `ORIG-S10-P302-RQ14` p.302: What are three requirements for the location of switchboards? Answer Clause number
+- `ORIG-S10-P302-RQ15` p.302: How can sufficient access and exit facilities be achieved? Answer Clause number
+- `ORIG-S10-P302-RQ16` p.302: What are the requirements for the identification of the ‘main switchboard’? Answer Clause number
+- `ORIG-S10-P302-RQ17` p.302: When can a switchboard be installed in the vicinity of an automatic fire sprinkler system? Answer Clause number
+- `ORIG-S10-P302-RQ18` p.302: When can live parts be exposed in a non-domestic electrical installation? Answer Clause number
+- `ORIG-S10-P302-RQ19` p.302: What are the specific requirements for fuses using screw-in carriers? Answer Clause number
+- `ORIG-S10-P302-RQ20` p.302: What are the requirements for identifying the relationship of electrical equipment on a switchboard? Answer Clause number

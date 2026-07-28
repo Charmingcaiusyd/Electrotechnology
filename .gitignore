@@ -1,0 +1,30 @@
+# Local and secret files
+.env
+.env.*
+!.env.example
+*.key
+*.secret
+credentials*
+secrets*
+model_catalog.json
+
+# Runtime data
+data/
+logs/
+run/
+tmp/
+.publish/
+*.log
+*.db
+*.sqlite
+*.sqlite3
+
+# Dependencies and caches
+.venv/
+node_modules/
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# Original source materials are intentionally not public
+*.pdf
