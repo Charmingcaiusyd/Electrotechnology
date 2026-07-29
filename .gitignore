@@ -28,3 +28,5 @@ __pycache__/
 
 # Original source materials are intentionally not public
 *.pdf
+!docs/downloads/Electrotechnology_教材全解_合订版.pdf
+!output/pdf/Electrotechnology_教材全解_合订版.pdf

@@ -10,11 +10,17 @@ https://charmingcaiusyd.github.io/Electrotechnology/
 
 The hosted practice interface lives in `docs/index.html`. It contains the official 3000-question bank UI with selectable questions, answer checking, progress tracking, and module filtering.
 
+Download the generated textbook explanation PDF:
+
+https://charmingcaiusyd.github.io/Electrotechnology/downloads/Electrotechnology_教材全解_合订版.pdf
+
 ## Repository Contents
 
 - `docs/index.html` - GitHub Pages static site entry.
+- `docs/downloads/Electrotechnology_教材全解_合订版.pdf` - generated textbook explanation PDF.
 - `.github/workflows/pages.yml` - automatic GitHub Pages deployment from `docs/`.
 - `output/learning_package_official/` - official generated learning package and question bank exports.
+- `output/pdf/` - generated PDF study materials.
 - `scripts/` - local generation and DeepTutor helper scripts.
 - `Start_DeepTutor.bat` / `Stop_DeepTutor.bat` - local launcher helpers.
 
