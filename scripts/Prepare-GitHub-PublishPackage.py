@@ -10,6 +10,7 @@ ROOT = Path(__file__).resolve().parents[1]
 PACKAGE = ROOT / ".publish" / "Electrotechnology"
 OFFICIAL_PACKAGE = ROOT / "output" / "learning_package_official"
 OFFICIAL_HTML = OFFICIAL_PACKAGE / "html" / "question_bank.html"
+EXPLANATION_PDF = ROOT / "output" / "pdf" / "Electrotechnology_教材全解_合订版.pdf"
 
 SECRET_RE = re.compile(rb"sk-[A-Za-z0-9_-]{16,}")
 TEXT_SUFFIXES = {
@@ -72,15 +73,26 @@ def remove_tree(path: Path) -> None:
     shutil.rmtree(path, onerror=handle_remove_error)
 
 
+def clear_package_contents(path: Path) -> None:
+    """Regenerate tracked content without deleting an existing Git repository."""
+    for child in path.iterdir():
+        if child.name == ".git":
+            continue
+        if child.is_dir():
+            remove_tree(child)
+        else:
+            child.unlink()
+
+
 def create_package() -> None:
     if not OFFICIAL_HTML.exists():
         raise FileNotFoundError(f"Official question bank not found: {OFFICIAL_HTML}")
 
     assert_safe_package_dir(PACKAGE)
     if PACKAGE.exists():
-        remove_tree(PACKAGE)
-
-    PACKAGE.mkdir(parents=True)
+        clear_package_contents(PACKAGE)
+    else:
+        PACKAGE.mkdir(parents=True)
 
     copy_file(ROOT / "README_DeepTutor_中文.txt", PACKAGE / "README_DeepTutor_中文.txt")
     copy_file(ROOT / "Start_DeepTutor.bat", PACKAGE / "Start_DeepTutor.bat")
@@ -90,6 +102,7 @@ def create_package() -> None:
         "Build-Official-QuestionBank-Viewer.py",
         "LocalEmbeddingServer.py",
         "Prepare-GitHub-PublishPackage.py",
+        "Repair-S1-QuestionBank.py",
         "Set-DeepSeek-API-Key.ps1",
         "Start-DeepTutor.ps1",
         "Stop-DeepTutor.ps1",
@@ -102,6 +115,9 @@ def create_package() -> None:
 
     copy_file(OFFICIAL_HTML, PACKAGE / "docs" / "index.html")
     write_text(PACKAGE / "docs" / ".nojekyll", "")
+    if EXPLANATION_PDF.exists():
+        copy_file(EXPLANATION_PDF, PACKAGE / "docs" / "downloads" / EXPLANATION_PDF.name)
+        copy_file(EXPLANATION_PDF, PACKAGE / "output" / "pdf" / EXPLANATION_PDF.name)
     write_text(
         PACKAGE / ".github" / "workflows" / "pages.yml",
         """name: Deploy static site to GitHub Pages
@@ -174,6 +190,8 @@ __pycache__/
 
 # Original source materials are intentionally not public
 *.pdf
+!docs/downloads/Electrotechnology_教材全解_合订版.pdf
+!output/pdf/Electrotechnology_教材全解_合订版.pdf
 """,
     )
 
@@ -191,11 +209,17 @@ https://charmingcaiusyd.github.io/Electrotechnology/
 
 The hosted practice interface lives in `docs/index.html`. It contains the official 3000-question bank UI with selectable questions, answer checking, progress tracking, and module filtering.
 
+Download the generated textbook explanation PDF:
+
+https://charmingcaiusyd.github.io/Electrotechnology/downloads/Electrotechnology_教材全解_合订版.pdf
+
 ## Repository Contents
 
 - `docs/index.html` - GitHub Pages static site entry.
+- `docs/downloads/Electrotechnology_教材全解_合订版.pdf` - generated textbook explanation PDF.
 - `.github/workflows/pages.yml` - automatic GitHub Pages deployment from `docs/`.
 - `output/learning_package_official/` - official generated learning package and question bank exports.
+- `output/pdf/` - generated PDF study materials.
 - `scripts/` - local generation and DeepTutor helper scripts.
 - `Start_DeepTutor.bat` / `Stop_DeepTutor.bat` - local launcher helpers.
 
@@ -209,6 +233,10 @@ The original PDF textbook/source file, runtime databases, logs, local model sett
 def validate_package() -> tuple[int, int]:
     forbidden_suffixes = {".pdf", ".db", ".sqlite", ".sqlite3", ".log"}
     forbidden_names = {"model_catalog.json"}
+    allowed_pdfs = {
+        Path("docs/downloads/Electrotechnology_教材全解_合订版.pdf"),
+        Path("output/pdf/Electrotechnology_教材全解_合订版.pdf"),
+    }
     file_count = 0
     total_bytes = 0
     secret_hits: list[Path] = []
@@ -221,7 +249,7 @@ def validate_package() -> tuple[int, int]:
         file_count += 1
         total_bytes += path.stat().st_size
 
-        if path.suffix.lower() in forbidden_suffixes or path.name in forbidden_names:
+        if (path.suffix.lower() in forbidden_suffixes and rel not in allowed_pdfs) or path.name in forbidden_names:
             forbidden_hits.append(rel)
 
         if path.suffix.lower() in TEXT_SUFFIXES and SECRET_RE.search(path.read_bytes()):

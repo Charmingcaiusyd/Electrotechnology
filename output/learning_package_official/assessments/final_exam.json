@@ -1,1411 +1,9 @@
 {
-  "title": "Electrotechnology Practical Study - V3 3000 Question Final Exam",
+  "title": "Electrotechnology 正式版综合测验",
   "language": "zh",
   "question_count": 200,
   "instructions": "本总测验包含 200 题，覆盖 S1-S10。题目用于学习和受监督实训准备，不替代现行标准、现场许可或合格人员判断。",
   "questions": [
-    {
-      "id": "V3-FINAL-S1-Q001",
-      "module": "S1",
-      "section": "S1.1",
-      "section_title": "风险管理流程",
-      "type": "multiple_choice",
-      "difficulty": "foundation",
-      "cognitive_skill": "识别",
-      "context": "你在受监督的现场实训中处理 `风险管理流程`，需要把教材要求转化为可记录、可复查的作业步骤。",
-      "task": "请围绕 `风险识别` 给出可执行判断，并说明需要哪些证据、记录和监督边界。",
-      "question": "你在受监督的现场实训中处理 `风险管理流程`，需要把教材要求转化为可记录、可复查的作业步骤。 请围绕 `风险识别` 给出可执行判断，并说明需要哪些证据、记录和监督边界。 补充条件：请按“作业前、作业中、作业后”三段说明判断重点。 原题/种子问题：根据学习材料，风险管理过程的第一步是什么？",
-      "answer": "定义关系与沟通",
-      "explanation": "参见Study Pack p.4，风险评估的第一步是定义自身与任务、环境的关系。",
-      "knowledge_points": [
-        "风险管理流程",
-        "风险识别",
-        "隔离验证"
-      ],
-      "knowledge_points_detailed": [
-        {
-          "concept": "风险识别",
-          "detail": "理解 `风险识别` 在 `风险管理流程` 中解决的具体现场问题，而不是只记住术语。",
-          "field_application": "能把教材描述转化为可检查步骤：资料核对、隔离/控制、测量或观察、记录、升级确认。",
-          "common_error": "把 `风险识别` 简化为经验判断，未说明证据、边界或失败后的处理。",
-          "verification": "答案应包含检查对象、判断标准、测试条件、记录内容和监督/许可边界。"
-        }
-      ],
-      "source_alignment": {
-        "source_kind": "v2_existing_reviewed",
-        "seed_id": "S1.1.1",
-        "original_ref_id": "ORIG-S1-P7-RQ1",
-        "original_page": 7,
-        "source_quality": "aligned_or_seeded"
-      },
-      "audit": {
-        "status": "final_exam_reviewed_and_enriched",
-        "checks": [
-          "题干已加入现场上下文",
-          "答案解释已要求步骤/证据/边界",
-          "已加入细分知识点",
-          "已加入常见错误或迷惑项说明",
-          "v3.1: normalized context/task wording",
-          "v3.1: primary knowledge point inferred from question text",
-          "v3.1: generic safety tag moved out of detailed knowledge tags"
-        ],
-        "risk_flags": [
-          "duplicate_seed_rewritten_as_variant"
-        ],
-        "quality_pass": "v3.1"
-      },
-      "options": {
-        "A": "实施控制措施",
-        "B": "评估风险等级",
-        "C": "定义关系与沟通",
-        "D": "审查有效性",
-        "E": "只填写风险表格，不与现场人员确认能量来源、作业边界和残余风险",
-        "F": "先开始拆装，等发现问题后再补做风险评估和隔离记录"
-      },
-      "distractor_rationale": {
-        "A": "迷惑点：该选项容易被当作 `风险识别` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "B": "迷惑点：该选项容易被当作 `风险识别` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "C": "正确项：该选项包含现场核对、风险控制、测试/观察证据和记录边界。",
-        "D": "迷惑点：该选项容易被当作 `风险识别` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "E": "迷惑点：该选项容易被当作 `风险识别` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "F": "迷惑点：该选项容易被当作 `风险识别` 的快捷做法，但缺少关键证据、控制措施或监督确认。"
-      },
-      "module_refs": [
-        "S1"
-      ],
-      "primary_knowledge_point": "风险识别",
-      "safety_boundary_note": "本题用于学习和受监督训练；实际固定布线、配电盘、带电测试、保护计算或合规结论，必须核对当前标准、现场条件并由合格人员确认。",
-      "answer_key": "C",
-      "answer_text": "定义关系与沟通",
-      "variant_note": "请按“作业前、作业中、作业后”三段说明判断重点。"
-    },
-    {
-      "id": "V3-FINAL-S1-Q002",
-      "module": "S1",
-      "section": "S1.1",
-      "section_title": "风险管理流程",
-      "type": "multiple_choice",
-      "difficulty": "foundation",
-      "cognitive_skill": "解释",
-      "context": "现场交底后，你负责整理 `风险管理流程` 的检查顺序，需要说明判断依据、测试条件和监督边界。",
-      "task": "请围绕 `风险分析` 给出可执行判断，并说明需要哪些证据、记录和监督边界。",
-      "question": "现场交底后，你负责整理 `风险管理流程` 的检查顺序，需要说明判断依据、测试条件和监督边界。 请围绕 `风险分析` 给出可执行判断，并说明需要哪些证据、记录和监督边界。 补充条件：请同时说明需要记录的证据和需要升级给合格人员确认的条件。 原题/种子问题：风险评估中，“风险分析”的主要目的是什么？",
-      "answer": "集中处理重大危害",
-      "explanation": "Study Pack p.5指出，风险分析的目的是忽略琐碎风险，专注于可能造成严重伤害的重大危害。",
-      "knowledge_points": [
-        "风险管理流程",
-        "风险分析",
-        "隔离验证",
-        "风险识别"
-      ],
-      "knowledge_points_detailed": [
-        {
-          "concept": "风险分析",
-          "detail": "理解 `风险分析` 在 `风险管理流程` 中解决的具体现场问题，而不是只记住术语。",
-          "field_application": "能把教材描述转化为可检查步骤：资料核对、隔离/控制、测量或观察、记录、升级确认。",
-          "common_error": "把 `风险分析` 简化为经验判断，未说明证据、边界或失败后的处理。",
-          "verification": "答案应包含检查对象、判断标准、测试条件、记录内容和监督/许可边界。"
-        }
-      ],
-      "source_alignment": {
-        "source_kind": "v2_existing_reviewed",
-        "seed_id": "S1.1.2",
-        "original_ref_id": "ORIG-S1-P7-RQ2",
-        "original_page": 7,
-        "source_quality": "aligned_or_seeded"
-      },
-      "audit": {
-        "status": "final_exam_reviewed_and_enriched",
-        "checks": [
-          "题干已加入现场上下文",
-          "答案解释已要求步骤/证据/边界",
-          "已加入细分知识点",
-          "已加入常见错误或迷惑项说明",
-          "v3.1: normalized context/task wording",
-          "v3.1: primary knowledge point inferred from question text",
-          "v3.1: generic safety tag moved out of detailed knowledge tags"
-        ],
-        "risk_flags": [
-          "duplicate_seed_rewritten_as_variant"
-        ],
-        "quality_pass": "v3.1"
-      },
-      "options": {
-        "A": "识别所有可能的事件",
-        "B": "集中处理重大危害",
-        "C": "记录评估结果",
-        "D": "回避所有风险",
-        "E": "只填写风险表格，不与现场人员确认能量来源、作业边界和残余风险",
-        "F": "先开始拆装，等发现问题后再补做风险评估和隔离记录"
-      },
-      "distractor_rationale": {
-        "A": "迷惑点：该选项容易被当作 `风险分析` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "B": "正确项：该选项包含现场核对、风险控制、测试/观察证据和记录边界。",
-        "C": "迷惑点：该选项容易被当作 `风险分析` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "D": "迷惑点：该选项容易被当作 `风险分析` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "E": "迷惑点：该选项容易被当作 `风险分析` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "F": "迷惑点：该选项容易被当作 `风险分析` 的快捷做法，但缺少关键证据、控制措施或监督确认。"
-      },
-      "module_refs": [
-        "S1"
-      ],
-      "primary_knowledge_point": "风险分析",
-      "safety_boundary_note": "本题用于学习和受监督训练；实际固定布线、配电盘、带电测试、保护计算或合规结论，必须核对当前标准、现场条件并由合格人员确认。",
-      "answer_key": "B",
-      "answer_text": "集中处理重大危害",
-      "variant_note": "请同时说明需要记录的证据和需要升级给合格人员确认的条件。"
-    },
-    {
-      "id": "V3-FINAL-S1-Q003",
-      "module": "S1",
-      "section": "S1.1",
-      "section_title": "风险管理流程",
-      "type": "multiple_choice",
-      "difficulty": "applied",
-      "cognitive_skill": "应用",
-      "context": "作为学徒，你正在准备 `风险管理流程` 的作业记录，需要把概念落实到隔离、检查、测量或排故动作。",
-      "task": "请围绕 `控制措施` 给出可执行判断，并说明需要哪些证据、记录和监督边界。",
-      "question": "作为学徒，你正在准备 `风险管理流程` 的作业记录，需要把概念落实到隔离、检查、测量或排故动作。 请围绕 `控制措施` 给出可执行判断，并说明需要哪些证据、记录和监督边界。 补充条件：请从图纸/铭牌核对、隔离验证、测试记录三个角度回答。 原题/种子问题：以下哪一项不是风险应对的选项？",
-      "answer": "增加工作速度",
-      "explanation": "Study Pack p.5列出了三种响应选项：规避风险、降低可能性、减少影响。",
-      "knowledge_points": [
-        "风险管理流程",
-        "控制措施",
-        "控制层级",
-        "风险识别",
-        "隔离验证"
-      ],
-      "knowledge_points_detailed": [
-        {
-          "concept": "控制措施",
-          "detail": "理解 `控制措施` 在 `风险管理流程` 中解决的具体现场问题，而不是只记住术语。",
-          "field_application": "能把教材描述转化为可检查步骤：资料核对、隔离/控制、测量或观察、记录、升级确认。",
-          "common_error": "把 `控制措施` 简化为经验判断，未说明证据、边界或失败后的处理。",
-          "verification": "答案应包含检查对象、判断标准、测试条件、记录内容和监督/许可边界。"
-        }
-      ],
-      "source_alignment": {
-        "source_kind": "v2_existing_reviewed",
-        "seed_id": "S1.1.3",
-        "original_ref_id": "ORIG-S1-P7-RQ3",
-        "original_page": 7,
-        "source_quality": "aligned_or_seeded"
-      },
-      "audit": {
-        "status": "final_exam_reviewed_and_enriched",
-        "checks": [
-          "题干已加入现场上下文",
-          "答案解释已要求步骤/证据/边界",
-          "已加入细分知识点",
-          "已加入常见错误或迷惑项说明",
-          "v3.1: normalized context/task wording",
-          "v3.1: primary knowledge point inferred from question text",
-          "v3.1: generic safety tag moved out of detailed knowledge tags"
-        ],
-        "risk_flags": [
-          "duplicate_seed_rewritten_as_variant"
-        ],
-        "quality_pass": "v3.1"
-      },
-      "options": {
-        "A": "规避风险",
-        "B": "降低可能性",
-        "C": "增加工作速度",
-        "D": "减少影响",
-        "E": "只填写风险表格，不与现场人员确认能量来源、作业边界和残余风险",
-        "F": "先开始拆装，等发现问题后再补做风险评估和隔离记录"
-      },
-      "distractor_rationale": {
-        "A": "迷惑点：该选项容易被当作 `控制措施` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "B": "迷惑点：该选项容易被当作 `控制措施` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "C": "正确项：该选项包含现场核对、风险控制、测试/观察证据和记录边界。",
-        "D": "迷惑点：该选项容易被当作 `控制措施` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "E": "迷惑点：该选项容易被当作 `控制措施` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "F": "迷惑点：该选项容易被当作 `控制措施` 的快捷做法，但缺少关键证据、控制措施或监督确认。"
-      },
-      "module_refs": [
-        "S1"
-      ],
-      "primary_knowledge_point": "控制措施",
-      "safety_boundary_note": "本题用于学习和受监督训练；实际固定布线、配电盘、带电测试、保护计算或合规结论，必须核对当前标准、现场条件并由合格人员确认。",
-      "answer_key": "C",
-      "answer_text": "增加工作速度",
-      "variant_note": "请从图纸/铭牌核对、隔离验证、测试记录三个角度回答。"
-    },
-    {
-      "id": "V3-FINAL-S1-Q004",
-      "module": "S1",
-      "section": "S1.1",
-      "section_title": "风险管理流程",
-      "type": "short_answer",
-      "difficulty": "applied",
-      "cognitive_skill": "故障分析",
-      "context": "在开始安装或排故前，你需要确认 `风险管理流程` 的关键判断点，并说明错误做法会造成什么风险。",
-      "task": "请围绕 `控制措施` 给出可执行判断，并说明需要哪些证据、记录和监督边界。",
-      "question": "在开始安装或排故前，你需要确认 `风险管理流程` 的关键判断点，并说明错误做法会造成什么风险。 请围绕 `控制措施` 给出可执行判断，并说明需要哪些证据、记录和监督边界。 补充条件：请说明一个容易混淆的错误做法，以及它为什么不可靠。 原题/种子问题：为什么电气工作完成后必须审查行动方案的有效性？（简述两个原因）",
-      "answer": "1. 确保控制措施有效并识别意外情况；2. 为未来任务提供改进依据（Study Pack p.5）。",
-      "explanation": "审查能验证措施是否成功，并利用经验完善风险管理。",
-      "knowledge_points": [
-        "风险管理流程",
-        "控制措施",
-        "监督边界",
-        "风险识别",
-        "隔离验证"
-      ],
-      "knowledge_points_detailed": [
-        {
-          "concept": "控制措施",
-          "detail": "理解 `控制措施` 在 `风险管理流程` 中解决的具体现场问题，而不是只记住术语。",
-          "field_application": "能把教材描述转化为可检查步骤：资料核对、隔离/控制、测量或观察、记录、升级确认。",
-          "common_error": "把 `控制措施` 简化为经验判断，未说明证据、边界或失败后的处理。",
-          "verification": "答案应包含检查对象、判断标准、测试条件、记录内容和监督/许可边界。"
-        }
-      ],
-      "source_alignment": {
-        "source_kind": "v2_existing_reviewed",
-        "seed_id": "S1.1.4",
-        "original_ref_id": "ORIG-S1-P7-RQ4",
-        "original_page": 7,
-        "source_quality": "aligned_or_seeded"
-      },
-      "audit": {
-        "status": "final_exam_reviewed_and_enriched",
-        "checks": [
-          "题干已加入现场上下文",
-          "答案解释已要求步骤/证据/边界",
-          "已加入细分知识点",
-          "已加入常见错误或迷惑项说明",
-          "v3.1: normalized context/task wording",
-          "v3.1: primary knowledge point inferred from question text",
-          "v3.1: generic safety tag moved out of detailed knowledge tags"
-        ],
-        "risk_flags": [
-          "duplicate_seed_rewritten_as_variant"
-        ],
-        "quality_pass": "v3.1"
-      },
-      "options": {},
-      "common_wrong_answers": [
-        "只填写风险表格，不与现场人员确认能量来源、作业边界和残余风险",
-        "先开始拆装，等发现问题后再补做风险评估和隔离记录",
-        "把低概率事件直接忽略，不判断后果严重度和控制措施有效性",
-        "只依赖口头提醒，不设置可验证的隔离、警示或监督措施",
-        "认为完成一次检查后不需要复盘控制措施是否有效",
-        "把许可、隔离、测试和记录视为互不相关的独立步骤"
-      ],
-      "module_refs": [
-        "S1"
-      ],
-      "primary_knowledge_point": "控制措施",
-      "safety_boundary_note": "本题用于学习和受监督训练；实际固定布线、配电盘、带电测试、保护计算或合规结论，必须核对当前标准、现场条件并由合格人员确认。",
-      "variant_note": "请说明一个容易混淆的错误做法，以及它为什么不可靠。"
-    },
-    {
-      "id": "V3-FINAL-S1-Q005",
-      "module": "S1",
-      "section": "S1.1",
-      "section_title": "风险管理流程",
-      "type": "scenario",
-      "difficulty": "applied",
-      "cognitive_skill": "综合判断",
-      "context": "你正在复盘 `风险管理流程` 的训练任务，需要把答案写成能被主管检查的现场证据链。",
-      "task": "请围绕 `风险识别` 给出可执行判断，并说明需要哪些证据、记录和监督边界。",
-      "question": "你正在复盘 `风险管理流程` 的训练任务，需要把答案写成能被主管检查的现场证据链。 请围绕 `风险识别` 给出可执行判断，并说明需要哪些证据、记录和监督边界。 补充条件：请把答案写成现场检查清单，而不只是给出术语定义。 原题/种子问题：你被分配在拥挤的车间更换一个电机。请列出你应该采取的前三个风险管理行动。",
-      "answer": "1. 与车间主管和操作员沟通，了解潜在风险并商定隔离计划；2. 现场巡视，识别可能伤害自己或他人的危害（如其他机器、行人、化学物）；3. 评估这些危害的风险等级，并决定是否需要额外的控制措施。",
-      "explanation": "根据Study Pack pp.4-5的步骤，必须从沟通与识别开始。",
-      "knowledge_points": [
-        "风险管理流程",
-        "风险识别",
-        "工作许可",
-        "隔离验证"
-      ],
-      "knowledge_points_detailed": [
-        {
-          "concept": "风险识别",
-          "detail": "理解 `风险识别` 在 `风险管理流程` 中解决的具体现场问题，而不是只记住术语。",
-          "field_application": "能把教材描述转化为可检查步骤：资料核对、隔离/控制、测量或观察、记录、升级确认。",
-          "common_error": "把 `风险识别` 简化为经验判断，未说明证据、边界或失败后的处理。",
-          "verification": "答案应包含检查对象、判断标准、测试条件、记录内容和监督/许可边界。"
-        }
-      ],
-      "source_alignment": {
-        "source_kind": "v2_existing_reviewed",
-        "seed_id": "S1.1.5",
-        "original_ref_id": "ORIG-S1-P7-RQ5",
-        "original_page": 7,
-        "source_quality": "aligned_or_seeded"
-      },
-      "audit": {
-        "status": "final_exam_reviewed_and_enriched",
-        "checks": [
-          "题干已加入现场上下文",
-          "答案解释已要求步骤/证据/边界",
-          "已加入细分知识点",
-          "已加入常见错误或迷惑项说明",
-          "v3.1: normalized context/task wording",
-          "v3.1: primary knowledge point inferred from question text",
-          "v3.1: generic safety tag moved out of detailed knowledge tags"
-        ],
-        "risk_flags": [
-          "duplicate_seed_rewritten_as_variant"
-        ],
-        "quality_pass": "v3.1"
-      },
-      "options": {},
-      "common_wrong_answers": [
-        "只填写风险表格，不与现场人员确认能量来源、作业边界和残余风险",
-        "先开始拆装，等发现问题后再补做风险评估和隔离记录",
-        "把低概率事件直接忽略，不判断后果严重度和控制措施有效性",
-        "只依赖口头提醒，不设置可验证的隔离、警示或监督措施",
-        "认为完成一次检查后不需要复盘控制措施是否有效",
-        "把许可、隔离、测试和记录视为互不相关的独立步骤"
-      ],
-      "module_refs": [
-        "S1"
-      ],
-      "primary_knowledge_point": "风险识别",
-      "safety_boundary_note": "本题用于学习和受监督训练；实际固定布线、配电盘、带电测试、保护计算或合规结论，必须核对当前标准、现场条件并由合格人员确认。",
-      "variant_note": "请把答案写成现场检查清单，而不只是给出术语定义。"
-    },
-    {
-      "id": "V3-FINAL-S1-Q006",
-      "module": "S1",
-      "section": "S1.1",
-      "section_title": "风险管理流程",
-      "type": "multiple_choice",
-      "difficulty": "foundation",
-      "cognitive_skill": "识别",
-      "context": "你在受监督的现场实训中处理 `风险管理流程`，需要把教材要求转化为可记录、可复查的作业步骤。",
-      "task": "请围绕 `控制措施` 给出可执行判断，并说明需要哪些证据、记录和监督边界。",
-      "question": "你在受监督的现场实训中处理 `风险管理流程`，需要把教材要求转化为可记录、可复查的作业步骤。 请围绕 `控制措施` 给出可执行判断，并说明需要哪些证据、记录和监督边界。 补充条件：请按“作业前、作业中、作业后”三段说明判断重点。 原题/种子问题：根据学习材料，实施控制措施后下一步应做什么？",
-      "answer": "监督工作并审查有效性",
-      "explanation": "Study Pack p.5-6说明实施后需观察工作过程并审查控制措施的有效性。",
-      "knowledge_points": [
-        "风险管理流程",
-        "控制措施",
-        "风险识别",
-        "隔离验证"
-      ],
-      "knowledge_points_detailed": [
-        {
-          "concept": "控制措施",
-          "detail": "理解 `控制措施` 在 `风险管理流程` 中解决的具体现场问题，而不是只记住术语。",
-          "field_application": "能把教材描述转化为可检查步骤：资料核对、隔离/控制、测量或观察、记录、升级确认。",
-          "common_error": "把 `控制措施` 简化为经验判断，未说明证据、边界或失败后的处理。",
-          "verification": "答案应包含检查对象、判断标准、测试条件、记录内容和监督/许可边界。"
-        }
-      ],
-      "source_alignment": {
-        "source_kind": "v2_existing_reviewed",
-        "seed_id": "S1.1.6",
-        "original_ref_id": "ORIG-S1-P7-RQ6",
-        "original_page": 7,
-        "source_quality": "aligned_or_seeded"
-      },
-      "audit": {
-        "status": "final_exam_reviewed_and_enriched",
-        "checks": [
-          "题干已加入现场上下文",
-          "答案解释已要求步骤/证据/边界",
-          "已加入细分知识点",
-          "已加入常见错误或迷惑项说明",
-          "v3.1: normalized context/task wording",
-          "v3.1: primary knowledge point inferred from question text",
-          "v3.1: generic safety tag moved out of detailed knowledge tags"
-        ],
-        "risk_flags": [
-          "duplicate_seed_rewritten_as_variant"
-        ],
-        "quality_pass": "v3.1"
-      },
-      "options": {
-        "A": "结束风险评估",
-        "B": "监督工作并审查有效性",
-        "C": "归档文件",
-        "D": "仅通知主管",
-        "E": "只填写风险表格，不与现场人员确认能量来源、作业边界和残余风险",
-        "F": "先开始拆装，等发现问题后再补做风险评估和隔离记录"
-      },
-      "distractor_rationale": {
-        "A": "迷惑点：该选项容易被当作 `控制措施` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "B": "正确项：该选项包含现场核对、风险控制、测试/观察证据和记录边界。",
-        "C": "迷惑点：该选项容易被当作 `控制措施` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "D": "迷惑点：该选项容易被当作 `控制措施` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "E": "迷惑点：该选项容易被当作 `控制措施` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "F": "迷惑点：该选项容易被当作 `控制措施` 的快捷做法，但缺少关键证据、控制措施或监督确认。"
-      },
-      "module_refs": [
-        "S1"
-      ],
-      "primary_knowledge_point": "控制措施",
-      "safety_boundary_note": "本题用于学习和受监督训练；实际固定布线、配电盘、带电测试、保护计算或合规结论，必须核对当前标准、现场条件并由合格人员确认。",
-      "answer_key": "B",
-      "answer_text": "监督工作并审查有效性",
-      "variant_note": "请按“作业前、作业中、作业后”三段说明判断重点。"
-    },
-    {
-      "id": "V3-FINAL-S1-Q007",
-      "module": "S1",
-      "section": "S1.1",
-      "section_title": "风险管理流程",
-      "type": "short_answer",
-      "difficulty": "applied",
-      "cognitive_skill": "解释",
-      "context": "现场交底后，你负责整理 `风险管理流程` 的检查顺序，需要说明判断依据、测试条件和监督边界。",
-      "task": "请围绕 `风险识别` 给出可执行判断，并说明需要哪些证据、记录和监督边界。",
-      "question": "现场交底后，你负责整理 `风险管理流程` 的检查顺序，需要说明判断依据、测试条件和监督边界。 请围绕 `风险识别` 给出可执行判断，并说明需要哪些证据、记录和监督边界。 补充条件：请同时说明需要记录的证据和需要升级给合格人员确认的条件。 原题/种子问题：为什么在进行风险评估时，必须让所有相关人员参与？举两个理由。",
-      "answer": "1. 汇集不同视角以全面识别危害；2. 确保每个人都了解控制措施并能遵守。",
-      "explanation": "咨询过程（consultation）是风险管理的重要部分。",
-      "knowledge_points": [
-        "风险管理流程",
-        "风险识别",
-        "隔离验证"
-      ],
-      "knowledge_points_detailed": [
-        {
-          "concept": "风险识别",
-          "detail": "理解 `风险识别` 在 `风险管理流程` 中解决的具体现场问题，而不是只记住术语。",
-          "field_application": "能把教材描述转化为可检查步骤：资料核对、隔离/控制、测量或观察、记录、升级确认。",
-          "common_error": "把 `风险识别` 简化为经验判断，未说明证据、边界或失败后的处理。",
-          "verification": "答案应包含检查对象、判断标准、测试条件、记录内容和监督/许可边界。"
-        }
-      ],
-      "source_alignment": {
-        "source_kind": "v2_existing_reviewed",
-        "seed_id": "S1.1.7",
-        "original_ref_id": "ORIG-S1-P10-RQ1",
-        "original_page": 10,
-        "source_quality": "aligned_or_seeded"
-      },
-      "audit": {
-        "status": "final_exam_reviewed_and_enriched",
-        "checks": [
-          "题干已加入现场上下文",
-          "答案解释已要求步骤/证据/边界",
-          "已加入细分知识点",
-          "已加入常见错误或迷惑项说明",
-          "v3.1: normalized context/task wording",
-          "v3.1: primary knowledge point inferred from question text",
-          "v3.1: generic safety tag moved out of detailed knowledge tags"
-        ],
-        "risk_flags": [
-          "duplicate_seed_rewritten_as_variant"
-        ],
-        "quality_pass": "v3.1"
-      },
-      "options": {},
-      "common_wrong_answers": [
-        "只填写风险表格，不与现场人员确认能量来源、作业边界和残余风险",
-        "先开始拆装，等发现问题后再补做风险评估和隔离记录",
-        "把低概率事件直接忽略，不判断后果严重度和控制措施有效性",
-        "只依赖口头提醒，不设置可验证的隔离、警示或监督措施",
-        "认为完成一次检查后不需要复盘控制措施是否有效",
-        "把许可、隔离、测试和记录视为互不相关的独立步骤"
-      ],
-      "module_refs": [
-        "S1"
-      ],
-      "primary_knowledge_point": "风险识别",
-      "safety_boundary_note": "本题用于学习和受监督训练；实际固定布线、配电盘、带电测试、保护计算或合规结论，必须核对当前标准、现场条件并由合格人员确认。",
-      "variant_note": "请同时说明需要记录的证据和需要升级给合格人员确认的条件。"
-    },
-    {
-      "id": "V3-FINAL-S1-Q008",
-      "module": "S1",
-      "section": "S1.1",
-      "section_title": "风险管理流程",
-      "type": "fault_finding",
-      "difficulty": "applied",
-      "cognitive_skill": "应用",
-      "context": "作为学徒，你正在准备 `风险管理流程` 的作业记录，需要把概念落实到隔离、检查、测量或排故动作。",
-      "task": "请围绕 `风险识别` 给出可执行判断，并说明需要哪些证据、记录和监督边界。",
-      "question": "作为学徒，你正在准备 `风险管理流程` 的作业记录，需要把概念落实到隔离、检查、测量或排故动作。 请围绕 `风险识别` 给出可执行判断，并说明需要哪些证据、记录和监督边界。 补充条件：请从图纸/铭牌核对、隔离验证、测试记录三个角度回答。 原题/种子问题：在一次风险评估中，针对更换照明灯具只记录了主电路隔离。但作业时，一名学徒因未放电的电容器而遭到轻微电击。分析风险评估过程出了什么问题。",
-      "answer": "危害识别遗漏了储存能量（电容器）。风险评估应包含所有能量来源并检测它们。控制措施应要求在工作前对电容器放电。",
-      "explanation": "危害识别不完整，未考虑残余电能。",
-      "knowledge_points": [
-        "风险管理流程",
-        "风险识别",
-        "控制层级",
-        "隔离验证"
-      ],
-      "knowledge_points_detailed": [
-        {
-          "concept": "风险识别",
-          "detail": "理解 `风险识别` 在 `风险管理流程` 中解决的具体现场问题，而不是只记住术语。",
-          "field_application": "能把教材描述转化为可检查步骤：资料核对、隔离/控制、测量或观察、记录、升级确认。",
-          "common_error": "把 `风险识别` 简化为经验判断，未说明证据、边界或失败后的处理。",
-          "verification": "答案应包含检查对象、判断标准、测试条件、记录内容和监督/许可边界。"
-        }
-      ],
-      "source_alignment": {
-        "source_kind": "v2_existing_reviewed",
-        "seed_id": "S1.1.8",
-        "original_ref_id": "ORIG-S1-P10-RQ2",
-        "original_page": 10,
-        "source_quality": "aligned_or_seeded"
-      },
-      "audit": {
-        "status": "final_exam_reviewed_and_enriched",
-        "checks": [
-          "题干已加入现场上下文",
-          "答案解释已要求步骤/证据/边界",
-          "已加入细分知识点",
-          "已加入常见错误或迷惑项说明",
-          "v3.1: normalized context/task wording",
-          "v3.1: primary knowledge point inferred from question text",
-          "v3.1: generic safety tag moved out of detailed knowledge tags"
-        ],
-        "risk_flags": [
-          "duplicate_seed_rewritten_as_variant"
-        ],
-        "quality_pass": "v3.1"
-      },
-      "options": {},
-      "common_wrong_answers": [
-        "只填写风险表格，不与现场人员确认能量来源、作业边界和残余风险",
-        "先开始拆装，等发现问题后再补做风险评估和隔离记录",
-        "把低概率事件直接忽略，不判断后果严重度和控制措施有效性",
-        "只依赖口头提醒，不设置可验证的隔离、警示或监督措施",
-        "认为完成一次检查后不需要复盘控制措施是否有效",
-        "把许可、隔离、测试和记录视为互不相关的独立步骤"
-      ],
-      "fault_finding_steps_expected": [
-        "确认症状、作业范围和安全状态",
-        "隔离相关能量源，或确认受控带电测试条件、许可和监督",
-        "从电源、保护、控制、负载、端子/电缆逐段验证",
-        "记录仪表、量程、测点、读数和判断依据",
-        "修复后按规定复测，并由合格人员确认可以恢复运行"
-      ],
-      "module_refs": [
-        "S1"
-      ],
-      "primary_knowledge_point": "风险识别",
-      "safety_boundary_note": "本题用于学习和受监督训练；实际固定布线、配电盘、带电测试、保护计算或合规结论，必须核对当前标准、现场条件并由合格人员确认。",
-      "variant_note": "请从图纸/铭牌核对、隔离验证、测试记录三个角度回答。"
-    },
-    {
-      "id": "V3-FINAL-S1-Q009",
-      "module": "S1",
-      "section": "S1.2",
-      "section_title": "危害识别与控制层级",
-      "type": "multiple_choice",
-      "difficulty": "foundation",
-      "cognitive_skill": "识别",
-      "context": "在开始安装或排故前，你需要确认 `危害识别与控制层级` 的关键判断点，并说明错误做法会造成什么风险。",
-      "task": "请围绕 `风险识别` 给出可执行判断，并说明需要哪些证据、记录和监督边界。",
-      "question": "在开始安装或排故前，你需要确认 `危害识别与控制层级` 的关键判断点，并说明错误做法会造成什么风险。 请围绕 `风险识别` 给出可执行判断，并说明需要哪些证据、记录和监督边界。 原题/种子问题：“危害”与“风险”的区别是什么？",
-      "answer": "危害是有害的潜在来源，风险是伤害的可能性和严重度",
-      "explanation": "参见Study Pack p.7，危害是可能造成伤害的事物，风险是伤害发生的期望。",
-      "knowledge_points": [
-        "危害识别与控制层级",
-        "风险识别",
-        "隔离验证"
-      ],
-      "knowledge_points_detailed": [
-        {
-          "concept": "风险识别",
-          "detail": "理解 `风险识别` 在 `危害识别与控制层级` 中解决的具体现场问题，而不是只记住术语。",
-          "field_application": "能把教材描述转化为可检查步骤：资料核对、隔离/控制、测量或观察、记录、升级确认。",
-          "common_error": "把 `风险识别` 简化为经验判断，未说明证据、边界或失败后的处理。",
-          "verification": "答案应包含检查对象、判断标准、测试条件、记录内容和监督/许可边界。"
-        }
-      ],
-      "source_alignment": {
-        "source_kind": "v2_existing_reviewed",
-        "seed_id": "S1.2.1",
-        "original_ref_id": "ORIG-S1-P19-RQ9",
-        "original_page": 19,
-        "source_quality": "aligned_or_seeded"
-      },
-      "audit": {
-        "status": "final_exam_reviewed_and_enriched",
-        "checks": [
-          "题干已加入现场上下文",
-          "答案解释已要求步骤/证据/边界",
-          "已加入细分知识点",
-          "已加入常见错误或迷惑项说明",
-          "v3.1: normalized context/task wording",
-          "v3.1: primary knowledge point inferred from question text",
-          "v3.1: generic safety tag moved out of detailed knowledge tags"
-        ],
-        "risk_flags": [],
-        "quality_pass": "v3.1"
-      },
-      "options": {
-        "A": "无区别，可互换",
-        "B": "危害是伤害的后果，风险是来源",
-        "C": "危害是有害的潜在来源，风险是伤害的可能性和严重度",
-        "D": "危害是可能性，风险是后果",
-        "E": "只填写风险表格，不与现场人员确认能量来源、作业边界和残余风险",
-        "F": "先开始拆装，等发现问题后再补做风险评估和隔离记录"
-      },
-      "distractor_rationale": {
-        "A": "迷惑点：该选项容易被当作 `风险识别` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "B": "迷惑点：该选项容易被当作 `风险识别` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "C": "正确项：该选项包含现场核对、风险控制、测试/观察证据和记录边界。",
-        "D": "迷惑点：该选项容易被当作 `风险识别` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "E": "迷惑点：该选项容易被当作 `风险识别` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "F": "迷惑点：该选项容易被当作 `风险识别` 的快捷做法，但缺少关键证据、控制措施或监督确认。"
-      },
-      "module_refs": [
-        "S1"
-      ],
-      "primary_knowledge_point": "风险识别",
-      "safety_boundary_note": "本题用于学习和受监督训练；实际固定布线、配电盘、带电测试、保护计算或合规结论，必须核对当前标准、现场条件并由合格人员确认。",
-      "answer_key": "C",
-      "answer_text": "危害是有害的潜在来源，风险是伤害的可能性和严重度"
-    },
-    {
-      "id": "V3-FINAL-S1-Q010",
-      "module": "S1",
-      "section": "S1.2",
-      "section_title": "危害识别与控制层级",
-      "type": "multiple_choice",
-      "difficulty": "applied",
-      "cognitive_skill": "解释",
-      "context": "你正在复盘 `危害识别与控制层级` 的训练任务，需要把答案写成能被主管检查的现场证据链。",
-      "task": "请围绕 `风险识别` 给出可执行判断，并说明需要哪些证据、记录和监督边界。",
-      "question": "你正在复盘 `危害识别与控制层级` 的训练任务，需要把答案写成能被主管检查的现场证据链。 请围绕 `风险识别` 给出可执行判断，并说明需要哪些证据、记录和监督边界。 原题/种子问题：在控制层级中，最有效的措施是？",
-      "answer": "消除危害",
-      "explanation": "控制层级的顶端是消除，例如断电。虽然来源未详述层级，但图2.3要求“应用控制层级”，常识中最有效的是消除。",
-      "knowledge_points": [
-        "危害识别与控制层级",
-        "风险识别",
-        "隔离验证"
-      ],
-      "knowledge_points_detailed": [
-        {
-          "concept": "风险识别",
-          "detail": "理解 `风险识别` 在 `危害识别与控制层级` 中解决的具体现场问题，而不是只记住术语。",
-          "field_application": "能把教材描述转化为可检查步骤：资料核对、隔离/控制、测量或观察、记录、升级确认。",
-          "common_error": "把 `风险识别` 简化为经验判断，未说明证据、边界或失败后的处理。",
-          "verification": "答案应包含检查对象、判断标准、测试条件、记录内容和监督/许可边界。"
-        }
-      ],
-      "source_alignment": {
-        "source_kind": "v2_existing_reviewed",
-        "seed_id": "S1.2.2",
-        "original_ref_id": "ORIG-S1-P19-RQ10",
-        "original_page": 19,
-        "source_quality": "aligned_or_seeded"
-      },
-      "audit": {
-        "status": "final_exam_reviewed_and_enriched",
-        "checks": [
-          "题干已加入现场上下文",
-          "答案解释已要求步骤/证据/边界",
-          "已加入细分知识点",
-          "已加入常见错误或迷惑项说明",
-          "v3.1: normalized context/task wording",
-          "v3.1: primary knowledge point inferred from question text",
-          "v3.1: generic safety tag moved out of detailed knowledge tags"
-        ],
-        "risk_flags": [],
-        "quality_pass": "v3.1"
-      },
-      "options": {
-        "A": "使用个人防护装备",
-        "B": "消除危害",
-        "C": "行政控制",
-        "D": "工程控制",
-        "E": "只填写风险表格，不与现场人员确认能量来源、作业边界和残余风险",
-        "F": "先开始拆装，等发现问题后再补做风险评估和隔离记录"
-      },
-      "distractor_rationale": {
-        "A": "迷惑点：该选项容易被当作 `风险识别` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "B": "正确项：该选项包含现场核对、风险控制、测试/观察证据和记录边界。",
-        "C": "迷惑点：该选项容易被当作 `风险识别` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "D": "迷惑点：该选项容易被当作 `风险识别` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "E": "迷惑点：该选项容易被当作 `风险识别` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "F": "迷惑点：该选项容易被当作 `风险识别` 的快捷做法，但缺少关键证据、控制措施或监督确认。"
-      },
-      "module_refs": [
-        "S1"
-      ],
-      "primary_knowledge_point": "风险识别",
-      "safety_boundary_note": "本题用于学习和受监督训练；实际固定布线、配电盘、带电测试、保护计算或合规结论，必须核对当前标准、现场条件并由合格人员确认。",
-      "answer_key": "B",
-      "answer_text": "消除危害"
-    },
-    {
-      "id": "V3-FINAL-S1-Q011",
-      "module": "S1",
-      "section": "S1.2",
-      "section_title": "危害识别与控制层级",
-      "type": "multiple_choice",
-      "difficulty": "foundation",
-      "cognitive_skill": "应用",
-      "context": "你在受监督的现场实训中处理 `危害识别与控制层级`，需要把教材要求转化为可记录、可复查的作业步骤。",
-      "task": "请围绕 `风险识别` 给出可执行判断，并说明需要哪些证据、记录和监督边界。",
-      "question": "你在受监督的现场实训中处理 `危害识别与控制层级`，需要把教材要求转化为可记录、可复查的作业步骤。 请围绕 `风险识别` 给出可执行判断，并说明需要哪些证据、记录和监督边界。 原题/种子问题：下列哪一项是电气工作场所危害的来源？（根据Study Pack p.7）",
-      "answer": "以上都是",
-      "explanation": "Study Pack p.7明确列出危害可来源于工作场所设计、任务、设备等。",
-      "knowledge_points": [
-        "危害识别与控制层级",
-        "风险识别",
-        "控制层级",
-        "隔离验证"
-      ],
-      "knowledge_points_detailed": [
-        {
-          "concept": "风险识别",
-          "detail": "理解 `风险识别` 在 `危害识别与控制层级` 中解决的具体现场问题，而不是只记住术语。",
-          "field_application": "能把教材描述转化为可检查步骤：资料核对、隔离/控制、测量或观察、记录、升级确认。",
-          "common_error": "把 `风险识别` 简化为经验判断，未说明证据、边界或失败后的处理。",
-          "verification": "答案应包含检查对象、判断标准、测试条件、记录内容和监督/许可边界。"
-        }
-      ],
-      "source_alignment": {
-        "source_kind": "v2_existing_reviewed",
-        "seed_id": "S1.2.3",
-        "original_ref_id": "ORIG-S1-P19-RQ11",
-        "original_page": 19,
-        "source_quality": "aligned_or_seeded"
-      },
-      "audit": {
-        "status": "final_exam_reviewed_and_enriched",
-        "checks": [
-          "题干已加入现场上下文",
-          "答案解释已要求步骤/证据/边界",
-          "已加入细分知识点",
-          "已加入常见错误或迷惑项说明",
-          "v3.1: normalized context/task wording",
-          "v3.1: primary knowledge point inferred from question text",
-          "v3.1: generic safety tag moved out of detailed knowledge tags"
-        ],
-        "risk_flags": [],
-        "quality_pass": "v3.1"
-      },
-      "options": {
-        "A": "工作场所设计",
-        "B": "任务执行方式",
-        "C": "设备类型和设计",
-        "D": "以上都是",
-        "E": "只填写风险表格，不与现场人员确认能量来源、作业边界和残余风险",
-        "F": "先开始拆装，等发现问题后再补做风险评估和隔离记录"
-      },
-      "distractor_rationale": {
-        "A": "迷惑点：该选项容易被当作 `风险识别` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "B": "迷惑点：该选项容易被当作 `风险识别` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "C": "迷惑点：该选项容易被当作 `风险识别` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "D": "正确项：该选项包含现场核对、风险控制、测试/观察证据和记录边界。",
-        "E": "迷惑点：该选项容易被当作 `风险识别` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "F": "迷惑点：该选项容易被当作 `风险识别` 的快捷做法，但缺少关键证据、控制措施或监督确认。"
-      },
-      "module_refs": [
-        "S1"
-      ],
-      "primary_knowledge_point": "风险识别",
-      "safety_boundary_note": "本题用于学习和受监督训练；实际固定布线、配电盘、带电测试、保护计算或合规结论，必须核对当前标准、现场条件并由合格人员确认。",
-      "answer_key": "D",
-      "answer_text": "以上都是"
-    },
-    {
-      "id": "V3-FINAL-S1-Q012",
-      "module": "S1",
-      "section": "S1.2",
-      "section_title": "危害识别与控制层级",
-      "type": "short_answer",
-      "difficulty": "applied",
-      "cognitive_skill": "故障分析",
-      "context": "现场交底后，你负责整理 `危害识别与控制层级` 的检查顺序，需要说明判断依据、测试条件和监督边界。",
-      "task": "请围绕 `风险识别` 给出可执行判断，并说明需要哪些证据、记录和监督边界。",
-      "question": "现场交底后，你负责整理 `危害识别与控制层级` 的检查顺序，需要说明判断依据、测试条件和监督边界。 请围绕 `风险识别` 给出可执行判断，并说明需要哪些证据、记录和监督边界。 原题/种子问题：使用个人防护装备（PPE）是控制危害的最后手段。举例说明为什么PPE不如消除有效。",
-      "answer": "PPE只能保护穿戴者，且可能失效、佩戴不适或损坏；消除危害（如断电）能彻底移除风险来源，保护所有人。",
-      "explanation": "根据控制层级原理，消除是首选。",
-      "knowledge_points": [
-        "危害识别与控制层级",
-        "风险识别",
-        "监督边界",
-        "隔离验证"
-      ],
-      "knowledge_points_detailed": [
-        {
-          "concept": "风险识别",
-          "detail": "理解 `风险识别` 在 `危害识别与控制层级` 中解决的具体现场问题，而不是只记住术语。",
-          "field_application": "能把教材描述转化为可检查步骤：资料核对、隔离/控制、测量或观察、记录、升级确认。",
-          "common_error": "把 `风险识别` 简化为经验判断，未说明证据、边界或失败后的处理。",
-          "verification": "答案应包含检查对象、判断标准、测试条件、记录内容和监督/许可边界。"
-        }
-      ],
-      "source_alignment": {
-        "source_kind": "v2_existing_reviewed",
-        "seed_id": "S1.2.4",
-        "original_ref_id": "ORIG-S1-P21-RQ1",
-        "original_page": 21,
-        "source_quality": "aligned_or_seeded"
-      },
-      "audit": {
-        "status": "final_exam_reviewed_and_enriched",
-        "checks": [
-          "题干已加入现场上下文",
-          "答案解释已要求步骤/证据/边界",
-          "已加入细分知识点",
-          "已加入常见错误或迷惑项说明",
-          "v3.1: normalized context/task wording",
-          "v3.1: primary knowledge point inferred from question text",
-          "v3.1: generic safety tag moved out of detailed knowledge tags"
-        ],
-        "risk_flags": [],
-        "quality_pass": "v3.1"
-      },
-      "options": {},
-      "common_wrong_answers": [
-        "只填写风险表格，不与现场人员确认能量来源、作业边界和残余风险",
-        "先开始拆装，等发现问题后再补做风险评估和隔离记录",
-        "把低概率事件直接忽略，不判断后果严重度和控制措施有效性",
-        "只依赖口头提醒，不设置可验证的隔离、警示或监督措施",
-        "认为完成一次检查后不需要复盘控制措施是否有效",
-        "把许可、隔离、测试和记录视为互不相关的独立步骤"
-      ],
-      "module_refs": [
-        "S1"
-      ],
-      "primary_knowledge_point": "风险识别",
-      "safety_boundary_note": "本题用于学习和受监督训练；实际固定布线、配电盘、带电测试、保护计算或合规结论，必须核对当前标准、现场条件并由合格人员确认。"
-    },
-    {
-      "id": "V3-FINAL-S1-Q013",
-      "module": "S1",
-      "section": "S1.2",
-      "section_title": "危害识别与控制层级",
-      "type": "scenario",
-      "difficulty": "applied",
-      "cognitive_skill": "综合判断",
-      "context": "作为学徒，你正在准备 `危害识别与控制层级` 的作业记录，需要把概念落实到隔离、检查、测量或排故动作。",
-      "task": "请围绕 `风险识别` 给出可执行判断，并说明需要哪些证据、记录和监督边界。",
-      "question": "作为学徒，你正在准备 `危害识别与控制层级` 的作业记录，需要把概念落实到隔离、检查、测量或排故动作。 请围绕 `风险识别` 给出可执行判断，并说明需要哪些证据、记录和监督边界。 原题/种子问题：你注意到配电箱内有一根裸露的带电导线。从控制层级角度，你最优先考虑什么措施？为什么之后才考虑其他措施？",
-      "answer": "最优先考虑消除：立即断开该电路电源并锁定。消除彻底移除了风险。如果无法断电，可使用工程控制如绝缘屏障或护罩。最后才用PPE如绝缘手套。",
-      "explanation": "控制层级优先消除危害（断电），其次才是工程和PPE。",
-      "knowledge_points": [
-        "危害识别与控制层级",
-        "风险识别",
-        "工作许可",
-        "隔离验证"
-      ],
-      "knowledge_points_detailed": [
-        {
-          "concept": "风险识别",
-          "detail": "理解 `风险识别` 在 `危害识别与控制层级` 中解决的具体现场问题，而不是只记住术语。",
-          "field_application": "能把教材描述转化为可检查步骤：资料核对、隔离/控制、测量或观察、记录、升级确认。",
-          "common_error": "把 `风险识别` 简化为经验判断，未说明证据、边界或失败后的处理。",
-          "verification": "答案应包含检查对象、判断标准、测试条件、记录内容和监督/许可边界。"
-        }
-      ],
-      "source_alignment": {
-        "source_kind": "v2_existing_reviewed",
-        "seed_id": "S1.2.5",
-        "original_ref_id": "ORIG-S1-P21-RQ2",
-        "original_page": 21,
-        "source_quality": "aligned_or_seeded"
-      },
-      "audit": {
-        "status": "final_exam_reviewed_and_enriched",
-        "checks": [
-          "题干已加入现场上下文",
-          "答案解释已要求步骤/证据/边界",
-          "已加入细分知识点",
-          "已加入常见错误或迷惑项说明",
-          "v3.1: normalized context/task wording",
-          "v3.1: primary knowledge point inferred from question text",
-          "v3.1: generic safety tag moved out of detailed knowledge tags"
-        ],
-        "risk_flags": [],
-        "quality_pass": "v3.1"
-      },
-      "options": {},
-      "common_wrong_answers": [
-        "只填写风险表格，不与现场人员确认能量来源、作业边界和残余风险",
-        "先开始拆装，等发现问题后再补做风险评估和隔离记录",
-        "把低概率事件直接忽略，不判断后果严重度和控制措施有效性",
-        "只依赖口头提醒，不设置可验证的隔离、警示或监督措施",
-        "认为完成一次检查后不需要复盘控制措施是否有效",
-        "把许可、隔离、测试和记录视为互不相关的独立步骤"
-      ],
-      "module_refs": [
-        "S1"
-      ],
-      "primary_knowledge_point": "风险识别",
-      "safety_boundary_note": "本题用于学习和受监督训练；实际固定布线、配电盘、带电测试、保护计算或合规结论，必须核对当前标准、现场条件并由合格人员确认。"
-    },
-    {
-      "id": "V3-FINAL-S1-Q014",
-      "module": "S1",
-      "section": "S1.2",
-      "section_title": "危害识别与控制层级",
-      "type": "multiple_choice",
-      "difficulty": "applied",
-      "cognitive_skill": "识别",
-      "context": "在开始安装或排故前，你需要确认 `危害识别与控制层级` 的关键判断点，并说明错误做法会造成什么风险。",
-      "task": "请围绕 `风险识别` 给出可执行判断，并说明需要哪些证据、记录和监督边界。",
-      "question": "在开始安装或排故前，你需要确认 `危害识别与控制层级` 的关键判断点，并说明错误做法会造成什么风险。 请围绕 `风险识别` 给出可执行判断，并说明需要哪些证据、记录和监督边界。 原题/种子问题：以下哪项是针对电气危险的工程控制措施？",
-      "answer": "安装绝缘挡板",
-      "explanation": "绝缘挡板是工程控制；手套属PPE；培训和时间限制是行政控制。",
-      "knowledge_points": [
-        "危害识别与控制层级",
-        "风险识别",
-        "隔离验证"
-      ],
-      "knowledge_points_detailed": [
-        {
-          "concept": "风险识别",
-          "detail": "理解 `风险识别` 在 `危害识别与控制层级` 中解决的具体现场问题，而不是只记住术语。",
-          "field_application": "能把教材描述转化为可检查步骤：资料核对、隔离/控制、测量或观察、记录、升级确认。",
-          "common_error": "把 `风险识别` 简化为经验判断，未说明证据、边界或失败后的处理。",
-          "verification": "答案应包含检查对象、判断标准、测试条件、记录内容和监督/许可边界。"
-        }
-      ],
-      "source_alignment": {
-        "source_kind": "v2_existing_reviewed",
-        "seed_id": "S1.2.6",
-        "original_ref_id": "ORIG-S1-P21-RQ3",
-        "original_page": 21,
-        "source_quality": "aligned_or_seeded"
-      },
-      "audit": {
-        "status": "final_exam_reviewed_and_enriched",
-        "checks": [
-          "题干已加入现场上下文",
-          "答案解释已要求步骤/证据/边界",
-          "已加入细分知识点",
-          "已加入常见错误或迷惑项说明",
-          "v3.1: normalized context/task wording",
-          "v3.1: primary knowledge point inferred from question text",
-          "v3.1: generic safety tag moved out of detailed knowledge tags"
-        ],
-        "risk_flags": [],
-        "quality_pass": "v3.1"
-      },
-      "options": {
-        "A": "安全培训",
-        "B": "安装绝缘挡板",
-        "C": "戴绝缘手套",
-        "D": "限制工作时间",
-        "E": "只填写风险表格，不与现场人员确认能量来源、作业边界和残余风险",
-        "F": "先开始拆装，等发现问题后再补做风险评估和隔离记录"
-      },
-      "distractor_rationale": {
-        "A": "迷惑点：该选项容易被当作 `风险识别` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "B": "正确项：该选项包含现场核对、风险控制、测试/观察证据和记录边界。",
-        "C": "迷惑点：该选项容易被当作 `风险识别` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "D": "迷惑点：该选项容易被当作 `风险识别` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "E": "迷惑点：该选项容易被当作 `风险识别` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "F": "迷惑点：该选项容易被当作 `风险识别` 的快捷做法，但缺少关键证据、控制措施或监督确认。"
-      },
-      "module_refs": [
-        "S1"
-      ],
-      "primary_knowledge_point": "风险识别",
-      "safety_boundary_note": "本题用于学习和受监督训练；实际固定布线、配电盘、带电测试、保护计算或合规结论，必须核对当前标准、现场条件并由合格人员确认。",
-      "answer_key": "B",
-      "answer_text": "安装绝缘挡板"
-    },
-    {
-      "id": "V3-FINAL-S1-Q015",
-      "module": "S1",
-      "section": "S1.2",
-      "section_title": "危害识别与控制层级",
-      "type": "short_answer",
-      "difficulty": "foundation",
-      "cognitive_skill": "解释",
-      "context": "你正在复盘 `危害识别与控制层级` 的训练任务，需要把答案写成能被主管检查的现场证据链。",
-      "task": "请围绕 `风险识别` 给出可执行判断，并说明需要哪些证据、记录和监督边界。",
-      "question": "你正在复盘 `危害识别与控制层级` 的训练任务，需要把答案写成能被主管检查的现场证据链。 请围绕 `风险识别` 给出可执行判断，并说明需要哪些证据、记录和监督边界。 原题/种子问题：列出学习材料中建议的三种识别电气工作场所危害的常见方法。",
-      "answer": "工作场所巡查、检查表、与工人协商、回顾事故记录、工作安全分析（JSA）。",
-      "explanation": "参见Study Pack p.5–7。",
-      "knowledge_points": [
-        "危害识别与控制层级",
-        "风险识别",
-        "隔离验证"
-      ],
-      "knowledge_points_detailed": [
-        {
-          "concept": "风险识别",
-          "detail": "理解 `风险识别` 在 `危害识别与控制层级` 中解决的具体现场问题，而不是只记住术语。",
-          "field_application": "能把教材描述转化为可检查步骤：资料核对、隔离/控制、测量或观察、记录、升级确认。",
-          "common_error": "把 `风险识别` 简化为经验判断，未说明证据、边界或失败后的处理。",
-          "verification": "答案应包含检查对象、判断标准、测试条件、记录内容和监督/许可边界。"
-        }
-      ],
-      "source_alignment": {
-        "source_kind": "v2_existing_reviewed",
-        "seed_id": "S1.2.7",
-        "original_ref_id": "ORIG-S1-P21-RQ4",
-        "original_page": 21,
-        "source_quality": "aligned_or_seeded"
-      },
-      "audit": {
-        "status": "final_exam_reviewed_and_enriched",
-        "checks": [
-          "题干已加入现场上下文",
-          "答案解释已要求步骤/证据/边界",
-          "已加入细分知识点",
-          "已加入常见错误或迷惑项说明",
-          "v3.1: normalized context/task wording",
-          "v3.1: primary knowledge point inferred from question text",
-          "v3.1: generic safety tag moved out of detailed knowledge tags"
-        ],
-        "risk_flags": [],
-        "quality_pass": "v3.1"
-      },
-      "options": {},
-      "common_wrong_answers": [
-        "只填写风险表格，不与现场人员确认能量来源、作业边界和残余风险",
-        "先开始拆装，等发现问题后再补做风险评估和隔离记录",
-        "把低概率事件直接忽略，不判断后果严重度和控制措施有效性",
-        "只依赖口头提醒，不设置可验证的隔离、警示或监督措施",
-        "认为完成一次检查后不需要复盘控制措施是否有效",
-        "把许可、隔离、测试和记录视为互不相关的独立步骤"
-      ],
-      "module_refs": [
-        "S1"
-      ],
-      "primary_knowledge_point": "风险识别",
-      "safety_boundary_note": "本题用于学习和受监督训练；实际固定布线、配电盘、带电测试、保护计算或合规结论，必须核对当前标准、现场条件并由合格人员确认。"
-    },
-    {
-      "id": "V3-FINAL-S1-Q016",
-      "module": "S1",
-      "section": "S1.2",
-      "section_title": "危害识别与控制层级",
-      "type": "fault_finding",
-      "difficulty": "applied",
-      "cognitive_skill": "应用",
-      "context": "你在受监督的现场实训中处理 `危害识别与控制层级`，需要把教材要求转化为可记录、可复查的作业步骤。",
-      "task": "请围绕 `风险识别` 给出可执行判断，并说明需要哪些证据、记录和监督边界。",
-      "question": "你在受监督的现场实训中处理 `危害识别与控制层级`，需要把教材要求转化为可记录、可复查的作业步骤。 请围绕 `风险识别` 给出可执行判断，并说明需要哪些证据、记录和监督边界。 原题/种子问题：一名电工使用CAT III 600V的万用表测试400V开关柜，之后仪表读数异常。他未理会并继续工作。指出危害识别和风险控制方面的错误。",
-      "answer": "电工未能识别仪表可能超出能力的危害（暂态过电压），未核实仪表是否损坏，也未采取更换或检查的控制措施。这可能导致错误判断无电，造成电击危险。",
-      "explanation": "仪表安全是测试的核心环节。",
-      "knowledge_points": [
-        "危害识别与控制层级",
-        "风险识别",
-        "控制层级",
-        "隔离验证"
-      ],
-      "knowledge_points_detailed": [
-        {
-          "concept": "风险识别",
-          "detail": "理解 `风险识别` 在 `危害识别与控制层级` 中解决的具体现场问题，而不是只记住术语。",
-          "field_application": "能把教材描述转化为可检查步骤：资料核对、隔离/控制、测量或观察、记录、升级确认。",
-          "common_error": "把 `风险识别` 简化为经验判断，未说明证据、边界或失败后的处理。",
-          "verification": "答案应包含检查对象、判断标准、测试条件、记录内容和监督/许可边界。"
-        }
-      ],
-      "source_alignment": {
-        "source_kind": "v2_existing_reviewed",
-        "seed_id": "S1.2.8",
-        "original_ref_id": "ORIG-S1-P21-RQ5",
-        "original_page": 21,
-        "source_quality": "aligned_or_seeded"
-      },
-      "audit": {
-        "status": "final_exam_reviewed_and_enriched",
-        "checks": [
-          "题干已加入现场上下文",
-          "答案解释已要求步骤/证据/边界",
-          "已加入细分知识点",
-          "已加入常见错误或迷惑项说明",
-          "v3.1: normalized context/task wording",
-          "v3.1: primary knowledge point inferred from question text",
-          "v3.1: generic safety tag moved out of detailed knowledge tags"
-        ],
-        "risk_flags": [],
-        "quality_pass": "v3.1"
-      },
-      "options": {},
-      "common_wrong_answers": [
-        "只填写风险表格，不与现场人员确认能量来源、作业边界和残余风险",
-        "先开始拆装，等发现问题后再补做风险评估和隔离记录",
-        "把低概率事件直接忽略，不判断后果严重度和控制措施有效性",
-        "只依赖口头提醒，不设置可验证的隔离、警示或监督措施",
-        "认为完成一次检查后不需要复盘控制措施是否有效",
-        "把许可、隔离、测试和记录视为互不相关的独立步骤"
-      ],
-      "fault_finding_steps_expected": [
-        "确认症状、作业范围和安全状态",
-        "隔离相关能量源，或确认受控带电测试条件、许可和监督",
-        "从电源、保护、控制、负载、端子/电缆逐段验证",
-        "记录仪表、量程、测点、读数和判断依据",
-        "修复后按规定复测，并由合格人员确认可以恢复运行"
-      ],
-      "module_refs": [
-        "S1"
-      ],
-      "primary_knowledge_point": "风险识别",
-      "safety_boundary_note": "本题用于学习和受监督训练；实际固定布线、配电盘、带电测试、保护计算或合规结论，必须核对当前标准、现场条件并由合格人员确认。"
-    },
-    {
-      "id": "V3-FINAL-S1-Q017",
-      "module": "S1",
-      "section": "S1.3",
-      "section_title": "安全隔离与锁定挂牌",
-      "type": "multiple_choice",
-      "difficulty": "foundation",
-      "cognitive_skill": "识别",
-      "context": "现场交底后，你负责整理 `安全隔离与锁定挂牌` 的检查顺序，需要说明判断依据、测试条件和监督边界。",
-      "task": "请围绕 `隔离验证` 给出可执行判断，并说明需要哪些证据、记录和监督边界。",
-      "question": "现场交底后，你负责整理 `安全隔离与锁定挂牌` 的检查顺序，需要说明判断依据、测试条件和监督边界。 请围绕 `隔离验证` 给出可执行判断，并说明需要哪些证据、记录和监督边界。 原题/种子问题：电气隔离程序中，“验电”步骤之前必须做什么？",
-      "answer": "在已知带电电路上测试验电器",
-      "explanation": "验电前应验证验电器功能完好，以免错误指示无电。",
-      "knowledge_points": [
-        "安全隔离与锁定挂牌",
-        "隔离验证",
-        "风险识别"
-      ],
-      "knowledge_points_detailed": [
-        {
-          "concept": "隔离验证",
-          "detail": "理解 `隔离验证` 在 `安全隔离与锁定挂牌` 中解决的具体现场问题，而不是只记住术语。",
-          "field_application": "能把教材描述转化为可检查步骤：资料核对、隔离/控制、测量或观察、记录、升级确认。",
-          "common_error": "把 `隔离验证` 简化为经验判断，未说明证据、边界或失败后的处理。",
-          "verification": "答案应包含检查对象、判断标准、测试条件、记录内容和监督/许可边界。"
-        }
-      ],
-      "source_alignment": {
-        "source_kind": "v2_existing_reviewed",
-        "seed_id": "S1.3.1",
-        "original_ref_id": "ORIG-S1-P12-RQ5",
-        "original_page": 12,
-        "source_quality": "aligned_or_seeded"
-      },
-      "audit": {
-        "status": "final_exam_reviewed_and_enriched",
-        "checks": [
-          "题干已加入现场上下文",
-          "答案解释已要求步骤/证据/边界",
-          "已加入细分知识点",
-          "已加入常见错误或迷惑项说明",
-          "v3.1: normalized context/task wording",
-          "v3.1: primary knowledge point inferred from question text",
-          "v3.1: generic safety tag moved out of detailed knowledge tags"
-        ],
-        "risk_flags": [],
-        "quality_pass": "v3.1"
-      },
-      "options": {
-        "A": "锁定开关",
-        "B": "在已知带电电路上测试验电器",
-        "C": "挂牌",
-        "D": "通知监督人",
-        "E": "只填写风险表格，不与现场人员确认能量来源、作业边界和残余风险",
-        "F": "先开始拆装，等发现问题后再补做风险评估和隔离记录"
-      },
-      "distractor_rationale": {
-        "A": "迷惑点：该选项容易被当作 `隔离验证` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "B": "正确项：该选项包含现场核对、风险控制、测试/观察证据和记录边界。",
-        "C": "迷惑点：该选项容易被当作 `隔离验证` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "D": "迷惑点：该选项容易被当作 `隔离验证` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "E": "迷惑点：该选项容易被当作 `隔离验证` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "F": "迷惑点：该选项容易被当作 `隔离验证` 的快捷做法，但缺少关键证据、控制措施或监督确认。"
-      },
-      "module_refs": [
-        "S1"
-      ],
-      "primary_knowledge_point": "隔离验证",
-      "safety_boundary_note": "本题用于学习和受监督训练；实际固定布线、配电盘、带电测试、保护计算或合规结论，必须核对当前标准、现场条件并由合格人员确认。",
-      "answer_key": "B",
-      "answer_text": "在已知带电电路上测试验电器"
-    },
-    {
-      "id": "V3-FINAL-S1-Q018",
-      "module": "S1",
-      "section": "S1.3",
-      "section_title": "安全隔离与锁定挂牌",
-      "type": "multiple_choice",
-      "difficulty": "foundation",
-      "cognitive_skill": "解释",
-      "context": "作为学徒，你正在准备 `安全隔离与锁定挂牌` 的作业记录，需要把概念落实到隔离、检查、测量或排故动作。",
-      "task": "请围绕 `隔离验证` 给出可执行判断，并说明需要哪些证据、记录和监督边界。",
-      "question": "作为学徒，你正在准备 `安全隔离与锁定挂牌` 的作业记录，需要把概念落实到隔离、检查、测量或排故动作。 请围绕 `隔离验证` 给出可执行判断，并说明需要哪些证据、记录和监督边界。 原题/种子问题：锁定/挂牌的主要目的是？",
-      "answer": "防止设备意外启动",
-      "explanation": "锁定挂牌确保电源保持断开，防止意外通电。",
-      "knowledge_points": [
-        "安全隔离与锁定挂牌",
-        "隔离验证",
-        "风险识别"
-      ],
-      "knowledge_points_detailed": [
-        {
-          "concept": "隔离验证",
-          "detail": "理解 `隔离验证` 在 `安全隔离与锁定挂牌` 中解决的具体现场问题，而不是只记住术语。",
-          "field_application": "能把教材描述转化为可检查步骤：资料核对、隔离/控制、测量或观察、记录、升级确认。",
-          "common_error": "把 `隔离验证` 简化为经验判断，未说明证据、边界或失败后的处理。",
-          "verification": "答案应包含检查对象、判断标准、测试条件、记录内容和监督/许可边界。"
-        }
-      ],
-      "source_alignment": {
-        "source_kind": "v2_existing_reviewed",
-        "seed_id": "S1.3.2",
-        "original_ref_id": "ORIG-S1-P14-RQ1",
-        "original_page": 14,
-        "source_quality": "aligned_or_seeded"
-      },
-      "audit": {
-        "status": "final_exam_reviewed_and_enriched",
-        "checks": [
-          "题干已加入现场上下文",
-          "答案解释已要求步骤/证据/边界",
-          "已加入细分知识点",
-          "已加入常见错误或迷惑项说明",
-          "v3.1: normalized context/task wording",
-          "v3.1: primary knowledge point inferred from question text",
-          "v3.1: generic safety tag moved out of detailed knowledge tags"
-        ],
-        "risk_flags": [],
-        "quality_pass": "v3.1"
-      },
-      "options": {
-        "A": "提醒他人有危险",
-        "B": "防止设备意外启动",
-        "C": "装饰作用",
-        "D": "标记设备归属",
-        "E": "只填写风险表格，不与现场人员确认能量来源、作业边界和残余风险",
-        "F": "先开始拆装，等发现问题后再补做风险评估和隔离记录"
-      },
-      "distractor_rationale": {
-        "A": "迷惑点：该选项容易被当作 `隔离验证` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "B": "正确项：该选项包含现场核对、风险控制、测试/观察证据和记录边界。",
-        "C": "迷惑点：该选项容易被当作 `隔离验证` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "D": "迷惑点：该选项容易被当作 `隔离验证` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "E": "迷惑点：该选项容易被当作 `隔离验证` 的快捷做法，但缺少关键证据、控制措施或监督确认。",
-        "F": "迷惑点：该选项容易被当作 `隔离验证` 的快捷做法，但缺少关键证据、控制措施或监督确认。"
-      },
-      "module_refs": [
-        "S1"
-      ],
-      "primary_knowledge_point": "隔离验证",
-      "safety_boundary_note": "本题用于学习和受监督训练；实际固定布线、配电盘、带电测试、保护计算或合规结论，必须核对当前标准、现场条件并由合格人员确认。",
-      "answer_key": "B",
-      "answer_text": "防止设备意外启动"
-    },
-    {
-      "id": "V3-FINAL-S1-Q019",
-      "module": "S1",
-      "section": "S1.3",
-      "section_title": "安全隔离与锁定挂牌",
-      "type": "short_answer",
-      "difficulty": "applied",
-      "cognitive_skill": "应用",
-      "context": "在开始安装或排故前，你需要确认 `安全隔离与锁定挂牌` 的关键判断点，并说明错误做法会造成什么风险。",
-      "task": "请围绕 `隔离验证` 给出可执行判断，并说明需要哪些证据、记录和监督边界。",
-      "question": "在开始安装或排故前，你需要确认 `安全隔离与锁定挂牌` 的关键判断点，并说明错误做法会造成什么风险。 请围绕 `隔离验证` 给出可执行判断，并说明需要哪些证据、记录和监督边界。 原题/种子问题：列出电气隔离的标准五个步骤（按正确顺序）。",
-      "answer": "1. 识别所有电源；2. 断开并锁定开关；3. 挂牌；4. 验电确认无电；5. 恢复供电。",
-      "explanation": "标准隔离顺序确保安全。",
-      "knowledge_points": [
-        "安全隔离与锁定挂牌",
-        "隔离验证",
-        "控制层级",
-        "风险识别"
-      ],
-      "knowledge_points_detailed": [
-        {
-          "concept": "隔离验证",
-          "detail": "理解 `隔离验证` 在 `安全隔离与锁定挂牌` 中解决的具体现场问题，而不是只记住术语。",
-          "field_application": "能把教材描述转化为可检查步骤：资料核对、隔离/控制、测量或观察、记录、升级确认。",
-          "common_error": "把 `隔离验证` 简化为经验判断，未说明证据、边界或失败后的处理。",
-          "verification": "答案应包含检查对象、判断标准、测试条件、记录内容和监督/许可边界。"
-        }
-      ],
-      "source_alignment": {
-        "source_kind": "v2_existing_reviewed",
-        "seed_id": "S1.3.3",
-        "original_ref_id": "ORIG-S1-P14-RQ2",
-        "original_page": 14,
-        "source_quality": "aligned_or_seeded"
-      },
-      "audit": {
-        "status": "final_exam_reviewed_and_enriched",
-        "checks": [
-          "题干已加入现场上下文",
-          "答案解释已要求步骤/证据/边界",
-          "已加入细分知识点",
-          "已加入常见错误或迷惑项说明",
-          "v3.1: normalized context/task wording",
-          "v3.1: primary knowledge point inferred from question text",
-          "v3.1: generic safety tag moved out of detailed knowledge tags"
-        ],
-        "risk_flags": [],
-        "quality_pass": "v3.1"
-      },
-      "options": {},
-      "common_wrong_answers": [
-        "只填写风险表格，不与现场人员确认能量来源、作业边界和残余风险",
-        "先开始拆装，等发现问题后再补做风险评估和隔离记录",
-        "把低概率事件直接忽略，不判断后果严重度和控制措施有效性",
-        "只依赖口头提醒，不设置可验证的隔离、警示或监督措施",
-        "认为完成一次检查后不需要复盘控制措施是否有效",
-        "把许可、隔离、测试和记录视为互不相关的独立步骤"
-      ],
-      "module_refs": [
-        "S1"
-      ],
-      "primary_knowledge_point": "隔离验证",
-      "safety_boundary_note": "本题用于学习和受监督训练；实际固定布线、配电盘、带电测试、保护计算或合规结论，必须核对当前标准、现场条件并由合格人员确认。"
-    },
-    {
-      "id": "V3-FINAL-S1-Q020",
-      "module": "S1",
-      "section": "S1.3",
-      "section_title": "安全隔离与锁定挂牌",
-      "type": "scenario",
-      "difficulty": "applied",
-      "cognitive_skill": "故障分析",
-      "context": "你正在复盘 `安全隔离与锁定挂牌` 的训练任务，需要把答案写成能被主管检查的现场证据链。",
-      "task": "请围绕 `隔离验证` 给出可执行判断，并说明需要哪些证据、记录和监督边界。",
-      "question": "你正在复盘 `安全隔离与锁定挂牌` 的训练任务，需要把答案写成能被主管检查的现场证据链。 请围绕 `隔离验证` 给出可执行判断，并说明需要哪些证据、记录和监督边界。 原题/种子问题：你准备对一台电机进行维修。已断开开关并锁住，但未验电。同事催促你开始。你应该怎么做？",
-      "answer": "拒绝开始，坚持先验电。使用经校验的验电器在已知带电电路测试后，再测试电机端子以确认无电。只有验证后才能工作。",
-      "explanation": "验电是隔离的关键安全关卡。",
-      "knowledge_points": [
-        "安全隔离与锁定挂牌",
-        "隔离验证",
-        "监督边界",
-        "风险识别"
-      ],
-      "knowledge_points_detailed": [
-        {
-          "concept": "隔离验证",
-          "detail": "理解 `隔离验证` 在 `安全隔离与锁定挂牌` 中解决的具体现场问题，而不是只记住术语。",
-          "field_application": "能把教材描述转化为可检查步骤：资料核对、隔离/控制、测量或观察、记录、升级确认。",
-          "common_error": "把 `隔离验证` 简化为经验判断，未说明证据、边界或失败后的处理。",
-          "verification": "答案应包含检查对象、判断标准、测试条件、记录内容和监督/许可边界。"
-        }
-      ],
-      "source_alignment": {
-        "source_kind": "v2_existing_reviewed",
-        "seed_id": "S1.3.4",
-        "original_ref_id": "ORIG-S1-P14-RQ3",
-        "original_page": 14,
-        "source_quality": "aligned_or_seeded"
-      },
-      "audit": {
-        "status": "final_exam_reviewed_and_enriched",
-        "checks": [
-          "题干已加入现场上下文",
-          "答案解释已要求步骤/证据/边界",
-          "已加入细分知识点",
-          "已加入常见错误或迷惑项说明",
-          "v3.1: normalized context/task wording",
-          "v3.1: primary knowledge point inferred from question text",
-          "v3.1: generic safety tag moved out of detailed knowledge tags"
-        ],
-        "risk_flags": [],
-        "quality_pass": "v3.1"
-      },
-      "options": {},
-      "common_wrong_answers": [
-        "只填写风险表格，不与现场人员确认能量来源、作业边界和残余风险",
-        "先开始拆装，等发现问题后再补做风险评估和隔离记录",
-        "把低概率事件直接忽略，不判断后果严重度和控制措施有效性",
-        "只依赖口头提醒，不设置可验证的隔离、警示或监督措施",
-        "认为完成一次检查后不需要复盘控制措施是否有效",
-        "把许可、隔离、测试和记录视为互不相关的独立步骤"
-      ],
-      "module_refs": [
-        "S1"
-      ],
-      "primary_knowledge_point": "隔离验证",
-      "safety_boundary_note": "本题用于学习和受监督训练；实际固定布线、配电盘、带电测试、保护计算或合规结论，必须核对当前标准、现场条件并由合格人员确认。"
-    },
     {
       "id": "V3-FINAL-S2-Q001",
       "module": "S2",
@@ -14025,6 +12623,1006 @@
       "safety_boundary_note": "本题用于学习和受监督训练；实际固定布线、配电盘、带电测试、保护计算或合规结论，必须核对当前标准、现场条件并由合格人员确认。",
       "answer_key": "C",
       "answer_text": "$V_{c1\\phi} = V_{c3\\phi} \\times 1.155$"
+    },
+    {
+      "id": "S1-5-K33-5",
+      "module": "S1",
+      "section": "S1.5",
+      "section_title": "跨步、接触电压与高压程序",
+      "type": "scenario",
+      "difficulty": "applied",
+      "cognitive_skill": "应用",
+      "context": "教材核对练习",
+      "task": "回答必须能由指定教材页的内容支持。",
+      "question": "情境判断：作业前复核“跨步电压”时，主管要求你说明关键要求。跨步电压的定义是什么？",
+      "answer": "地面上相距一个步距或 1 米的两点之间的电压差。",
+      "answer_key": null,
+      "answer_text": null,
+      "explanation": "教材 Study Pack p.16：地面上相距一个步距或 1 米的两点之间的电压差。",
+      "knowledge_points": [
+        "跨步、接触电压与高压程序",
+        "跨步电压"
+      ],
+      "knowledge_points_detailed": [
+        {
+          "concept": "跨步电压",
+          "detail": "地面上相距一个步距或 1 米的两点之间的电压差。",
+          "field_application": "将这一要求用于作业前的风险识别、隔离或测试核对；实际操作必须按现场程序和授权范围执行。",
+          "common_error": "相线与中性线之间的任何电压。",
+          "verification": "回到 Study Pack p.16 核对术语、范围和前提条件。"
+        }
+      ],
+      "options": {},
+      "distractor_rationale": {},
+      "primary_knowledge_point": "跨步电压",
+      "source_alignment": {
+        "source_kind": "textbook_fact_reaudited",
+        "original_ref_id": "Study Pack p.16",
+        "original_page": 16,
+        "source_quality": "direct_textbook_support"
+      },
+      "audit": {
+        "status": "expert_reaudited",
+        "checks": [
+          "题干可独立作答",
+          "答案与教材页码直接对应",
+          "选择题仅保留可辨析的干扰项",
+          "删除泛化模板、原题标签和无关现场措辞"
+        ],
+        "risk_flags": [],
+        "quality_pass": "s1_reaudit_20260912"
+      },
+      "safety_boundary_note": "用于学习与受监督训练。实际隔离、带电测试、高压工作或合规结论必须遵循当前法规、现场程序及授权人员的指示。"
+    },
+    {
+      "id": "S1-5-K34-5",
+      "module": "S1",
+      "section": "S1.5",
+      "section_title": "跨步、接触电压与高压程序",
+      "type": "scenario",
+      "difficulty": "applied",
+      "cognitive_skill": "应用",
+      "context": "教材核对练习",
+      "task": "回答必须能由指定教材页的内容支持。",
+      "question": "情境判断：作业前复核“接触电压”时，主管要求你说明关键要求。接触电压如何产生？",
+      "answer": "故障电流在导电介质中形成电位差，使人的脚与接触带电材料的手、头或身体其他部位之间存在电压差。",
+      "answer_key": null,
+      "answer_text": null,
+      "explanation": "教材 Study Pack p.16：故障电流在导电介质中形成电位差，使人的脚与接触带电材料的手、头或身体其他部位之间存在电压差。",
+      "knowledge_points": [
+        "跨步、接触电压与高压程序",
+        "接触电压"
+      ],
+      "knowledge_points_detailed": [
+        {
+          "concept": "接触电压",
+          "detail": "故障电流在导电介质中形成电位差，使人的脚与接触带电材料的手、头或身体其他部位之间存在电压差。",
+          "field_application": "将这一要求用于作业前的风险识别、隔离或测试核对；实际操作必须按现场程序和授权范围执行。",
+          "common_error": "仅在人体双脚离地时产生。",
+          "verification": "回到 Study Pack p.16 核对术语、范围和前提条件。"
+        }
+      ],
+      "options": {},
+      "distractor_rationale": {},
+      "primary_knowledge_point": "接触电压",
+      "source_alignment": {
+        "source_kind": "textbook_fact_reaudited",
+        "original_ref_id": "Study Pack p.16",
+        "original_page": 16,
+        "source_quality": "direct_textbook_support"
+      },
+      "audit": {
+        "status": "expert_reaudited",
+        "checks": [
+          "题干可独立作答",
+          "答案与教材页码直接对应",
+          "选择题仅保留可辨析的干扰项",
+          "删除泛化模板、原题标签和无关现场措辞"
+        ],
+        "risk_flags": [],
+        "quality_pass": "s1_reaudit_20260912"
+      },
+      "safety_boundary_note": "用于学习与受监督训练。实际隔离、带电测试、高压工作或合规结论必须遵循当前法规、现场程序及授权人员的指示。"
+    },
+    {
+      "id": "S1-5-K35-5",
+      "module": "S1",
+      "section": "S1.5",
+      "section_title": "跨步、接触电压与高压程序",
+      "type": "scenario",
+      "difficulty": "applied",
+      "cognitive_skill": "应用",
+      "context": "教材核对练习",
+      "task": "回答必须能由指定教材页的内容支持。",
+      "question": "情境判断：作业前复核“间接接触”时，主管要求你说明关键要求。什么是间接接触？",
+      "answer": "接触通常不带电、但因绝缘失效或其他故障而意外带电的外露导电部分。",
+      "answer_key": null,
+      "answer_text": null,
+      "explanation": "教材 Study Pack p.17：接触通常不带电、但因绝缘失效或其他故障而意外带电的外露导电部分。",
+      "knowledge_points": [
+        "跨步、接触电压与高压程序",
+        "间接接触"
+      ],
+      "knowledge_points_detailed": [
+        {
+          "concept": "间接接触",
+          "detail": "接触通常不带电、但因绝缘失效或其他故障而意外带电的外露导电部分。",
+          "field_application": "将这一要求用于作业前的风险识别、隔离或测试核对；实际操作必须按现场程序和授权范围执行。",
+          "common_error": "直接触碰通常带电的裸露导体。",
+          "verification": "回到 Study Pack p.17 核对术语、范围和前提条件。"
+        }
+      ],
+      "options": {},
+      "distractor_rationale": {},
+      "primary_knowledge_point": "间接接触",
+      "source_alignment": {
+        "source_kind": "textbook_fact_reaudited",
+        "original_ref_id": "Study Pack p.17",
+        "original_page": 17,
+        "source_quality": "direct_textbook_support"
+      },
+      "audit": {
+        "status": "expert_reaudited",
+        "checks": [
+          "题干可独立作答",
+          "答案与教材页码直接对应",
+          "选择题仅保留可辨析的干扰项",
+          "删除泛化模板、原题标签和无关现场措辞"
+        ],
+        "risk_flags": [],
+        "quality_pass": "s1_reaudit_20260912"
+      },
+      "safety_boundary_note": "用于学习与受监督训练。实际隔离、带电测试、高压工作或合规结论必须遵循当前法规、现场程序及授权人员的指示。"
+    },
+    {
+      "id": "S1-5-K36-5",
+      "module": "S1",
+      "section": "S1.5",
+      "section_title": "跨步、接触电压与高压程序",
+      "type": "scenario",
+      "difficulty": "applied",
+      "cognitive_skill": "应用",
+      "context": "教材核对练习",
+      "task": "回答必须能由指定教材页的内容支持。",
+      "question": "情境判断：作业前复核“直接接触”时，主管要求你说明关键要求。什么是直接接触？",
+      "answer": "人与通常带电的外露导电部分接触，并成为故障电流路径的一部分。",
+      "answer_key": null,
+      "answer_text": null,
+      "explanation": "教材 Study Pack p.17：人与通常带电的外露导电部分接触，并成为故障电流路径的一部分。",
+      "knowledge_points": [
+        "跨步、接触电压与高压程序",
+        "直接接触"
+      ],
+      "knowledge_points_detailed": [
+        {
+          "concept": "直接接触",
+          "detail": "人与通常带电的外露导电部分接触，并成为故障电流路径的一部分。",
+          "field_application": "将这一要求用于作业前的风险识别、隔离或测试核对；实际操作必须按现场程序和授权范围执行。",
+          "common_error": "接触因故障才带电的金属外壳。",
+          "verification": "回到 Study Pack p.17 核对术语、范围和前提条件。"
+        }
+      ],
+      "options": {},
+      "distractor_rationale": {},
+      "primary_knowledge_point": "直接接触",
+      "source_alignment": {
+        "source_kind": "textbook_fact_reaudited",
+        "original_ref_id": "Study Pack p.17",
+        "original_page": 17,
+        "source_quality": "direct_textbook_support"
+      },
+      "audit": {
+        "status": "expert_reaudited",
+        "checks": [
+          "题干可独立作答",
+          "答案与教材页码直接对应",
+          "选择题仅保留可辨析的干扰项",
+          "删除泛化模板、原题标签和无关现场措辞"
+        ],
+        "risk_flags": [],
+        "quality_pass": "s1_reaudit_20260912"
+      },
+      "safety_boundary_note": "用于学习与受监督训练。实际隔离、带电测试、高压工作或合规结论必须遵循当前法规、现场程序及授权人员的指示。"
+    },
+    {
+      "id": "S1-5-K37-5",
+      "module": "S1",
+      "section": "S1.5",
+      "section_title": "跨步、接触电压与高压程序",
+      "type": "scenario",
+      "difficulty": "applied",
+      "cognitive_skill": "应用",
+      "context": "教材核对练习",
+      "task": "回答必须能由指定教材页的内容支持。",
+      "question": "情境判断：作业前复核“加强绝缘”时，主管要求你说明关键要求。哪种绝缘提供与双重绝缘等同的防电击保护？",
+      "answer": "加强绝缘。",
+      "answer_key": null,
+      "answer_text": null,
+      "explanation": "教材 Study Pack p.17：加强绝缘。",
+      "knowledge_points": [
+        "跨步、接触电压与高压程序",
+        "加强绝缘"
+      ],
+      "knowledge_points_detailed": [
+        {
+          "concept": "加强绝缘",
+          "detail": "加强绝缘。",
+          "field_application": "将这一要求用于作业前的风险识别、隔离或测试核对；实际操作必须按现场程序和授权范围执行。",
+          "common_error": "单层基本绝缘。",
+          "verification": "回到 Study Pack p.17 核对术语、范围和前提条件。"
+        }
+      ],
+      "options": {},
+      "distractor_rationale": {},
+      "primary_knowledge_point": "加强绝缘",
+      "source_alignment": {
+        "source_kind": "textbook_fact_reaudited",
+        "original_ref_id": "Study Pack p.17",
+        "original_page": 17,
+        "source_quality": "direct_textbook_support"
+      },
+      "audit": {
+        "status": "expert_reaudited",
+        "checks": [
+          "题干可独立作答",
+          "答案与教材页码直接对应",
+          "选择题仅保留可辨析的干扰项",
+          "删除泛化模板、原题标签和无关现场措辞"
+        ],
+        "risk_flags": [],
+        "quality_pass": "s1_reaudit_20260912"
+      },
+      "safety_boundary_note": "用于学习与受监督训练。实际隔离、带电测试、高压工作或合规结论必须遵循当前法规、现场程序及授权人员的指示。"
+    },
+    {
+      "id": "S1-5-K38-5",
+      "module": "S1",
+      "section": "S1.5",
+      "section_title": "跨步、接触电压与高压程序",
+      "type": "scenario",
+      "difficulty": "applied",
+      "cognitive_skill": "应用",
+      "context": "教材核对练习",
+      "task": "回答必须能由指定教材页的内容支持。",
+      "question": "情境判断：作业前复核“等电位联结”时，主管要求你说明关键要求。等电位联结的目的是什么？",
+      "answer": "降低外露金属部件、固定电器及其他外露金属之间出现电位差的风险。",
+      "answer_key": null,
+      "answer_text": null,
+      "explanation": "教材 Study Pack p.18：降低外露金属部件、固定电器及其他外露金属之间出现电位差的风险。",
+      "knowledge_points": [
+        "跨步、接触电压与高压程序",
+        "等电位联结"
+      ],
+      "knowledge_points_detailed": [
+        {
+          "concept": "等电位联结",
+          "detail": "降低外露金属部件、固定电器及其他外露金属之间出现电位差的风险。",
+          "field_application": "将这一要求用于作业前的风险识别、隔离或测试核对；实际操作必须按现场程序和授权范围执行。",
+          "common_error": "让所有金属部件永久带电。",
+          "verification": "回到 Study Pack p.18 核对术语、范围和前提条件。"
+        }
+      ],
+      "options": {},
+      "distractor_rationale": {},
+      "primary_knowledge_point": "等电位联结",
+      "source_alignment": {
+        "source_kind": "textbook_fact_reaudited",
+        "original_ref_id": "Study Pack p.18",
+        "original_page": 18,
+        "source_quality": "direct_textbook_support"
+      },
+      "audit": {
+        "status": "expert_reaudited",
+        "checks": [
+          "题干可独立作答",
+          "答案与教材页码直接对应",
+          "选择题仅保留可辨析的干扰项",
+          "删除泛化模板、原题标签和无关现场措辞"
+        ],
+        "risk_flags": [],
+        "quality_pass": "s1_reaudit_20260912"
+      },
+      "safety_boundary_note": "用于学习与受监督训练。实际隔离、带电测试、高压工作或合规结论必须遵循当前法规、现场程序及授权人员的指示。"
+    },
+    {
+      "id": "S1-5-K39-5",
+      "module": "S1",
+      "section": "S1.5",
+      "section_title": "跨步、接触电压与高压程序",
+      "type": "scenario",
+      "difficulty": "applied",
+      "cognitive_skill": "应用",
+      "context": "教材核对练习",
+      "task": "回答必须能由指定教材页的内容支持。",
+      "question": "情境判断：作业前复核“RCD 的作用”时，主管要求你说明关键要求。RCD 如何帮助防止间接接触伤害？",
+      "answer": "通过自动断开供电提供保护，且所需动作电流较小。",
+      "answer_key": null,
+      "answer_text": null,
+      "explanation": "教材 Study Pack p.18：通过自动断开供电提供保护，且所需动作电流较小。",
+      "knowledge_points": [
+        "跨步、接触电压与高压程序",
+        "RCD 的作用"
+      ],
+      "knowledge_points_detailed": [
+        {
+          "concept": "RCD 的作用",
+          "detail": "通过自动断开供电提供保护，且所需动作电流较小。",
+          "field_application": "将这一要求用于作业前的风险识别、隔离或测试核对；实际操作必须按现场程序和授权范围执行。",
+          "common_error": "通过提高故障电流使熔断器更慢动作。",
+          "verification": "回到 Study Pack p.18 核对术语、范围和前提条件。"
+        }
+      ],
+      "options": {},
+      "distractor_rationale": {},
+      "primary_knowledge_point": "RCD 的作用",
+      "source_alignment": {
+        "source_kind": "textbook_fact_reaudited",
+        "original_ref_id": "Study Pack p.18",
+        "original_page": 18,
+        "source_quality": "direct_textbook_support"
+      },
+      "audit": {
+        "status": "expert_reaudited",
+        "checks": [
+          "题干可独立作答",
+          "答案与教材页码直接对应",
+          "选择题仅保留可辨析的干扰项",
+          "删除泛化模板、原题标签和无关现场措辞"
+        ],
+        "risk_flags": [],
+        "quality_pass": "s1_reaudit_20260912"
+      },
+      "safety_boundary_note": "用于学习与受监督训练。实际隔离、带电测试、高压工作或合规结论必须遵循当前法规、现场程序及授权人员的指示。"
+    },
+    {
+      "id": "S1-5-K40-5",
+      "module": "S1",
+      "section": "S1.5",
+      "section_title": "跨步、接触电压与高压程序",
+      "type": "scenario",
+      "difficulty": "applied",
+      "cognitive_skill": "应用",
+      "context": "教材核对练习",
+      "task": "回答必须能由指定教材页的内容支持。",
+      "question": "情境判断：作业前复核“高压作业文件”时，主管要求你说明关键要求。高压设备或线路附近作业前，需要哪些核心书面安排？",
+      "answer": "经授权的接入许可，以及书面的锁定、隔离和操作顺序文件；必须以最新单线图核对。",
+      "answer_key": null,
+      "answer_text": null,
+      "explanation": "教材 Study Pack p.18：经授权的接入许可，以及书面的锁定、隔离和操作顺序文件；必须以最新单线图核对。",
+      "knowledge_points": [
+        "跨步、接触电压与高压程序",
+        "高压作业文件"
+      ],
+      "knowledge_points_detailed": [
+        {
+          "concept": "高压作业文件",
+          "detail": "经授权的接入许可，以及书面的锁定、隔离和操作顺序文件；必须以最新单线图核对。",
+          "field_application": "将这一要求用于作业前的风险识别、隔离或测试核对；实际操作必须按现场程序和授权范围执行。",
+          "common_error": "只要口头通知同事即可。",
+          "verification": "回到 Study Pack p.18 核对术语、范围和前提条件。"
+        }
+      ],
+      "options": {},
+      "distractor_rationale": {},
+      "primary_knowledge_point": "高压作业文件",
+      "source_alignment": {
+        "source_kind": "textbook_fact_reaudited",
+        "original_ref_id": "Study Pack p.18",
+        "original_page": 18,
+        "source_quality": "direct_textbook_support"
+      },
+      "audit": {
+        "status": "expert_reaudited",
+        "checks": [
+          "题干可独立作答",
+          "答案与教材页码直接对应",
+          "选择题仅保留可辨析的干扰项",
+          "删除泛化模板、原题标签和无关现场措辞"
+        ],
+        "risk_flags": [],
+        "quality_pass": "s1_reaudit_20260912"
+      },
+      "safety_boundary_note": "用于学习与受监督训练。实际隔离、带电测试、高压工作或合规结论必须遵循当前法规、现场程序及授权人员的指示。"
+    },
+    {
+      "id": "S1-5-K41-5",
+      "module": "S1",
+      "section": "S1.5",
+      "section_title": "跨步、接触电压与高压程序",
+      "type": "scenario",
+      "difficulty": "applied",
+      "cognitive_skill": "应用",
+      "context": "教材核对练习",
+      "task": "回答必须能由指定教材页的内容支持。",
+      "question": "情境判断：作业前复核“操作顺序表”时，主管要求你说明关键要求。操作顺序表（switching schedule sheet）的作用是什么？",
+      "answer": "定义待作业设备或线路在隔离、测试和接地时每一步操作的顺序。",
+      "answer_key": null,
+      "answer_text": null,
+      "explanation": "教材 Study Pack p.18：定义待作业设备或线路在隔离、测试和接地时每一步操作的顺序。",
+      "knowledge_points": [
+        "跨步、接触电压与高压程序",
+        "操作顺序表"
+      ],
+      "knowledge_points_detailed": [
+        {
+          "concept": "操作顺序表",
+          "detail": "定义待作业设备或线路在隔离、测试和接地时每一步操作的顺序。",
+          "field_application": "将这一要求用于作业前的风险识别、隔离或测试核对；实际操作必须按现场程序和授权范围执行。",
+          "common_error": "记录员工考勤。",
+          "verification": "回到 Study Pack p.18 核对术语、范围和前提条件。"
+        }
+      ],
+      "options": {},
+      "distractor_rationale": {},
+      "primary_knowledge_point": "操作顺序表",
+      "source_alignment": {
+        "source_kind": "textbook_fact_reaudited",
+        "original_ref_id": "Study Pack p.18",
+        "original_page": 18,
+        "source_quality": "direct_textbook_support"
+      },
+      "audit": {
+        "status": "expert_reaudited",
+        "checks": [
+          "题干可独立作答",
+          "答案与教材页码直接对应",
+          "选择题仅保留可辨析的干扰项",
+          "删除泛化模板、原题标签和无关现场措辞"
+        ],
+        "risk_flags": [],
+        "quality_pass": "s1_reaudit_20260912"
+      },
+      "safety_boundary_note": "用于学习与受监督训练。实际隔离、带电测试、高压工作或合规结论必须遵循当前法规、现场程序及授权人员的指示。"
+    },
+    {
+      "id": "S1-5-K42-5",
+      "module": "S1",
+      "section": "S1.5",
+      "section_title": "跨步、接触电压与高压程序",
+      "type": "scenario",
+      "difficulty": "applied",
+      "cognitive_skill": "应用",
+      "context": "教材核对练习",
+      "task": "回答必须能由指定教材页的内容支持。",
+      "question": "情境判断：作业前复核“重新送电前检查”时，主管要求你说明关键要求。高压系统重新送电前，指定人员至少应确认什么？",
+      "answer": "人员已撤离并获通知、临时接地和安全设备已移除、绝缘已按规定测试、外壳门盖关闭且系统安全。",
+      "answer_key": null,
+      "answer_text": null,
+      "explanation": "教材 Study Pack p.19：人员已撤离并获通知、临时接地和安全设备已移除、绝缘已按规定测试、外壳门盖关闭且系统安全。",
+      "knowledge_points": [
+        "跨步、接触电压与高压程序",
+        "重新送电前检查"
+      ],
+      "knowledge_points_detailed": [
+        {
+          "concept": "重新送电前检查",
+          "detail": "人员已撤离并获通知、临时接地和安全设备已移除、绝缘已按规定测试、外壳门盖关闭且系统安全。",
+          "field_application": "将这一要求用于作业前的风险识别、隔离或测试核对；实际操作必须按现场程序和授权范围执行。",
+          "common_error": "只要先拆下一个标签即可。",
+          "verification": "回到 Study Pack p.19 核对术语、范围和前提条件。"
+        }
+      ],
+      "options": {},
+      "distractor_rationale": {},
+      "primary_knowledge_point": "重新送电前检查",
+      "source_alignment": {
+        "source_kind": "textbook_fact_reaudited",
+        "original_ref_id": "Study Pack p.19",
+        "original_page": 19,
+        "source_quality": "direct_textbook_support"
+      },
+      "audit": {
+        "status": "expert_reaudited",
+        "checks": [
+          "题干可独立作答",
+          "答案与教材页码直接对应",
+          "选择题仅保留可辨析的干扰项",
+          "删除泛化模板、原题标签和无关现场措辞"
+        ],
+        "risk_flags": [],
+        "quality_pass": "s1_reaudit_20260912"
+      },
+      "safety_boundary_note": "用于学习与受监督训练。实际隔离、带电测试、高压工作或合规结论必须遵循当前法规、现场程序及授权人员的指示。"
+    },
+    {
+      "id": "S1-6-K43-5",
+      "module": "S1",
+      "section": "S1.6",
+      "section_title": "测试设备与 IP 防护等级",
+      "type": "scenario",
+      "difficulty": "applied",
+      "cognitive_skill": "应用",
+      "context": "教材核对练习",
+      "task": "回答必须能由指定教材页的内容支持。",
+      "question": "情境判断：作业前复核“安装类别”时，主管要求你说明关键要求。测试设备的 I 至 IV 安装类别按什么定义？",
+      "answer": "按脉冲过电压故障时可能存在的电能水平定义。",
+      "answer_key": null,
+      "answer_text": null,
+      "explanation": "教材 Study Pack p.20：按脉冲过电压故障时可能存在的电能水平定义。",
+      "knowledge_points": [
+        "测试设备与 IP 防护等级",
+        "安装类别"
+      ],
+      "knowledge_points_detailed": [
+        {
+          "concept": "安装类别",
+          "detail": "按脉冲过电压故障时可能存在的电能水平定义。",
+          "field_application": "将这一要求用于作业前的风险识别、隔离或测试核对；实际操作必须按现场程序和授权范围执行。",
+          "common_error": "按万用表重量定义。",
+          "verification": "回到 Study Pack p.20 核对术语、范围和前提条件。"
+        }
+      ],
+      "options": {},
+      "distractor_rationale": {},
+      "primary_knowledge_point": "安装类别",
+      "source_alignment": {
+        "source_kind": "textbook_fact_reaudited",
+        "original_ref_id": "Study Pack p.20",
+        "original_page": 20,
+        "source_quality": "direct_textbook_support"
+      },
+      "audit": {
+        "status": "expert_reaudited",
+        "checks": [
+          "题干可独立作答",
+          "答案与教材页码直接对应",
+          "选择题仅保留可辨析的干扰项",
+          "删除泛化模板、原题标签和无关现场措辞"
+        ],
+        "risk_flags": [],
+        "quality_pass": "s1_reaudit_20260912"
+      },
+      "safety_boundary_note": "用于学习与受监督训练。实际隔离、带电测试、高压工作或合规结论必须遵循当前法规、现场程序及授权人员的指示。"
+    },
+    {
+      "id": "S1-6-K44-5",
+      "module": "S1",
+      "section": "S1.6",
+      "section_title": "测试设备与 IP 防护等级",
+      "type": "scenario",
+      "difficulty": "applied",
+      "cognitive_skill": "应用",
+      "context": "教材核对练习",
+      "task": "回答必须能由指定教材页的内容支持。",
+      "question": "情境判断：作业前复核“CAT IV”时，主管要求你说明关键要求。哪类测试场合应选用 CAT IV 测试设备？",
+      "answer": "进户电源、用电量计量装置和谷电切换装置等最高能量等级测量。",
+      "answer_key": null,
+      "answer_text": null,
+      "explanation": "教材 Study Pack p.20：进户电源、用电量计量装置和谷电切换装置等最高能量等级测量。",
+      "knowledge_points": [
+        "测试设备与 IP 防护等级",
+        "CAT IV"
+      ],
+      "knowledge_points_detailed": [
+        {
+          "concept": "CAT IV",
+          "detail": "进户电源、用电量计量装置和谷电切换装置等最高能量等级测量。",
+          "field_application": "将这一要求用于作业前的风险识别、隔离或测试核对；实际操作必须按现场程序和授权范围执行。",
+          "common_error": "信号级电子回路。",
+          "verification": "回到 Study Pack p.20 核对术语、范围和前提条件。"
+        }
+      ],
+      "options": {},
+      "distractor_rationale": {},
+      "primary_knowledge_point": "CAT IV",
+      "source_alignment": {
+        "source_kind": "textbook_fact_reaudited",
+        "original_ref_id": "Study Pack p.20",
+        "original_page": 20,
+        "source_quality": "direct_textbook_support"
+      },
+      "audit": {
+        "status": "expert_reaudited",
+        "checks": [
+          "题干可独立作答",
+          "答案与教材页码直接对应",
+          "选择题仅保留可辨析的干扰项",
+          "删除泛化模板、原题标签和无关现场措辞"
+        ],
+        "risk_flags": [],
+        "quality_pass": "s1_reaudit_20260912"
+      },
+      "safety_boundary_note": "用于学习与受监督训练。实际隔离、带电测试、高压工作或合规结论必须遵循当前法规、现场程序及授权人员的指示。"
+    },
+    {
+      "id": "S1-6-K45-5",
+      "module": "S1",
+      "section": "S1.6",
+      "section_title": "测试设备与 IP 防护等级",
+      "type": "scenario",
+      "difficulty": "applied",
+      "cognitive_skill": "应用",
+      "context": "教材核对练习",
+      "task": "回答必须能由指定教材页的内容支持。",
+      "question": "情境判断：作业前复核“CAT III”时，主管要求你说明关键要求。CAT III 测试设备适用于什么？",
+      "answer": "配电回路、主配电板、固定布线和永久连接设备。",
+      "answer_key": null,
+      "answer_text": null,
+      "explanation": "教材 Study Pack p.20：配电回路、主配电板、固定布线和永久连接设备。",
+      "knowledge_points": [
+        "测试设备与 IP 防护等级",
+        "CAT III"
+      ],
+      "knowledge_points_detailed": [
+        {
+          "concept": "CAT III",
+          "detail": "配电回路、主配电板、固定布线和永久连接设备。",
+          "field_application": "将这一要求用于作业前的风险识别、隔离或测试核对；实际操作必须按现场程序和授权范围执行。",
+          "common_error": "仅适用于信号级电子线路。",
+          "verification": "回到 Study Pack p.20 核对术语、范围和前提条件。"
+        }
+      ],
+      "options": {},
+      "distractor_rationale": {},
+      "primary_knowledge_point": "CAT III",
+      "source_alignment": {
+        "source_kind": "textbook_fact_reaudited",
+        "original_ref_id": "Study Pack p.20",
+        "original_page": 20,
+        "source_quality": "direct_textbook_support"
+      },
+      "audit": {
+        "status": "expert_reaudited",
+        "checks": [
+          "题干可独立作答",
+          "答案与教材页码直接对应",
+          "选择题仅保留可辨析的干扰项",
+          "删除泛化模板、原题标签和无关现场措辞"
+        ],
+        "risk_flags": [],
+        "quality_pass": "s1_reaudit_20260912"
+      },
+      "safety_boundary_note": "用于学习与受监督训练。实际隔离、带电测试、高压工作或合规结论必须遵循当前法规、现场程序及授权人员的指示。"
+    },
+    {
+      "id": "S1-6-K46-5",
+      "module": "S1",
+      "section": "S1.6",
+      "section_title": "测试设备与 IP 防护等级",
+      "type": "scenario",
+      "difficulty": "applied",
+      "cognitive_skill": "应用",
+      "context": "教材核对练习",
+      "task": "回答必须能由指定教材页的内容支持。",
+      "question": "情境判断：作业前复核“测试前后验证”时，主管要求你说明关键要求。正确类别的测试设备选定后，教材要求怎样验证其状态？",
+      "answer": "检查仪器、表笔和探头状况；确认功能、量程和精度适用，并在测试前后验证其正确工作。",
+      "answer_key": null,
+      "answer_text": null,
+      "explanation": "教材 Study Pack p.20：检查仪器、表笔和探头状况；确认功能、量程和精度适用，并在测试前后验证其正确工作。",
+      "knowledge_points": [
+        "测试设备与 IP 防护等级",
+        "测试前后验证"
+      ],
+      "knowledge_points_detailed": [
+        {
+          "concept": "测试前后验证",
+          "detail": "检查仪器、表笔和探头状况；确认功能、量程和精度适用，并在测试前后验证其正确工作。",
+          "field_application": "将这一要求用于作业前的风险识别、隔离或测试核对；实际操作必须按现场程序和授权范围执行。",
+          "common_error": "只看外壳颜色。",
+          "verification": "回到 Study Pack p.20 核对术语、范围和前提条件。"
+        }
+      ],
+      "options": {},
+      "distractor_rationale": {},
+      "primary_knowledge_point": "测试前后验证",
+      "source_alignment": {
+        "source_kind": "textbook_fact_reaudited",
+        "original_ref_id": "Study Pack p.20",
+        "original_page": 20,
+        "source_quality": "direct_textbook_support"
+      },
+      "audit": {
+        "status": "expert_reaudited",
+        "checks": [
+          "题干可独立作答",
+          "答案与教材页码直接对应",
+          "选择题仅保留可辨析的干扰项",
+          "删除泛化模板、原题标签和无关现场措辞"
+        ],
+        "risk_flags": [],
+        "quality_pass": "s1_reaudit_20260912"
+      },
+      "safety_boundary_note": "用于学习与受监督训练。实际隔离、带电测试、高压工作或合规结论必须遵循当前法规、现场程序及授权人员的指示。"
+    },
+    {
+      "id": "S1-6-K47-5",
+      "module": "S1",
+      "section": "S1.6",
+      "section_title": "测试设备与 IP 防护等级",
+      "type": "scenario",
+      "difficulty": "applied",
+      "cognitive_skill": "应用",
+      "context": "教材核对练习",
+      "task": "回答必须能由指定教材页的内容支持。",
+      "question": "情境判断：作业前复核“IP 两位数字”时，主管要求你说明关键要求。IP 等级中的两位数字分别表示什么？",
+      "answer": "第一位表示防接触危险部件及固体异物的程度；第二位表示防水进入造成损害的程度。",
+      "answer_key": null,
+      "answer_text": null,
+      "explanation": "教材 Study Pack p.21：第一位表示防接触危险部件及固体异物的程度；第二位表示防水进入造成损害的程度。",
+      "knowledge_points": [
+        "测试设备与 IP 防护等级",
+        "IP 两位数字"
+      ],
+      "knowledge_points_detailed": [
+        {
+          "concept": "IP 两位数字",
+          "detail": "第一位表示防接触危险部件及固体异物的程度；第二位表示防水进入造成损害的程度。",
+          "field_application": "将这一要求用于作业前的风险识别、隔离或测试核对；实际操作必须按现场程序和授权范围执行。",
+          "common_error": "第一位表示电压，第二位表示电流。",
+          "verification": "回到 Study Pack p.21 核对术语、范围和前提条件。"
+        }
+      ],
+      "options": {},
+      "distractor_rationale": {},
+      "primary_knowledge_point": "IP 两位数字",
+      "source_alignment": {
+        "source_kind": "textbook_fact_reaudited",
+        "original_ref_id": "Study Pack p.21",
+        "original_page": 21,
+        "source_quality": "direct_textbook_support"
+      },
+      "audit": {
+        "status": "expert_reaudited",
+        "checks": [
+          "题干可独立作答",
+          "答案与教材页码直接对应",
+          "选择题仅保留可辨析的干扰项",
+          "删除泛化模板、原题标签和无关现场措辞"
+        ],
+        "risk_flags": [],
+        "quality_pass": "s1_reaudit_20260912"
+      },
+      "safety_boundary_note": "用于学习与受监督训练。实际隔离、带电测试、高压工作或合规结论必须遵循当前法规、现场程序及授权人员的指示。"
+    },
+    {
+      "id": "S1-6-K48-5",
+      "module": "S1",
+      "section": "S1.6",
+      "section_title": "测试设备与 IP 防护等级",
+      "type": "scenario",
+      "difficulty": "applied",
+      "cognitive_skill": "应用",
+      "context": "教材核对练习",
+      "task": "回答必须能由指定教材页的内容支持。",
+      "question": "情境判断：作业前复核“IP35”时，主管要求你说明关键要求。IP35 的含义是什么？",
+      "answer": "防止直径大于 2.5 mm 的固体进入，并防低压喷水。",
+      "answer_key": null,
+      "answer_text": null,
+      "explanation": "教材 Study Pack p.21：防止直径大于 2.5 mm 的固体进入，并防低压喷水。",
+      "knowledge_points": [
+        "测试设备与 IP 防护等级",
+        "IP35"
+      ],
+      "knowledge_points_detailed": [
+        {
+          "concept": "IP35",
+          "detail": "防止直径大于 2.5 mm 的固体进入，并防低压喷水。",
+          "field_application": "将这一要求用于作业前的风险识别、隔离或测试核对；实际操作必须按现场程序和授权范围执行。",
+          "common_error": "防止大于 50 mm 固体，并仅防垂直滴水。",
+          "verification": "回到 Study Pack p.21 核对术语、范围和前提条件。"
+        }
+      ],
+      "options": {},
+      "distractor_rationale": {},
+      "primary_knowledge_point": "IP35",
+      "source_alignment": {
+        "source_kind": "textbook_fact_reaudited",
+        "original_ref_id": "Study Pack p.21",
+        "original_page": 21,
+        "source_quality": "direct_textbook_support"
+      },
+      "audit": {
+        "status": "expert_reaudited",
+        "checks": [
+          "题干可独立作答",
+          "答案与教材页码直接对应",
+          "选择题仅保留可辨析的干扰项",
+          "删除泛化模板、原题标签和无关现场措辞"
+        ],
+        "risk_flags": [],
+        "quality_pass": "s1_reaudit_20260912"
+      },
+      "safety_boundary_note": "用于学习与受监督训练。实际隔离、带电测试、高压工作或合规结论必须遵循当前法规、现场程序及授权人员的指示。"
+    },
+    {
+      "id": "S1-7-K49-5",
+      "module": "S1",
+      "section": "S1.7",
+      "section_title": "人体电流、电容与电弧闪络",
+      "type": "scenario",
+      "difficulty": "applied",
+      "cognitive_skill": "应用",
+      "context": "教材核对练习",
+      "task": "回答必须能由指定教材页的内容支持。",
+      "question": "情境判断：作业前复核“交流电流效应”时，主管要求你说明关键要求。交流电对人体影响最主要取决于哪个电气参数？",
+      "answer": "频率；教材特别指出 50 Hz 对人体神经系统更危险。",
+      "answer_key": null,
+      "answer_text": null,
+      "explanation": "教材 Study Pack p.22：频率；教材特别指出 50 Hz 对人体神经系统更危险。",
+      "knowledge_points": [
+        "人体电流、电容与电弧闪络",
+        "交流电流效应"
+      ],
+      "knowledge_points_detailed": [
+        {
+          "concept": "交流电流效应",
+          "detail": "频率；教材特别指出 50 Hz 对人体神经系统更危险。",
+          "field_application": "将这一要求用于作业前的风险识别、隔离或测试核对；实际操作必须按现场程序和授权范围执行。",
+          "common_error": "导线颜色。",
+          "verification": "回到 Study Pack p.22 核对术语、范围和前提条件。"
+        }
+      ],
+      "options": {},
+      "distractor_rationale": {},
+      "primary_knowledge_point": "交流电流效应",
+      "source_alignment": {
+        "source_kind": "textbook_fact_reaudited",
+        "original_ref_id": "Study Pack p.22",
+        "original_page": 22,
+        "source_quality": "direct_textbook_support"
+      },
+      "audit": {
+        "status": "expert_reaudited",
+        "checks": [
+          "题干可独立作答",
+          "答案与教材页码直接对应",
+          "选择题仅保留可辨析的干扰项",
+          "删除泛化模板、原题标签和无关现场措辞"
+        ],
+        "risk_flags": [],
+        "quality_pass": "s1_reaudit_20260912"
+      },
+      "safety_boundary_note": "用于学习与受监督训练。实际隔离、带电测试、高压工作或合规结论必须遵循当前法规、现场程序及授权人员的指示。"
+    },
+    {
+      "id": "S1-7-K50-5",
+      "module": "S1",
+      "section": "S1.7",
+      "section_title": "人体电流、电容与电弧闪络",
+      "type": "scenario",
+      "difficulty": "applied",
+      "cognitive_skill": "应用",
+      "context": "教材核对练习",
+      "task": "回答必须能由指定教材页的内容支持。",
+      "question": "情境判断：作业前复核“电流路径”时，主管要求你说明关键要求。人体触电时，最常见的电流入口和出口分别是什么？",
+      "answer": "入口通常是手，其次是头；出口通常是脚。",
+      "answer_key": null,
+      "answer_text": null,
+      "explanation": "教材 Study Pack p.22：入口通常是手，其次是头；出口通常是脚。",
+      "knowledge_points": [
+        "人体电流、电容与电弧闪络",
+        "电流路径"
+      ],
+      "knowledge_points_detailed": [
+        {
+          "concept": "电流路径",
+          "detail": "入口通常是手，其次是头；出口通常是脚。",
+          "field_application": "将这一要求用于作业前的风险识别、隔离或测试核对；实际操作必须按现场程序和授权范围执行。",
+          "common_error": "入口通常是脚，出口通常是耳朵。",
+          "verification": "回到 Study Pack p.22 核对术语、范围和前提条件。"
+        }
+      ],
+      "options": {},
+      "distractor_rationale": {},
+      "primary_knowledge_point": "电流路径",
+      "source_alignment": {
+        "source_kind": "textbook_fact_reaudited",
+        "original_ref_id": "Study Pack p.22",
+        "original_page": 22,
+        "source_quality": "direct_textbook_support"
+      },
+      "audit": {
+        "status": "expert_reaudited",
+        "checks": [
+          "题干可独立作答",
+          "答案与教材页码直接对应",
+          "选择题仅保留可辨析的干扰项",
+          "删除泛化模板、原题标签和无关现场措辞"
+        ],
+        "risk_flags": [],
+        "quality_pass": "s1_reaudit_20260912"
+      },
+      "safety_boundary_note": "用于学习与受监督训练。实际隔离、带电测试、高压工作或合规结论必须遵循当前法规、现场程序及授权人员的指示。"
+    },
+    {
+      "id": "S1-7-K51-5",
+      "module": "S1",
+      "section": "S1.7",
+      "section_title": "人体电流、电容与电弧闪络",
+      "type": "scenario",
+      "difficulty": "applied",
+      "cognitive_skill": "应用",
+      "context": "教材核对练习",
+      "task": "回答必须能由指定教材页的内容支持。",
+      "question": "情境判断：作业前复核“漏电保护”时，主管要求你说明关键要求。哪类装置专门用于防护可能引起电击的交流漏电电流？",
+      "answer": "RCD（剩余电流装置）。",
+      "answer_key": null,
+      "answer_text": null,
+      "explanation": "教材 Study Pack p.23：RCD（剩余电流装置）。",
+      "knowledge_points": [
+        "人体电流、电容与电弧闪络",
+        "漏电保护"
+      ],
+      "knowledge_points_detailed": [
+        {
+          "concept": "漏电保护",
+          "detail": "RCD（剩余电流装置）。",
+          "field_application": "将这一要求用于作业前的风险识别、隔离或测试核对；实际操作必须按现场程序和授权范围执行。",
+          "common_error": "普通隔离开关。",
+          "verification": "回到 Study Pack p.23 核对术语、范围和前提条件。"
+        }
+      ],
+      "options": {},
+      "distractor_rationale": {},
+      "primary_knowledge_point": "漏电保护",
+      "source_alignment": {
+        "source_kind": "textbook_fact_reaudited",
+        "original_ref_id": "Study Pack p.23",
+        "original_page": 23,
+        "source_quality": "direct_textbook_support"
+      },
+      "audit": {
+        "status": "expert_reaudited",
+        "checks": [
+          "题干可独立作答",
+          "答案与教材页码直接对应",
+          "选择题仅保留可辨析的干扰项",
+          "删除泛化模板、原题标签和无关现场措辞"
+        ],
+        "risk_flags": [],
+        "quality_pass": "s1_reaudit_20260912"
+      },
+      "safety_boundary_note": "用于学习与受监督训练。实际隔离、带电测试、高压工作或合规结论必须遵循当前法规、现场程序及授权人员的指示。"
+    },
+    {
+      "id": "S1-7-K52-5",
+      "module": "S1",
+      "section": "S1.7",
+      "section_title": "人体电流、电容与电弧闪络",
+      "type": "scenario",
+      "difficulty": "applied",
+      "cognitive_skill": "应用",
+      "context": "教材核对练习",
+      "task": "回答必须能由指定教材页的内容支持。",
+      "question": "情境判断：作业前复核“电容储能”时，主管要求你说明关键要求。高能电容器可能造成哪些严重危险？",
+      "answer": "机械爆炸、有毒物质、火灾，尤其是电击。",
+      "answer_key": null,
+      "answer_text": null,
+      "explanation": "教材 Study Pack p.24：机械爆炸、有毒物质、火灾，尤其是电击。",
+      "knowledge_points": [
+        "人体电流、电容与电弧闪络",
+        "电容储能"
+      ],
+      "knowledge_points_detailed": [
+        {
+          "concept": "电容储能",
+          "detail": "机械爆炸、有毒物质、火灾，尤其是电击。",
+          "field_application": "将这一要求用于作业前的风险识别、隔离或测试核对；实际操作必须按现场程序和授权范围执行。",
+          "common_error": "只会造成轻微噪声。",
+          "verification": "回到 Study Pack p.24 核对术语、范围和前提条件。"
+        }
+      ],
+      "options": {},
+      "distractor_rationale": {},
+      "primary_knowledge_point": "电容储能",
+      "source_alignment": {
+        "source_kind": "textbook_fact_reaudited",
+        "original_ref_id": "Study Pack p.24",
+        "original_page": 24,
+        "source_quality": "direct_textbook_support"
+      },
+      "audit": {
+        "status": "expert_reaudited",
+        "checks": [
+          "题干可独立作答",
+          "答案与教材页码直接对应",
+          "选择题仅保留可辨析的干扰项",
+          "删除泛化模板、原题标签和无关现场措辞"
+        ],
+        "risk_flags": [],
+        "quality_pass": "s1_reaudit_20260912"
+      },
+      "safety_boundary_note": "用于学习与受监督训练。实际隔离、带电测试、高压工作或合规结论必须遵循当前法规、现场程序及授权人员的指示。"
     }
   ]
 }
