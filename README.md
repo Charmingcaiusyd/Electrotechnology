@@ -8,7 +8,7 @@ GitHub Pages entry point:
 
 https://charmingcaiusyd.github.io/Electrotechnology/
 
-The hosted learning interface lives in `docs/index.html`. It contains 1,391 S1-S10 knowledge cards with topic search, core/detail filters, remembered/forgotten tracking, forgotten-card review, and progress import/export. All modules have source-reviewed cards; S7-S10 were expanded to 84/72/66/84.
+The hosted learning interface lives in `docs/index.html`. It contains 1,413 S1-S10 knowledge cards with topic search, core/detail filters, remembered/forgotten tracking, forgotten-card review, and progress import/export. All modules have source-reviewed cards; S7-S10 contain 84/72/66/106 cards.
 
 Download the generated textbook explanation PDF:
 

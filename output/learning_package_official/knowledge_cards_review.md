@@ -2,7 +2,7 @@
 
 ## Scope
 
-The 3000-question student practice bank has been retired. This release contains 1,391 recall cards across S1-S10, split between core concepts and detail knowledge. S1-S3 were expanded from 258 to 786 cards; S4-S6 from 93 to 299. This review checked S7-S10 against the corresponding chapters of the supplied V04 PDF and tripled each module: S7 28→84, S8 24→72, S9 22→66, and S10 28→84.
+The 3000-question student practice bank has been retired. This release contains 1,413 recall cards across S1-S10, split between core concepts and detail knowledge. S1-S3 were expanded from 258 to 786 cards; S4-S6 from 93 to 299. This review checked S7-S10 against the corresponding chapters of the supplied V04 PDF: S7 28→84, S8 24→72, S9 22→66, and S10 28→106 to cover all Chapter 9 topics through switchboards.
 
 ## Source coverage
 
@@ -19,9 +19,9 @@ The chapter names and PDF page spans below were checked against the supplied V04
 | S7 | Chapter 7, PDF pp. 159-187: conductors, terminations, insulation, plugs/sockets, cables and trunking | 84 |
 | S8 | Chapter 11, PDF pp. 189-209: safety, fault-finding, verification, tests, earth electrodes and records | 72 |
 | S9 | Chapter 7, PDF pp. 212-238: wiring enclosures and setting rigid-steel conduit | 66 |
-| S10 | Chapter 9, PDF pp. 240-302: demand, voltage drop, circuit arrangement, installation factors, current capacity and protection | 84 |
+| S10 | Chapter 9, PDF pp. 240-303: voltage drop, circuit arrangement, wiring-system factors, current capacity, fault-loop impedance, protective devices, tariffs and switchboards | 106 |
 
-S1-S10 received topic-and-answer review against the supplied V04 material; this is not a claim that every card is a verbatim standard clause or that every installation rule has been independently certified. For S7-S10, course concepts were separated from version-, product- and site-dependent values. S9 lesson/script wording was corrected where unsupported fixed installation numbers could mislead. Values for standards, product ratings, protection settings, test methods and installation conditions must be checked against current local requirements and manufacturer instructions.
+S1-S10 received topic-and-answer review against the supplied V04 material; this is not a claim that every card is a verbatim standard clause or that every installation rule has been independently certified. For S7-S10, course concepts were separated from version-, product- and site-dependent values. S9 lesson/script wording was corrected where unsupported fixed installation numbers could mislead; the S10 lesson now scopes the 0.9 HRC factor to the cited textbook example rather than all fuses. Values for standards, product ratings, protection settings, test methods and installation conditions must be checked against current local requirements and manufacturer instructions.
 
 ## Review approach
 
@@ -32,7 +32,7 @@ S1-S10 received topic-and-answer review against the supplied V04 material; this 
 - Expanded S7 over conductors/stranding, material-compatible termination, crimping, insulation/cable construction, plug wiring, cable installation, trunking and tray systems.
 - Expanded S8 over safety/authorization, verification workflow, continuity/insulation/polarity tests, fault-loop and RCD checks, earth-electrode methods, instrument limitations and records.
 - Expanded S9 over enclosure selection, environmental exposure, conduit preparation/joints, water management, supports, bending geometry, rigid-steel conduit offsets/saddles and inspection; removed unsupported universal spacing/fill/drainage figures from new cards.
-- Expanded S10 over load current/demand, single- and three-phase calculations, segment voltage drop, installation derating, current capacity, overload/short-circuit coordination, I²t and selection checks.
+- Expanded S10 over load current/demand, single- and three-phase calculations, segment voltage drop, installation derating, current capacity, fault-loop impedance, overload/short-circuit coordination, MCBs, isolation, tariffs, switchboards, CT metering and selection checks.
 - Expanded S4 to distinguish block, circuit, wiring, line and layout drawings; specification, circuit and cable schedules; and scale/switching logic.
 - Expanded S5 across relay types, on/off-delay timing, drawing conventions and references, terminal numbering, two-/three-wire controls, jogging, contactor use categories, sensors and troubleshooting.
 - Expanded S6 across synchronous speed/slip/torque calculations, DOL and reduced-voltage starters, star-delta constraints, autotransformer/primary-resistance/wound-rotor starting, VFD/pole-changing speed control, braking and diagnostics.

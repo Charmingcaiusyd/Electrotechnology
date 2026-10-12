@@ -3,9 +3,9 @@
 The student-facing release has been replaced by a course-wide flashcard study mode.
 
 - Modules covered: S1-S10.
-- Knowledge cards: 1,391.
+- Knowledge cards: 1,413.
 - S1-S6 source-reviewed expansion: S1 138, S2 518, S3 130, S4 105, S5 93, S6 101 cards (about 3x their prior counts).
-- S7-S10 reviewed and expanded to 3x: S7 84, S8 72, S9 66, S10 84 cards.
+- S7-S9 reviewed and expanded to 3x: S7 84, S8 72, S9 66. S10 is 106 cards to cover the full Chapter 9 scope through switchboards.
 - Old 3,000-question exports, per-module quiz files, final exam, question-bank viewer, and seed-question exports have been removed from this release.
 - Student entry: `html/index.html`.
 - Offline data file: `html/cards-data.js`.

@@ -2,7 +2,7 @@
   "title": "Electrotechnology Course Knowledge Cards",
   "status": "official_card_release",
   "modules": ["S1", "S2", "S3", "S4", "S5", "S6", "S7", "S8", "S9", "S10"],
-  "knowledge_cards": 1391,
+  "knowledge_cards": 1413,
   "reviewed_and_expanded_modules": {
     "S1": 138,
     "S2": 518,
@@ -13,7 +13,7 @@
     "S7": 84,
     "S8": 72,
     "S9": 66,
-    "S10": 84
+    "S10": 106
   },
   "student_entry": "html/index.html",
   "data_file": "html/cards-data.js",
