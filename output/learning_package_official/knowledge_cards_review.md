@@ -2,17 +2,17 @@
 
 ## Scope
 
-The 3000-question student practice bank has been retired. This release contains 453 concise recall cards across S1-S10, split between core concepts and detail knowledge. Each card tests one point, gives a short explanatory answer, and carries a course-module or source-page label. S2 retains 172 cards checked against the supplied V04 Study Pack pages 31-52.
+The 3000-question student practice bank has been retired. This release contains 981 concise recall cards across S1-S10, split between core concepts and detail knowledge. This review turn rechecked and expanded S1-S3 from 258 to 786 cards: S1 46→138, S2 172→518, and S3 40→130. S4-S10 remain at their previously reviewed counts and were not re-audited in this pass.
 
 ## Source coverage
 
-The chapter names and physical PDF page spans below were checked against the supplied V04 PDF. S2 cards carry individual Study Pack page labels; other modules use course-topic labels and are aligned to these source chapters. S5 and S6 split the control-circuits chapter by topic; S7 and S9 cover different sections of the wiring-systems chapter.
+The chapter names and physical PDF page spans below were checked against the supplied V04 PDF. New S1-S3 cards cite Study Pack pages/sections; the original S2 cards cite individual Study Pack pages. S5 and S6 split the control-circuits chapter by topic; S7 and S9 cover different sections of the wiring-systems chapter.
 
 | Module | V04 source alignment | Cards |
 | --- | --- | ---: |
-| S1 | Chapter 2, PDF pp. 5-29: WH&S risk controls | 46 |
-| S2 | Chapter 3, PDF pp. 31-54; card labels cite Study Pack pp. 31-52 | 172 |
-| S3 | Chapter 4, PDF pp. 57-73: fixings and supports | 40 |
+| S1 | Chapter 2, PDF pp. 5-29: risk management, hazards, isolation, testing and site safety | 138 |
+| S2 | Chapter 3, PDF pp. 31-54: measuring, tools, drilling, threading and joining; page-cited cards | 518 |
+| S3 | Chapter 4, PDF pp. 57-73: fasteners, substrates, loading, adhesives and environmental practice | 130 |
 | S4 | Chapter 5, PDF pp. 75-101: drawings, diagrams and schedules | 34 |
 | S5 | Chapter 6, PDF pp. 103-157: control circuits and components | 28 |
 | S6 | Chapter 6, PDF pp. 103-157: motor control and troubleshooting topics | 31 |
@@ -21,7 +21,7 @@ The chapter names and physical PDF page spans below were checked against the sup
 | S9 | Chapter 7, PDF pp. 212-238: wiring enclosures and installation topics | 22 |
 | S10 | Chapter 9, PDF pp. 240-302: cable selection and coordination | 28 |
 
-This is a topic-and-answer review of the 453-card release against the supplied course materials, not a claim that every card is a verbatim standard clause or that every installation rule has been independently certified. The legacy module lessons/video scripts remain supplementary; where they contain unsupported fixed values (notably some S8/S9 testing or installation figures), do not treat those figures as general requirements. The card set intentionally omits them unless tied to a clearly identified course page and caveat.
+S1-S3 received a topic-and-answer review against the supplied V04 material, not a claim that every card is a verbatim standard clause or that every installation rule has been independently certified. S4-S10 were not re-audited in this expansion turn. Older module lessons/video scripts remain supplementary; unsupported fixed values (including former S3 anchor capacities, safety factors, spacing and proof-loading guidance, and some S8/S9 figures) must not be treated as general requirements. The card set avoids making such values universal.
 
 ## Review approach
 
@@ -31,6 +31,7 @@ This is a topic-and-answer review of the 453-card release against the supplied c
 - Reframed values that depend on standards, equipment, substrate or installation conditions as items to verify in the current standard, product data or site procedure.
 - Kept course-stated values on S2 cards with explicit source-page labels; use them as textbook recall, not as a substitute for current workshop/tool instructions.
 - Avoided instructions that could be mistaken for permission to perform live electrical work. Isolation and testing cards emphasize authorization and verification.
+- Preserved the original S1-S3 card sequence before the expansion so browser-local progress IDs remain aligned for existing cards.
 
 ## Module map
 
