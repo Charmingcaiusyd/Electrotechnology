@@ -2,11 +2,11 @@
 
 ## Scope
 
-The 3000-question student practice bank has been retired. This release contains 1,187 concise recall cards across S1-S10, split between core concepts and detail knowledge. The prior review expanded S1-S3 from 258 to 786 cards. This turn rechecked and expanded S4-S6 from 93 to 299 cards: S4 34→105, S5 28→93, and S6 31→101. S7-S10 retain their prior content and were not re-audited in these expansion turns.
+The 3000-question student practice bank has been retired. This release contains 1,391 recall cards across S1-S10, split between core concepts and detail knowledge. S1-S3 were expanded from 258 to 786 cards; S4-S6 from 93 to 299. This review checked S7-S10 against the corresponding chapters of the supplied V04 PDF and tripled each module: S7 28→84, S8 24→72, S9 22→66, and S10 28→84.
 
 ## Source coverage
 
-The chapter names and physical PDF page spans below were checked against the supplied V04 PDF. New S1-S6 cards cite Study Pack pages/sections where applicable; the original S2 cards cite individual Study Pack pages. S5 and S6 split Chapter 6 by relay/control topics and motor topics; S7 and S9 cover different sections of the wiring-systems chapter.
+The chapter names and PDF page spans below were checked against the supplied V04 PDF. New S7-S10 cards cite Study Pack pages and textbook sections. S5 and S6 split Chapter 6 by relay/control topics and motor topics; S7 and S9 cover different sections of the wiring-systems chapter.
 
 | Module | V04 source alignment | Cards |
 | --- | --- | ---: |
@@ -16,12 +16,12 @@ The chapter names and physical PDF page spans below were checked against the sup
 | S4 | Chapter 5, PDF pp. 75-101: architectural/electrical drawings, scales, schedules, lighting and coordination | 105 |
 | S5 | Chapter 6, PDF pp. 103-157: relays, timers, circuit conventions, controls, contactors, interlocking and sensors | 93 |
 | S6 | Chapter 6, PDF pp. 103-157: induction motors, starters, speed/braking methods and fault finding | 101 |
-| S7 | Chapter 7, PDF pp. 159-187: wiring systems and terminations | 28 |
-| S8 | Chapter 11, PDF pp. 189-209: verification and testing | 24 |
-| S9 | Chapter 7, PDF pp. 212-238: wiring enclosures and installation topics | 22 |
-| S10 | Chapter 9, PDF pp. 240-302: cable selection and coordination | 28 |
+| S7 | Chapter 7, PDF pp. 159-187: conductors, terminations, insulation, plugs/sockets, cables and trunking | 84 |
+| S8 | Chapter 11, PDF pp. 189-209: safety, fault-finding, verification, tests, earth electrodes and records | 72 |
+| S9 | Chapter 7, PDF pp. 212-238: wiring enclosures and setting rigid-steel conduit | 66 |
+| S10 | Chapter 9, PDF pp. 240-302: demand, voltage drop, circuit arrangement, installation factors, current capacity and protection | 84 |
 
-S1-S6 received a topic-and-answer review against the supplied V04 material; this is not a claim that every card is a verbatim standard clause or that every installation rule has been independently certified. S7-S10 were not re-audited in these expansion turns. Lessons/scripts for S3-S6 were also corrected where legacy wording could turn examples into universal rules or unsafe practice. Values for standards, product ratings, protection settings, test methods and installation conditions must be checked against current local requirements and manufacturer instructions.
+S1-S10 received topic-and-answer review against the supplied V04 material; this is not a claim that every card is a verbatim standard clause or that every installation rule has been independently certified. For S7-S10, course concepts were separated from version-, product- and site-dependent values. S9 lesson/script wording was corrected where unsupported fixed installation numbers could mislead. Values for standards, product ratings, protection settings, test methods and installation conditions must be checked against current local requirements and manufacturer instructions.
 
 ## Review approach
 
@@ -29,13 +29,17 @@ S1-S6 received a topic-and-answer review against the supplied V04 material; this
 - Split multi-part answers into smaller recall prompts where practical; retained grouped lists only when the list itself is the knowledge target.
 - Removed unsupported universal anchor loads, safety factors, conduit support distances, cable fill assumptions and fixed pass/fail thresholds from the new card set.
 - Reframed values that depend on standards, equipment, substrate or installation conditions as items to verify in the current standard, product data or site procedure.
+- Expanded S7 over conductors/stranding, material-compatible termination, crimping, insulation/cable construction, plug wiring, cable installation, trunking and tray systems.
+- Expanded S8 over safety/authorization, verification workflow, continuity/insulation/polarity tests, fault-loop and RCD checks, earth-electrode methods, instrument limitations and records.
+- Expanded S9 over enclosure selection, environmental exposure, conduit preparation/joints, water management, supports, bending geometry, rigid-steel conduit offsets/saddles and inspection; removed unsupported universal spacing/fill/drainage figures from new cards.
+- Expanded S10 over load current/demand, single- and three-phase calculations, segment voltage drop, installation derating, current capacity, overload/short-circuit coordination, I²t and selection checks.
 - Expanded S4 to distinguish block, circuit, wiring, line and layout drawings; specification, circuit and cable schedules; and scale/switching logic.
 - Expanded S5 across relay types, on/off-delay timing, drawing conventions and references, terminal numbering, two-/three-wire controls, jogging, contactor use categories, sensors and troubleshooting.
 - Expanded S6 across synchronous speed/slip/torque calculations, DOL and reduced-voltage starters, star-delta constraints, autotransformer/primary-resistance/wound-rotor starting, VFD/pole-changing speed control, braking and diagnostics.
 - Replaced legacy universal motor-start limits, insulation thresholds, star-delta overload multipliers and live-meter demonstration steps with verification against the actual design, device data and authorized procedure.
 - Kept course-stated values on S2 cards with explicit source-page labels; use them as textbook recall, not as a substitute for current workshop/tool instructions.
 - Avoided instructions that could be mistaken for permission to perform live electrical work. Isolation and testing cards emphasize authorization and verification.
-- Preserved every original S1-S6 card sequence before the expansion so browser-local progress IDs remain aligned for existing cards.
+- Preserved every original card sequence and load new S7-S10 cards after the original data so browser-local progress IDs remain aligned for existing cards.
 
 ## Module map
 

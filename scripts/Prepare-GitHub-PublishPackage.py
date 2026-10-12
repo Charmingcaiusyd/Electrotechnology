@@ -116,6 +116,7 @@ def create_package() -> None:
 
     copy_file(OFFICIAL_HTML, PACKAGE / "docs" / "index.html")
     copy_file(OFFICIAL_CARD_DATA, PACKAGE / "docs" / "cards-data.js")
+    copy_file(ROOT / "docs" / "cards-expansion-s7-s10.js", PACKAGE / "docs" / "cards-expansion-s7-s10.js")
     write_text(PACKAGE / "docs" / ".nojekyll", "")
     if EXPLANATION_PDF.exists():
         copy_file(EXPLANATION_PDF, PACKAGE / "docs" / "downloads" / EXPLANATION_PDF.name)
@@ -209,7 +210,7 @@ GitHub Pages entry point:
 
 https://charmingcaiusyd.github.io/Electrotechnology/
 
-The hosted learning interface lives in `docs/index.html`. It contains 1,187 S1-S10 knowledge cards with topic search, core/detail filters, remembered/forgotten tracking, forgotten-card review, and progress import/export. S1-S6 have been source-reviewed and expanded to S1-S6 counts of 138/518/130/105/93/101.
+The hosted learning interface lives in `docs/index.html`. It contains 1,391 S1-S10 knowledge cards with topic search, core/detail filters, remembered/forgotten tracking, forgotten-card review, and progress import/export. All modules have source-reviewed cards; S7-S10 were expanded to 84/72/66/84.
 
 Download the generated textbook explanation PDF:
 
@@ -219,6 +220,7 @@ https://charmingcaiusyd.github.io/Electrotechnology/downloads/Electrotechnology_
 
 - `docs/index.html` - GitHub Pages knowledge-card entry.
 - `docs/cards-data.js` - course-wide knowledge-card data.
+- `docs/cards-expansion-s7-s10.js` - source-reviewed S7-S10 expansion loaded after the original cards to preserve progress IDs.
 - `docs/downloads/Electrotechnology_教材全解_合订版.pdf` - generated textbook explanation PDF.
 - `.github/workflows/pages.yml` - automatic GitHub Pages deployment from `docs/`.
 - `output/learning_package_official/` - official knowledge-card package and course support materials.
