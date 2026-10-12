@@ -1,6 +1,6 @@
 # Electrotechnology
 
-Electrotechnology official practice question bank and local DeepTutor support scripts.
+Electrotechnology course-wide knowledge cards and local DeepTutor support scripts.
 
 ## Static Website
 
@@ -8,7 +8,7 @@ GitHub Pages entry point:
 
 https://charmingcaiusyd.github.io/Electrotechnology/
 
-The hosted practice interface lives in `docs/index.html`. It contains the official 3000-question bank UI with selectable questions, answer checking, progress tracking, and module filtering.
+The hosted learning interface lives in `docs/index.html`. It contains 453 S1-S10 knowledge cards with topic search, core/detail filters, remembered/forgotten tracking, forgotten-card review, and progress import/export.
 
 Download the generated textbook explanation PDF:
 
@@ -16,10 +16,11 @@ https://charmingcaiusyd.github.io/Electrotechnology/downloads/Electrotechnology_
 
 ## Repository Contents
 
-- `docs/index.html` - GitHub Pages static site entry.
+- `docs/index.html` - GitHub Pages knowledge-card entry.
+- `docs/cards-data.js` - course-wide knowledge-card data.
 - `docs/downloads/Electrotechnology_教材全解_合订版.pdf` - generated textbook explanation PDF.
 - `.github/workflows/pages.yml` - automatic GitHub Pages deployment from `docs/`.
-- `output/learning_package_official/` - official generated learning package and question bank exports.
+- `output/learning_package_official/` - official knowledge-card package and course support materials.
 - `output/pdf/` - generated PDF study materials.
 - `scripts/` - local generation and DeepTutor helper scripts.
 - `Start_DeepTutor.bat` / `Stop_DeepTutor.bat` - local launcher helpers.

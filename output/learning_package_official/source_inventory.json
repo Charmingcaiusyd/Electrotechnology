@@ -1,14 +1,16 @@
 {
-  "official_official_package": {
-    "path": "D:\\Backup\\Documents\\EC\\output\\learning_package_official",
-    "exists": true
+  "primary_source": "Electrotechnology Practical Study Pack V04 Refined Edition",
+  "modules": {
+    "S1": "Risk management, electrical hazards, isolation, instruments and worksite safety",
+    "S2": "Measuring, marking, holding/cutting, drilling, threading, hand/power tools and joining",
+    "S3": "Fixings, supports, adhesives, materials, heritage and environmental considerations",
+    "S4": "Construction drawings, symbols, schedules, lighting control and polarity/earthing concepts",
+    "S5": "Control circuits, relays, contactors, latching and interlocking",
+    "S6": "Three-phase motors, DOL/reversing starters, overload protection and fault finding",
+    "S7": "Conductors, terminations, cable construction and wiring enclosures",
+    "S8": "Installation verification, continuity/insulation/polarity tests, records and fault finding",
+    "S9": "Conduit, wiring enclosures, bending/support and route planning",
+    "S10": "Load/current, cable selection, voltage drop and protective-device coordination"
   },
-  "official_html_question_bank": {
-    "path": "D:\\Backup\\Documents\\EC\\output\\learning_package_official\\html\\question_bank.html",
-    "exists": true
-  },
-  "all_questions_export": "D:\\Backup\\Documents\\EC\\output\\learning_package_official\\exports\\all_questions.json",
-  "module_question_banks": "D:\\Backup\\Documents\\EC\\output\\learning_package_official\\modules",
-  "final_exam": "D:\\Backup\\Documents\\EC\\output\\learning_package_official\\assessments\\final_exam.json",
-  "student_facing_status": "??? is the only retained output version under D:\\Backup\\Documents\\EC\\output."
+  "scope_note": "Card citations identify the course module or specific Study Pack pages where available. Supporting module lessons are retained; unsupported universal numeric claims have been excluded or caveated."
 }

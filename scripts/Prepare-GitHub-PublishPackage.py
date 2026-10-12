@@ -9,7 +9,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 PACKAGE = ROOT / ".publish" / "Electrotechnology"
 OFFICIAL_PACKAGE = ROOT / "output" / "learning_package_official"
-OFFICIAL_HTML = OFFICIAL_PACKAGE / "html" / "question_bank.html"
+OFFICIAL_HTML = OFFICIAL_PACKAGE / "html" / "index.html"
+OFFICIAL_CARD_DATA = OFFICIAL_PACKAGE / "html" / "cards-data.js"
 EXPLANATION_PDF = ROOT / "output" / "pdf" / "Electrotechnology_教材全解_合订版.pdf"
 
 SECRET_RE = re.compile(rb"sk-[A-Za-z0-9_-]{16,}")
@@ -86,7 +87,9 @@ def clear_package_contents(path: Path) -> None:
 
 def create_package() -> None:
     if not OFFICIAL_HTML.exists():
-        raise FileNotFoundError(f"Official question bank not found: {OFFICIAL_HTML}")
+        raise FileNotFoundError(f"Official knowledge-card entry not found: {OFFICIAL_HTML}")
+    if not OFFICIAL_CARD_DATA.exists():
+        raise FileNotFoundError(f"Knowledge-card data not found: {OFFICIAL_CARD_DATA}")
 
     assert_safe_package_dir(PACKAGE)
     if PACKAGE.exists():
@@ -99,10 +102,8 @@ def create_package() -> None:
     copy_file(ROOT / "Stop_DeepTutor.bat", PACKAGE / "Stop_DeepTutor.bat")
 
     scripts = [
-        "Build-Official-QuestionBank-Viewer.py",
         "LocalEmbeddingServer.py",
         "Prepare-GitHub-PublishPackage.py",
-        "Repair-S1-QuestionBank.py",
         "Set-DeepSeek-API-Key.ps1",
         "Start-DeepTutor.ps1",
         "Stop-DeepTutor.ps1",
@@ -114,6 +115,7 @@ def create_package() -> None:
     copy_tree(OFFICIAL_PACKAGE, PACKAGE / "output" / "learning_package_official")
 
     copy_file(OFFICIAL_HTML, PACKAGE / "docs" / "index.html")
+    copy_file(OFFICIAL_CARD_DATA, PACKAGE / "docs" / "cards-data.js")
     write_text(PACKAGE / "docs" / ".nojekyll", "")
     if EXPLANATION_PDF.exists():
         copy_file(EXPLANATION_PDF, PACKAGE / "docs" / "downloads" / EXPLANATION_PDF.name)
@@ -199,7 +201,7 @@ __pycache__/
         PACKAGE / "README.md",
         """# Electrotechnology
 
-Electrotechnology official practice question bank and local DeepTutor support scripts.
+Electrotechnology course-wide knowledge cards and local DeepTutor support scripts.
 
 ## Static Website
 
@@ -207,7 +209,7 @@ GitHub Pages entry point:
 
 https://charmingcaiusyd.github.io/Electrotechnology/
 
-The hosted practice interface lives in `docs/index.html`. It contains the official 3000-question bank UI with selectable questions, answer checking, progress tracking, and module filtering.
+The hosted learning interface lives in `docs/index.html`. It contains 453 S1-S10 knowledge cards with topic search, core/detail filters, remembered/forgotten tracking, forgotten-card review, and progress import/export.
 
 Download the generated textbook explanation PDF:
 
@@ -215,10 +217,11 @@ https://charmingcaiusyd.github.io/Electrotechnology/downloads/Electrotechnology_
 
 ## Repository Contents
 
-- `docs/index.html` - GitHub Pages static site entry.
+- `docs/index.html` - GitHub Pages knowledge-card entry.
+- `docs/cards-data.js` - course-wide knowledge-card data.
 - `docs/downloads/Electrotechnology_教材全解_合订版.pdf` - generated textbook explanation PDF.
 - `.github/workflows/pages.yml` - automatic GitHub Pages deployment from `docs/`.
-- `output/learning_package_official/` - official generated learning package and question bank exports.
+- `output/learning_package_official/` - official knowledge-card package and course support materials.
 - `output/pdf/` - generated PDF study materials.
 - `scripts/` - local generation and DeepTutor helper scripts.
 - `Start_DeepTutor.bat` / `Stop_DeepTutor.bat` - local launcher helpers.

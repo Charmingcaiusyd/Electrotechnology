@@ -1,26 +1,13 @@
-# Official Question Bank Status
+# Knowledge Card Edition
 
-Generated on: 2026-07-26
+The student-facing release has been replaced by a course-wide flashcard study mode.
 
-## Output
+- Modules covered: S1-S10.
+- Knowledge cards: 453.
+- Old 3,000-question exports, per-module quiz files, final exam, question-bank viewer, and seed-question exports have been removed from this release.
+- Student entry: `html/index.html`.
+- Offline data file: `html/cards-data.js`.
+- Progress: browser-local, with JSON export/import.
+- Review notes: `knowledge_cards_review.md`.
 
-- Optimized package: `D:\Backup\Documents\EC\output\learning_package_official`
-- HTML viewer: `html/question_bank.html`
-- All questions export: `exports/all_questions.json`
-- DeepSeek rewrite report: `audit/deepseek_rewrite_report.md`
-
-## Verified
-
-- Total questions: 3000
-- DeepSeek rewritten questions: 87
-- Fallback rewritten questions: 0
-- Unresolved source mismatch flags: 0
-- Exact duplicate questions: 0
-- Duplicate variants resolved: 4
-- MC answer key errors: 0
-
-## Official Version Cleanup
-
-- ??? is now the only retained output version under `D:\Backup\Documents\EC\output`.
-- Earlier output versions and legacy HTML viewers were removed on 2026-07-26.
-- Student-facing HTML entry remains `html/question_bank.html`.
+Course lessons and video scripts are retained as supplementary study materials, not as a replacement for the source-mapped cards or current standards. See `knowledge_cards_review.md` for the chapter map and review limits. Unsupported fixed testing thresholds and installation dimensions in older lesson prose are not general requirements. Safety, compliance, cable-sizing, and product-specific values must be checked against current local requirements before practical use.
